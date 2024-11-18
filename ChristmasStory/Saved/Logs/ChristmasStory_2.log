@@ -14152,3 +14152,86 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.18-22.02.41:960][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 448 ms)
 [2024.11.18-22.02.41:966][337]AssetCheck: New page: Asset Save: PruebasFeli
 [2024.11.18-22.02.41:966][337]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasFeli.PruebasFeli
+[2024.11.18-22.03.22:502][966]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.18-22.03.22:508][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.18-22.03.22:508][966]PIE: New page: PIE session: PruebasFeli (18 nov. 2024 16:03:22)
+[2024.11.18-22.03.22:539][966]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasFeli
+[2024.11.18-22.03.22:601][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063392s)
+[2024.11.18-22.03.22:601][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasFeli.PruebasFeli to /Game/Maps/UEDPIE_0_PruebasFeli.PruebasFeli (0.063442s)
+[2024.11.18-22.03.22:601][966]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.18-22.03.22:601][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.18-22.03.22:602][966]LogAIModule: Creating AISystem for world PruebasFeli
+[2024.11.18-22.03.22:602][966]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2024.11.18-22.03.22:624][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.11.18-22.03.22:625][966]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2024.11.18-22.03.22:625][966]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.18-22.03.22:625][966]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.18-22.03.22:625][966]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.18-22.03.22:625][966]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.18-22.03.22:625][966]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.18-22.03.22:625][966]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.18-22.03.22:625][966]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.18-22.03.22:625][966]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.18-22.03.22:626][966]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.18-22.03.22:626][966]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.18-22.03.22:626][966]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.18-22.03.22:628][966]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.18-22.03.22:650][966]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (USB Audio Device)
+[2024.11.18-22.03.22:650][966]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.18-22.03.22:650][966]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.18-22.03.22:651][966]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.18-22.03.22:651][966]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2024.11.18-22.03.22:651][966]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2024.11.18-22.03.22:653][966]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2024.11.18-22.03.22:653][966]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2024.11.18-22.03.22:653][966]LogInit: FAudioDevice initialized with ID 34.
+[2024.11.18-22.03.22:653][966]LogAudio: Display: Audio Device (ID: 34) registered with world 'PruebasFeli'.
+[2024.11.18-22.03.22:653][966]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2024.11.18-22.03.22:656][966]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.18-22.03.22:658][966]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasFeli.PruebasFeli up for play (max tick rate 0) at 2024.11.18-19.03.22
+[2024.11.18-22.03.22:659][966]LogWorld: Bringing up level for play took: 0.002306
+[2024.11.18-22.03.22:660][966]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.11.18-22.03.22:663][966]PIE: Server logged in
+[2024.11.18-22.03.22:663][966]PIE: Play in editor total start time 0,156 seconds.
+[2024.11.18-22.03.22:708][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.22:709][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.22:709][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.22:709][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.22:710][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.22:710][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.22:711][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.22:711][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.22:711][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.22:712][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.22:712][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.22:712][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.22:714][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.48:789][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.18-22.03.48:789][ 88]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasFeli
+[2024.11.18-22.03.48:789][ 88]LogWorld: UWorld::CleanupWorld for PruebasFeli, bSessionEnded=true, bCleanupResources=true
+[2024.11.18-22.03.48:789][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.18-22.03.48:792][ 88]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.18-22.03.48:796][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.18-22.03.48:819][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.18-22.03.48:820][ 88]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2024.11.18-22.03.48:820][ 88]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.11.18-22.03.48:821][ 88]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.11.18-22.03.48:827][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.11.18-22.03.48:855][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.48:856][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.48:856][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.48:856][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.48:857][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.48:857][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.48:857][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.48:858][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.48:858][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.48:858][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.48:859][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.48:859][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.48:861][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.18-22.03.48:879][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.11.18-22.05.18:777][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.11.18-22.05.20:294][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.11.18-22.05.20:924][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.11.18-22.05.21:078][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
