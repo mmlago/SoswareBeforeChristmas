@@ -14235,3 +14235,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.18-22.05.20:294][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
 [2024.11.18-22.05.20:924][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
 [2024.11.18-22.05.21:078][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.11.18-22.12.10:431][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.18-22.12.10:508][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.11.18-22.12.10:559][614]LogSavePackage: Moving output files for package: /Game/Maps/PruebasFeli
+[2024.11.18-22.12.10:559][614]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasFeli3529D86241C1457C832D36ADA40AD605.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasFeli.umap'
+[2024.11.18-22.12.10:566][614]LogFileHelpers: Saving map 'PruebasFeli' took 0.083
+[2024.11.18-22.12.10:572][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 590 ms)
+[2024.11.18-22.12.10:579][614]AssetCheck: New page: Asset Save: PruebasFeli
+[2024.11.18-22.12.10:579][614]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasFeli.PruebasFeli
+[2024.11.18-22.12.12:670][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
