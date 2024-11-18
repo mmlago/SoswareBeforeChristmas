@@ -1478,3 +1478,37 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.18-17.43.26:741][106]LogSlate: Window 'Outliner 2' being destroyed
 [2024.11.18-17.43.26:746][106]LogSlate: Window 'Outliner 2' being destroyed
 [2024.11.18-17.43.33:170][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.11.18-17.44.23:832][970]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.18-17.44.23:838][970]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.18-17.44.30:665][683]LogViewport: Scene viewport resized to 1238x894, mode Windowed.
+[2024.11.18-17.44.30:695][685]LogViewport: Scene viewport resized to 1225x894, mode Windowed.
+[2024.11.18-17.44.30:724][687]LogViewport: Scene viewport resized to 1201x894, mode Windowed.
+[2024.11.18-17.44.30:765][689]LogViewport: Scene viewport resized to 1163x894, mode Windowed.
+[2024.11.18-17.44.30:782][690]LogViewport: Scene viewport resized to 1151x894, mode Windowed.
+[2024.11.18-17.44.30:830][691]LogViewport: Scene viewport resized to 1122x894, mode Windowed.
+[2024.11.18-17.44.30:859][692]LogViewport: Scene viewport resized to 1107x894, mode Windowed.
+[2024.11.18-17.44.30:934][694]LogViewport: Scene viewport resized to 1074x894, mode Windowed.
+[2024.11.18-17.44.30:975][696]LogViewport: Scene viewport resized to 1041x894, mode Windowed.
+[2024.11.18-17.44.31:026][698]LogViewport: Scene viewport resized to 989x894, mode Windowed.
+[2024.11.18-17.44.31:071][700]LogViewport: Scene viewport resized to 937x894, mode Windowed.
+[2024.11.18-17.44.31:127][702]LogViewport: Scene viewport resized to 899x894, mode Windowed.
+[2024.11.18-17.44.31:156][704]LogViewport: Scene viewport resized to 880x894, mode Windowed.
+[2024.11.18-17.44.31:198][706]LogViewport: Scene viewport resized to 852x894, mode Windowed.
+[2024.11.18-17.44.31:226][708]LogViewport: Scene viewport resized to 840x894, mode Windowed.
+[2024.11.18-17.44.31:249][710]LogViewport: Scene viewport resized to 830x894, mode Windowed.
+[2024.11.18-17.44.31:276][712]LogViewport: Scene viewport resized to 820x894, mode Windowed.
+[2024.11.18-17.44.31:303][714]LogViewport: Scene viewport resized to 807x894, mode Windowed.
+[2024.11.18-17.44.31:330][716]LogViewport: Scene viewport resized to 795x894, mode Windowed.
+[2024.11.18-17.44.31:355][718]LogViewport: Scene viewport resized to 790x894, mode Windowed.
+[2024.11.18-17.44.31:380][720]LogViewport: Scene viewport resized to 789x894, mode Windowed.
+[2024.11.18-17.44.33:400][960]LogViewport: Scene viewport resized to 790x894, mode Windowed.
+[2024.11.18-17.44.33:425][962]LogViewport: Scene viewport resized to 802x894, mode Windowed.
+[2024.11.18-17.44.33:453][964]LogViewport: Scene viewport resized to 834x894, mode Windowed.
+[2024.11.18-17.44.33:470][965]LogViewport: Scene viewport resized to 871x894, mode Windowed.
+[2024.11.18-17.44.33:503][967]LogViewport: Scene viewport resized to 954x894, mode Windowed.
+[2024.11.18-17.44.33:532][969]LogViewport: Scene viewport resized to 1044x894, mode Windowed.
+[2024.11.18-17.44.33:563][971]LogViewport: Scene viewport resized to 1133x894, mode Windowed.
+[2024.11.18-17.44.33:593][973]LogViewport: Scene viewport resized to 1197x894, mode Windowed.
+[2024.11.18-17.44.33:622][975]LogViewport: Scene viewport resized to 1238x894, mode Windowed.
+[2024.11.18-17.44.33:651][977]LogViewport: Scene viewport resized to 1240x894, mode Windowed.
+[2024.11.18-17.45.15:830][124]LogDerivedDataCache: C:/Users/matul/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.123 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2929 files in 4376 folders with total size 215 MiB.
