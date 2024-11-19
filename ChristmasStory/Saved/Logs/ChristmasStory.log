@@ -5929,3 +5929,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.19-21.11.19:379][527]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Materiales/blue_painted_planks_rough_2k.blue_painted_planks_rough_2k
 [2024.11.19-21.11.19:379][527]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Materiales/blue_painted_planks_diff_2k.blue_painted_planks_diff_2k
 [2024.11.19-21.11.19:386][528]LogAutomationController: Ignoring very large delta of 2.37 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.19-21.19.43:453][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.11.19-21.19.44:124][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.11.19-21.19.44:271][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.11.19-21.19.44:406][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
