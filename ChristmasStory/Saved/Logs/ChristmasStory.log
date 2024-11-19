@@ -5160,3 +5160,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.19-23.20.55:277][242]AssetCheck: New page: Asset Save: multiple assets
 [2024.11.19-23.20.55:277][242]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
 [2024.11.19-23.20.55:277][242]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMaxi.PruebasMaxi
+[2024.11.19-23.21.29:460][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
