@@ -12408,3 +12408,28 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.19-20.23.21:303][475]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.11.19-20.23.21:303][475]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.11.19-20.23.21:323][476]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.11.19-20.24.11:253][873]LogDerivedDataCache: C:/Users/Pepon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.228 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7789 files in 9981 folders with total size 2021 MiB.
+[2024.11.19-20.24.13:214][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.11.19-20.24.13:224][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.11.19-20.24.14:475][ 51]LogSlate: Window 'Save Content' being destroyed
+[2024.11.19-20.24.14:488][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-20.24.14:552][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.11.19-20.24.14:642][ 51]LogSavePackage: Moving output files for package: /Game/Maps/PruebasFeli
+[2024.11.19-20.24.14:643][ 51]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasFeliA4E5D9C5432935736C45E5911E5CAEA5.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasFeli.umap'
+[2024.11.19-20.24.14:650][ 51]LogFileHelpers: Saving map 'PruebasFeli' took 0.106
+[2024.11.19-20.24.14:801][ 51]LogSavePackage: Moving output files for package: /Game/MATERIALES/textures/wood_cabinet_worn_long_diff_4k
+[2024.11.19-20.24.14:801][ 51]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/wood_cabinet_worn_long_diff_4k2610A18043DC24AF8A8E91814D4198C5.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/MATERIALES/textures/wood_cabinet_worn_long_diff_4k.uasset'
+[2024.11.19-20.24.15:643][ 51]LogSavePackage: Moving output files for package: /Game/MATERIALES/textures/wood_cabinet_worn_long_disp_4k
+[2024.11.19-20.24.15:643][ 51]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/wood_cabinet_worn_long_disp_4kD396C45C4C18EFCC1D23B4A4C44F19AB.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/MATERIALES/textures/wood_cabinet_worn_long_disp_4k.uasset'
+[2024.11.19-20.24.15:994][ 51]LogSavePackage: Moving output files for package: /Game/MATERIALES/textures/wood_cabinet_worn_long_nor_gl_4k
+[2024.11.19-20.24.15:994][ 51]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/wood_cabinet_worn_long_nor_gl_4k7E73CE9B4075FD5C4CC9B5A714B01CE4.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/MATERIALES/textures/wood_cabinet_worn_long_nor_gl_4k.uasset'
+[2024.11.19-20.24.16:259][ 51]LogSavePackage: Moving output files for package: /Game/MATERIALES/textures/wood_cabinet_worn_long_rough_4k
+[2024.11.19-20.24.16:259][ 51]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/wood_cabinet_worn_long_rough_4kBADF9144462437358FDE229DEA14E40F.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/MATERIALES/textures/wood_cabinet_worn_long_rough_4k.uasset'
+[2024.11.19-20.24.16:265][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.77 sec (total: 15.0 sec)
+[2024.11.19-20.24.16:276][ 51]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.19-20.24.16:276][ 51]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasFeli.PruebasFeli
+[2024.11.19-20.24.16:276][ 51]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATERIALES/textures/wood_cabinet_worn_long_rough_4k.wood_cabinet_worn_long_rough_4k
+[2024.11.19-20.24.16:276][ 51]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATERIALES/textures/wood_cabinet_worn_long_nor_gl_4k.wood_cabinet_worn_long_nor_gl_4k
+[2024.11.19-20.24.16:276][ 51]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATERIALES/textures/wood_cabinet_worn_long_disp_4k.wood_cabinet_worn_long_disp_4k
+[2024.11.19-20.24.16:276][ 51]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MATERIALES/textures/wood_cabinet_worn_long_diff_4k.wood_cabinet_worn_long_diff_4k
+[2024.11.19-20.24.16:288][ 52]LogAutomationController: Ignoring very large delta of 3.08 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
