@@ -6600,3 +6600,343 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.19-22.59.56:404][  6]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
 [2024.11.19-22.59.56:404][  6]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ObjetosCasa/Box_Brush56_StaticMesh_.Box_Brush56_StaticMesh_
 [2024.11.19-22.59.56:404][  6]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ObjetosCasa/Box_Brush57_StaticMesh.Box_Brush57_StaticMesh
+[2024.11.19-23.03.19:623][786]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.11.19-23.03.19:651][786]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.11.19-23.03.19:666][787]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.11.19-23.03.24:714][250]LogContentBrowser: Attempting asset rename: NewMaterial -> ParedInterior
+[2024.11.19-23.03.24:715][250]LogContentBrowser: End creating deferred item NewMaterial
+[2024.11.19-23.03.31:394][419]LogInterchangeEngine: [Pending] Importing
+[2024.11.19-23.03.31:394][419]LogInterchangeEngine: Display: Interchange start importing source [D:/Arte 3D/Text...terior/texturesleather_white_diff_2k.jpg]
+[2024.11.19-23.03.31:394][419]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.11.19-23.03.31:395][419]LogInterchangeImport: JPEG file [D:/Arte 3D/Texturas Unreal/PAred interior/textures/leather_white_diff_2k.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.11.19-23.03.31:468][420]LogInterchangeEngine: [Success] Import Done
+[2024.11.19-23.03.31:468][420]LogInterchangeEngine: [Pending] Importing
+[2024.11.19-23.03.31:468][420]LogInterchangeEngine: Display: Interchange start importing source [D:/Arte 3D/Text...terior/texturesleather_white_rough_2k.exr]
+[2024.11.19-23.03.31:471][420]LogInterchangeEngine: [Success] Import Done
+[2024.11.19-23.03.31:484][420]LogInterchangeEngine: [Pending] Importing
+[2024.11.19-23.03.31:516][420]LogTexture: Display: Building textures: /Game/Materiales/leather_white_diff_2k.leather_white_diff_2k (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.11.19-23.03.31:835][421]LogTexture: Display: Building textures: /Game/Materiales/leather_white_rough_2k.leather_white_rough_2k (RGBA16F, 2048x2048 x1x1x1) (Required Memory Estimate: 136.062492 MB), EncodeSpeed: Fast
+[2024.11.19-23.03.32:066][421]LogInterchangeEngine: [Success] Import Done
+[2024.11.19-23.03.32:200][422]LogInterchangeEngine: [Success] Import Done
+[2024.11.19-23.03.37:999][879]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materiales/ParedInterior.ParedInterior
+[2024.11.19-23.03.38:003][879]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.19-23.03.38:003][879]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.19-23.03.38:098][879]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-23.03.38:098][879]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.19-23.03.38:098][879]MaterialEditorStats: Shader Count: 0
+[2024.11.19-23.03.38:103][879]LogViewport: Scene viewport resized to 376x456, mode Windowed.
+[2024.11.19-23.03.38:140][880]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: ================================================
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: Total job queries 735, among them cache hits 281 (38.23%)
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: Tracking 451 distinct input hashes that result in 55 distinct outputs (12.20%)
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: RAM used: 8,95 MiB of 819,20 MiB budget. Usage: 1.09%
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: Shaders Compiled: 222
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: Jobs assigned 224, completed 222 (99.11%)
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: Average time worker was idle: 53.53 s
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: Time job spent in pending queue: average 0.99 s, longest 11.40 s
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: Job execution time: average 0.69 s, max 9.79 s
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: Job life time (pending + execution): average 1.67 s, max 12.01
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 84.32 s
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: Jobs were issued in 224 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: Average processing rate: 2.63 jobs/sec
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: Total thread time: 107,951 s
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: Total thread preprocess time: 4,329 s
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: Percentage time preprocessing: 4.01%
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: Effective parallelization: 1.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   44 times, average 0.61 sec, max 0.81 sec, min 0.47 sec)
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   45 times, average 0.55 sec, max 0.73 sec, min 0.42 sec)
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    6 times, average 0.54 sec, max 0.56 sec, min 0.53 sec)
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    6 times, average 0.52 sec, max 0.53 sec, min 0.52 sec)
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    6 times, average 0.52 sec, max 0.54 sec, min 0.51 sec)
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.71% of total time (compiled   44 times, average 0.61 sec, max 0.81 sec, min 0.47 sec)
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.79% of total time (compiled   45 times, average 0.55 sec, max 0.73 sec, min 0.42 sec)
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.10% of total time (compiled   28 times, average 0.47 sec, max 0.71 sec, min 0.36 sec)
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.83% of total time (compiled   28 times, average 0.34 sec, max 0.52 sec, min 0.27 sec)
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 3.00% of total time (compiled    6 times, average 0.54 sec, max 0.56 sec, min 0.53 sec)
+[2024.11.19-23.03.40:604][149]LogShaderCompilers: Display: ================================================
+[2024.11.19-23.03.40:631][150]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.11.19-23.03.40:631][150]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-23.03.40:631][150]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.19-23.03.40:631][150]MaterialEditorStats: Shader Count: 1
+[2024.11.19-23.03.40:726][158]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.11.19-23.03.40:726][158]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.11.19-23.03.40:726][158]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.19-23.03.40:726][158]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.19-23.03.40:726][158]MaterialEditorStats: Shader Count: 2
+[2024.11.19-23.03.42:925][374]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-23.03.42:925][374]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.19-23.03.42:925][374]MaterialEditorStats: Shader Count: 0
+[2024.11.19-23.03.43:730][466]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.11.19-23.03.43:731][466]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.11.19-23.03.43:731][466]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.19-23.03.43:731][466]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.19-23.03.43:731][466]MaterialEditorStats: Shader Count: 2
+[2024.11.19-23.03.46:676][805]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-23.03.46:676][805]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.19-23.03.46:676][805]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.19-23.03.46:676][805]MaterialEditorStats: Shader Count: 0
+[2024.11.19-23.03.47:408][888]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.19-23.03.47:408][888]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-23.03.47:408][888]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.19-23.03.47:408][888]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.19-23.03.47:408][888]MaterialEditorStats: Shader Count: 1
+[2024.11.19-23.03.47:518][901]MaterialEditorStats: Base pass shader: 229 instructions
+[2024.11.19-23.03.47:518][901]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.19-23.03.47:518][901]MaterialEditorStats: Texture samplers: 5/16
+[2024.11.19-23.03.47:518][901]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.19-23.03.47:518][901]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.19-23.03.47:518][901]MaterialEditorStats: Shader Count: 2
+[2024.11.19-23.03.52:128][423]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-23.03.52:128][423]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.19-23.03.52:128][423]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.19-23.03.52:128][423]MaterialEditorStats: Shader Count: 0
+[2024.11.19-23.03.52:769][495]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.19-23.03.52:769][495]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-23.03.52:769][495]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.19-23.03.52:769][495]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.19-23.03.52:769][495]MaterialEditorStats: Shader Count: 1
+[2024.11.19-23.03.52:879][508]MaterialEditorStats: Base pass shader: 232 instructions
+[2024.11.19-23.03.52:879][508]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.19-23.03.52:879][508]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.19-23.03.52:879][508]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.19-23.03.52:879][508]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.19-23.03.52:879][508]MaterialEditorStats: Shader Count: 2
+[2024.11.19-23.03.53:812][611]LogMaterialEditor: Saving and Compiling material ParedInterior
+[2024.11.19-23.03.54:365][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.11.19-23.03.55:038][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.11.19-23.03.55:046][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-23.03.57:123][611]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.11.19-23.03.59:007][611]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003013s (1.885044s overbudget)
+[2024.11.19-23.03.59:016][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materiales/ParedInterior" FILE="../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Materiales/ParedInterior.uasset" SILENT=true
+[2024.11.19-23.03.59:018][611]LogSavePackage: Moving output files for package: /Game/Materiales/ParedInterior
+[2024.11.19-23.03.59:018][611]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/ParedInterior480044CB4AB2880FCBE4A0A790CDA3D6.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Materiales/ParedInterior.uasset'
+[2024.11.19-23.03.59:024][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.97 sec (total: 36.0 sec)
+[2024.11.19-23.03.59:028][611]AssetCheck: New page: Asset Save: ParedInterior
+[2024.11.19-23.03.59:028][611]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materiales/ParedInterior.ParedInterior
+[2024.11.19-23.03.59:029][611]MaterialEditorStats: Base pass shader: 232 instructions
+[2024.11.19-23.03.59:029][611]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.19-23.03.59:029][611]MaterialEditorStats: MaxSampler: 281 instructions
+[2024.11.19-23.03.59:029][611]MaterialEditorStats: Texture samplers: 7/16
+[2024.11.19-23.03.59:029][611]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.19-23.03.59:029][611]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.19-23.03.59:029][611]MaterialEditorStats: Shader Count: 16
+[2024.11.19-23.03.59:047][612]LogAutomationController: Ignoring very large delta of 5.24 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.19-23.04.14:837][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-23.04.14:838][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-23.04.14:838][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-23.04.43:133][454]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-23.04.43:133][454]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-23.04.43:134][454]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-23.04.47:287][800]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-23.04.47:288][800]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-23.04.47:288][800]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-23.04.53:944][347]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-23.04.53:945][347]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-23.04.53:945][347]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-23.05.24:863][ 97]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.ViewDistanceScale:0.8]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.LightFunctionQuality:1]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.CapsuleShadows:1]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-0.5]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.DistanceFieldAO:1]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2024.11.19-23.05.24:863][ 97]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.Streaming.Boost:1]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.Streaming.PoolSize:800]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.DetailMode:1]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.11.19-23.05.24:864][ 97]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2024.11.19-23.05.24:864][ 97]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2024.11.19-23.05.25:389][ 97]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.11.19-23.05.25:395][ 97]LogContentStreaming: Texture pool size now 800 MB
+[2024.11.19-23.05.33:369][246]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.SkeletalMeshLODBias:2]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.ViewDistanceScale:0.4]]
+[2024.11.19-23.05.33:369][246]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.FXAA.Quality:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.TemporalAA.Quality:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.LightFunctionQuality:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.ShadowQuality:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Shadow.MaxResolution:512]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:512]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.6]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.CapsuleShadows:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2024.11.19-23.05.33:369][246]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.DistanceFieldAO:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.SSR.Quality:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.MotionBlurQuality:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.AmbientOcclusionLevels:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.DepthOfFieldQuality:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.RenderTargetPoolMin:300]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:25.000]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.FastBlurThreshold:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Upscale.Quality:1]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Tonemapper.GrainQuantization:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Filter.SizeScale:0.6]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Tonemapper.Quality:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Streaming.MipBias:16]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.Streaming.Boost:0.3]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.MaxAnisotropy:0]]
+[2024.11.19-23.05.33:369][246]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.Streaming.PoolSize:400]]
+[2024.11.19-23.05.33:370][246]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.DetailMode:0]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.SSS.Scale:0]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.SSGI.Quality:0]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.125]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[fx.Niagara.QualityLevel:0]]
+[2024.11.19-23.05.33:370][246]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[foliage.DensityScale:0]]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[grass.DensityScale:0]]
+[2024.11.19-23.05.33:370][246]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2024.11.19-23.05.33:370][246]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2024.11.19-23.05.33:370][246]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2024.11.19-23.05.33:425][246]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.11.19-23.05.33:648][251]LogContentStreaming: Texture pool size now 400 MB
+[2024.11.19-23.05.43:099][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.11.19-23.05.43:113][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.11.19-23.05.44:394][ 20]LogSlate: Window 'Save Content' being destroyed
+[2024.11.19-23.05.44:404][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-23.05.44:460][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.11.19-23.05.44:542][ 20]LogSavePackage: Moving output files for package: /Game/Maps/PruebasMauri
+[2024.11.19-23.05.44:543][ 20]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasMauri74F85D6C4AB2C946F96A39AA04A37EA0.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasMauri.umap'
+[2024.11.19-23.05.44:552][ 20]LogFileHelpers: Saving map 'PruebasMauri' took 0.101
+[2024.11.19-23.05.44:559][ 20]LogSavePackage: Moving output files for package: /Game/Materiales/leather_white_diff_2k
+[2024.11.19-23.05.44:559][ 20]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/leather_white_diff_2k8F5E25524945FADE2A0B2AB28CAB8A2E.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Materiales/leather_white_diff_2k.uasset'
+[2024.11.19-23.05.44:603][ 20]LogSavePackage: Moving output files for package: /Game/Materiales/leather_white_rough_2k
+[2024.11.19-23.05.44:603][ 20]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/leather_white_rough_2kA52362C34A2727B17C0EFDAA4732483E.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Materiales/leather_white_rough_2k.uasset'
+[2024.11.19-23.05.44:611][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 36.2 sec)
+[2024.11.19-23.05.44:614][ 20]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.19-23.05.44:614][ 20]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
+[2024.11.19-23.05.44:614][ 20]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Materiales/leather_white_rough_2k.leather_white_rough_2k
+[2024.11.19-23.05.44:614][ 20]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Materiales/leather_white_diff_2k.leather_white_diff_2k
