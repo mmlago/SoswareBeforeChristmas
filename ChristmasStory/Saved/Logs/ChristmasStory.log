@@ -5933,3 +5933,18 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.19-21.19.44:124][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
 [2024.11.19-21.19.44:271][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
 [2024.11.19-21.19.44:406][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.11.19-21.19.59:911][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-21.19.59:911][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-21.19.59:912][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-21.19.59:912][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-21.19.59:913][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-21.20.02:399][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-21.20.02:468][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.11.19-21.20.02:562][838]LogSavePackage: Moving output files for package: /Game/Maps/PruebasMauri
+[2024.11.19-21.20.02:563][838]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasMauri5C887F29463B1C64712884B33EBB6D4C.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasMauri.umap'
+[2024.11.19-21.20.02:570][838]LogFileHelpers: Saving map 'PruebasMauri' took 0.112
+[2024.11.19-21.20.02:577][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 34.7 sec)
+[2024.11.19-21.20.02:583][838]AssetCheck: New page: Asset Save: PruebasMauri
+[2024.11.19-21.20.02:583][838]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
+[2024.11.19-21.20.04:717][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.11.19-21.20.06:016][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
