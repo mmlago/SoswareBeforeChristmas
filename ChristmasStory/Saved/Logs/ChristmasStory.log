@@ -4674,3 +4674,729 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.19-22.32.14:178][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
 [2024.11.19-22.32.14:775][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
 [2024.11.19-22.32.14:935][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.11.19-22.35.10:054][276]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.11.19-22.35.10:064][276]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.11.19-22.35.10:076][277]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.11.19-22.35.17:491][954]LogContentBrowser: Attempting asset rename: NewMaterial -> MaderaPared2
+[2024.11.19-22.35.17:492][954]LogContentBrowser: End creating deferred item NewMaterial
+[2024.11.19-22.35.24:638][191]LogInterchangeEngine: [Pending] Importing
+[2024.11.19-22.35.24:638][191]LogInterchangeEngine: Display: Interchange start importing source [D:/Arte 3D/Text...Pared2/texturesbrown_planks_05_diff_2k.jpg]
+[2024.11.19-22.35.24:639][191]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.11.19-22.35.24:640][191]LogInterchangeImport: JPEG file [D:/Arte 3D/Texturas Unreal/MaderaPared2/textures/brown_planks_05_diff_2k.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.11.19-22.35.24:706][192]LogInterchangeEngine: [Success] Import Done
+[2024.11.19-22.35.24:706][192]LogInterchangeEngine: [Pending] Importing
+[2024.11.19-22.35.24:706][192]LogInterchangeEngine: Display: Interchange start importing source [D:/Arte 3D/Text...Pared2/texturesbrown_planks_05_rough_2k.jpg]
+[2024.11.19-22.35.24:709][192]LogInterchangeEngine: [Success] Import Done
+[2024.11.19-22.35.24:722][192]LogInterchangeImport: JPEG file [D:/Arte 3D/Texturas Unreal/MaderaPared2/textures/brown_planks_05_rough_2k.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.11.19-22.35.24:725][192]LogInterchangeEngine: [Pending] Importing
+[2024.11.19-22.35.24:741][192]LogTexture: Display: Building textures: /Game/Materiales/brown_planks_05_diff_2k.brown_planks_05_diff_2k (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.11.19-22.35.25:065][193]LogTexture: Display: Building textures: /Game/Materiales/brown_planks_05_rough_2k.brown_planks_05_rough_2k (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.11.19-22.35.25:309][193]LogInterchangeEngine: [Success] Import Done
+[2024.11.19-22.35.25:442][194]LogInterchangeEngine: [Success] Import Done
+[2024.11.19-22.35.44:195][731]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materiales/MaderaPared2.MaderaPared2
+[2024.11.19-22.35.44:202][731]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.19-22.35.44:202][731]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.19-22.35.44:353][731]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-22.35.44:353][731]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.19-22.35.44:353][731]MaterialEditorStats: Shader Count: 0
+[2024.11.19-22.35.44:361][731]LogViewport: Scene viewport resized to 208x181, mode Windowed.
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: ================================================
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: Total job queries 441, among them cache hits 174 (39.46%)
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: Tracking 265 distinct input hashes that result in 40 distinct outputs (15.09%)
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: RAM used: 4,89 MiB of 819,20 MiB budget. Usage: 0.60%
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: Shaders Compiled: 39
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: Jobs assigned 41, completed 39 (95.12%)
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: Average time worker was idle: 221.68 s
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: Time job spent in pending queue: average 1.45 s, longest 11.40 s
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: Job execution time: average 1.07 s, max 9.79 s
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: Job life time (pending + execution): average 2.54 s, max 12.01
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 22.14 s
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: Jobs were issued in 41 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: Average processing rate: 1.76 jobs/sec
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: Total thread time: 18,702 s
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: Total thread preprocess time: 0,752 s
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: Percentage time preprocessing: 4.02%
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: Effective parallelization: 0.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.59 sec, max 0.81 sec, min 0.47 sec)
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    9 times, average 0.53 sec, max 0.73 sec, min 0.43 sec)
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 28.20% of total time (compiled    9 times, average 0.59 sec, max 0.81 sec, min 0.47 sec)
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 25.63% of total time (compiled    9 times, average 0.53 sec, max 0.73 sec, min 0.43 sec)
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.22% of total time (compiled    4 times, average 0.43 sec, max 0.47 sec, min 0.37 sec)
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.74% of total time (compiled    4 times, average 0.32 sec, max 0.35 sec, min 0.28 sec)
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 2.82% of total time (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2024.11.19-22.35.45:570][822]LogShaderCompilers: Display: ================================================
+[2024.11.19-22.35.45:578][823]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.11.19-22.35.45:578][823]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.11.19-22.35.45:578][823]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.19-22.35.45:578][823]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.19-22.35.45:578][823]MaterialEditorStats: Shader Count: 2
+[2024.11.19-22.35.46:368][880]LogViewport: Scene viewport resized to 207x193, mode Windowed.
+[2024.11.19-22.35.46:468][882]LogViewport: Scene viewport resized to 155x132, mode Windowed.
+[2024.11.19-22.35.46:501][883]LogViewport: Scene viewport resized to 151x128, mode Windowed.
+[2024.11.19-22.35.46:638][895]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.11.19-22.35.46:984][925]LogSlate: Window 'MaderaPared2' being destroyed
+[2024.11.19-22.35.46:990][925]LogViewport: Scene viewport resized to 376x475, mode Windowed.
+[2024.11.19-22.35.47:010][926]LogViewport: Scene viewport resized to 376x471, mode Windowed.
+[2024.11.19-22.35.47:028][927]LogViewport: Scene viewport resized to 376x467, mode Windowed.
+[2024.11.19-22.35.47:049][928]LogViewport: Scene viewport resized to 376x464, mode Windowed.
+[2024.11.19-22.35.47:073][929]LogViewport: Scene viewport resized to 376x459, mode Windowed.
+[2024.11.19-22.35.47:100][930]LogViewport: Scene viewport resized to 376x454, mode Windowed.
+[2024.11.19-22.35.47:128][931]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.11.19-22.35.58:840][299]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-22.35.58:841][299]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.19-22.35.58:841][299]MaterialEditorStats: Shader Count: 0
+[2024.11.19-22.35.59:496][373]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.11.19-22.35.59:497][373]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-22.35.59:497][373]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.19-22.35.59:497][373]MaterialEditorStats: Shader Count: 1
+[2024.11.19-22.35.59:596][385]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.11.19-22.35.59:597][385]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.11.19-22.35.59:597][385]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.19-22.35.59:597][385]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.19-22.35.59:597][385]MaterialEditorStats: Shader Count: 2
+[2024.11.19-22.36.03:021][779]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-22.36.03:021][779]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.19-22.36.03:021][779]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.19-22.36.03:021][779]MaterialEditorStats: Shader Count: 0
+[2024.11.19-22.36.03:725][859]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.19-22.36.03:725][859]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-22.36.03:725][859]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.19-22.36.03:725][859]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.19-22.36.03:725][859]MaterialEditorStats: Shader Count: 1
+[2024.11.19-22.36.03:825][871]MaterialEditorStats: Base pass shader: 229 instructions
+[2024.11.19-22.36.03:825][871]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.19-22.36.03:825][871]MaterialEditorStats: Texture samplers: 5/16
+[2024.11.19-22.36.03:825][871]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.19-22.36.03:825][871]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.19-22.36.03:825][871]MaterialEditorStats: Shader Count: 2
+[2024.11.19-22.36.13:259][914]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-22.36.13:259][914]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.19-22.36.13:260][914]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.19-22.36.13:260][914]MaterialEditorStats: Shader Count: 0
+[2024.11.19-22.36.13:990][998]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.19-22.36.13:990][998]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-22.36.13:990][998]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.19-22.36.13:990][998]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.19-22.36.13:990][998]MaterialEditorStats: Shader Count: 1
+[2024.11.19-22.36.14:091][ 10]MaterialEditorStats: Base pass shader: 232 instructions
+[2024.11.19-22.36.14:091][ 10]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.19-22.36.14:091][ 10]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.19-22.36.14:091][ 10]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.19-22.36.14:091][ 10]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.19-22.36.14:091][ 10]MaterialEditorStats: Shader Count: 2
+[2024.11.19-22.36.15:993][234]LogMaterialEditor: Saving and Compiling material MaderaPared2
+[2024.11.19-22.36.16:128][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.11.19-22.36.16:798][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.11.19-22.36.16:806][234]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-22.36.18:884][234]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.11.19-22.36.20:760][234]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002940s (1.879171s overbudget)
+[2024.11.19-22.36.20:771][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materiales/MaderaPared2" FILE="../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Materiales/MaderaPared2.uasset" SILENT=true
+[2024.11.19-22.36.20:773][234]LogSavePackage: Moving output files for package: /Game/Materiales/MaderaPared2
+[2024.11.19-22.36.20:773][234]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/MaderaPared2C420B61F4A2776A70271EBB3B2862CA0.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Materiales/MaderaPared2.uasset'
+[2024.11.19-22.36.20:779][234]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.97 sec (total: 17.3 sec)
+[2024.11.19-22.36.20:783][234]AssetCheck: New page: Asset Save: MaderaPared2
+[2024.11.19-22.36.20:783][234]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materiales/MaderaPared2.MaderaPared2
+[2024.11.19-22.36.20:784][234]MaterialEditorStats: Base pass shader: 232 instructions
+[2024.11.19-22.36.20:784][234]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.19-22.36.20:784][234]MaterialEditorStats: MaxSampler: 281 instructions
+[2024.11.19-22.36.20:784][234]MaterialEditorStats: Texture samplers: 7/16
+[2024.11.19-22.36.20:784][234]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.19-22.36.20:784][234]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.19-22.36.20:784][234]MaterialEditorStats: Shader Count: 16
+[2024.11.19-22.36.20:790][235]LogAutomationController: Ignoring very large delta of 4.80 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.19-22.37.23:846][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.11.19-22.37.23:947][901]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/PruebasMauri_Auto2
+[2024.11.19-22.37.23:948][901]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasMauri_Auto23F95708C4F8EDF15BDC53F8921DA2442.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/Autosaves/Game/Maps/PruebasMauri_Auto2.umap'
+[2024.11.19-22.37.23:958][901]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/PruebasMauri' took 0.125
+[2024.11.19-22.37.23:958][901]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.125
+[2024.11.19-22.37.23:958][901]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materiales/brown_planks_05_diff_2k] ([1] browsable assets)...
+[2024.11.19-22.37.23:960][901]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materiales/brown_planks_05_diff_2k.brown_planks_05_diff_2k]
+[2024.11.19-22.37.23:960][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materiales/brown_planks_05_diff_2k]
+[2024.11.19-22.37.23:962][901]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materiales/brown_planks_05_diff_2k_Auto2
+[2024.11.19-22.37.23:962][901]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/brown_planks_05_diff_2k_Auto246FE3299410F69D5C973ECAAA600AAD4.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/Autosaves/Game/Materiales/brown_planks_05_diff_2k_Auto2.uasset'
+[2024.11.19-22.37.23:963][901]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materiales/brown_planks_05_rough_2k] ([1] browsable assets)...
+[2024.11.19-22.37.23:965][901]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materiales/brown_planks_05_rough_2k.brown_planks_05_rough_2k]
+[2024.11.19-22.37.23:965][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materiales/brown_planks_05_rough_2k]
+[2024.11.19-22.37.23:967][901]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materiales/brown_planks_05_rough_2k_Auto2
+[2024.11.19-22.37.23:967][901]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/brown_planks_05_rough_2k_Auto25530BD5C4E31B084CE1DB99CC92CF351.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/Autosaves/Game/Materiales/brown_planks_05_rough_2k_Auto2.uasset'
+[2024.11.19-22.37.23:968][901]LogFileHelpers: Auto-saving content packages took 0.010
+[2024.11.19-22.40.03:935][750]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.11.19-22.40.03:944][750]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.11.19-22.40.03:957][751]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.11.19-22.40.09:285][242]LogContentBrowser: Attempting asset rename: NewMaterial -> Techo
+[2024.11.19-22.40.09:285][242]LogContentBrowser: End creating deferred item NewMaterial
+[2024.11.19-22.40.21:175][557]LogInterchangeEngine: [Pending] Importing
+[2024.11.19-22.40.21:175][557]LogInterchangeEngine: Display: Interchange start importing source [D:/Arte 3D/Text...oChapa/texturescorrugated_iron_disp_2k.png]
+[2024.11.19-22.40.21:175][557]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.11.19-22.40.21:215][558]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.11.19-22.40.21:508][558]LogInterchangeEngine: [Success] Import Done
+[2024.11.19-22.40.21:508][558]LogInterchangeEngine: [Pending] Importing
+[2024.11.19-22.40.21:508][558]LogInterchangeEngine: Display: Interchange start importing source [D:/Arte 3D/Text...oChapa/texturescorrugated_iron_rough_2k.exr]
+[2024.11.19-22.40.21:509][558]LogTexture: Display: Building textures: /Game/Materiales/corrugated_iron_disp_2k.corrugated_iron_disp_2k (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.062484 MB), EncodeSpeed: Fast
+[2024.11.19-22.40.21:573][559]LogInterchangeEngine: [Success] Import Done
+[2024.11.19-22.40.21:590][559]LogInterchangeEngine: [Pending] Importing
+[2024.11.19-22.40.21:845][559]LogTexture: Display: Building textures: /Game/Materiales/corrugated_iron_rough_2k.corrugated_iron_rough_2k (RGBA16F, 2048x2048 x1x1x1) (Required Memory Estimate: 136.062492 MB), EncodeSpeed: Fast
+[2024.11.19-22.40.21:852][559]LogInterchangeEngine: [Success] Import Done
+[2024.11.19-22.40.22:022][560]LogInterchangeEngine: [Success] Import Done
+[2024.11.19-22.40.26:112][761]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materiales/Techo.Techo
+[2024.11.19-22.40.26:115][761]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.19-22.40.26:115][761]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.19-22.40.26:207][761]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-22.40.26:207][761]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.19-22.40.26:207][761]MaterialEditorStats: Shader Count: 0
+[2024.11.19-22.40.26:211][761]LogViewport: Scene viewport resized to 376x457, mode Windowed.
+[2024.11.19-22.40.26:250][762]LogViewport: Scene viewport resized to 376x450, mode Windowed.
+[2024.11.19-22.40.26:294][763]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.11.19-22.40.27:125][860]LogShaderCompilers: Display: ================================================
+[2024.11.19-22.40.27:125][860]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.19-22.40.27:125][860]LogShaderCompilers: Display: Total job queries 493, among them cache hits 189 (38.34%)
+[2024.11.19-22.40.27:125][860]LogShaderCompilers: Display: Tracking 301 distinct input hashes that result in 42 distinct outputs (13.95%)
+[2024.11.19-22.40.27:125][860]LogShaderCompilers: Display: RAM used: 5,67 MiB of 819,20 MiB budget. Usage: 0.69%
+[2024.11.19-22.40.27:125][860]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.19-22.40.27:125][860]LogShaderCompilers: Display: Shaders Compiled: 75
+[2024.11.19-22.40.27:125][860]LogShaderCompilers: Display: Jobs assigned 77, completed 75 (97.40%)
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display: Average time worker was idle: 122.49 s
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display: Time job spent in pending queue: average 1.21 s, longest 11.40 s
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display: Job execution time: average 0.84 s, max 9.79 s
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display: Job life time (pending + execution): average 2.07 s, max 12.01
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 34.37 s
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display: Jobs were issued in 77 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display: Average processing rate: 2.18 jobs/sec
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display: Total thread time: 36,096 s
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display: Total thread preprocess time: 1,428 s
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display: Percentage time preprocessing: 3.96%
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display: Effective parallelization: 1.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   15 times, average 0.59 sec, max 0.81 sec, min 0.47 sec)
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   16 times, average 0.54 sec, max 0.73 sec, min 0.43 sec)
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.53 sec, max 0.53 sec, min 0.52 sec)
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.52 sec, max 0.53 sec, min 0.51 sec)
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.60% of total time (compiled   15 times, average 0.59 sec, max 0.81 sec, min 0.47 sec)
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.74% of total time (compiled   16 times, average 0.54 sec, max 0.73 sec, min 0.43 sec)
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.60% of total time (compiled    9 times, average 0.47 sec, max 0.71 sec, min 0.36 sec)
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.54% of total time (compiled    9 times, average 0.34 sec, max 0.52 sec, min 0.28 sec)
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.92% of total time (compiled    2 times, average 0.53 sec, max 0.53 sec, min 0.52 sec)
+[2024.11.19-22.40.27:126][860]LogShaderCompilers: Display: ================================================
+[2024.11.19-22.40.27:133][861]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.11.19-22.40.27:133][861]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-22.40.27:133][861]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.19-22.40.27:133][861]MaterialEditorStats: Shader Count: 1
+[2024.11.19-22.40.27:241][874]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.11.19-22.40.27:241][874]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.11.19-22.40.27:241][874]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.19-22.40.27:241][874]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.19-22.40.27:241][874]MaterialEditorStats: Shader Count: 2
+[2024.11.19-22.40.51:055][660]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-22.40.51:055][660]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.19-22.40.51:055][660]MaterialEditorStats: Shader Count: 0
+[2024.11.19-22.40.51:809][743]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.11.19-22.40.51:809][743]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-22.40.51:809][743]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.19-22.40.51:809][743]MaterialEditorStats: Shader Count: 1
+[2024.11.19-22.40.51:918][756]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.11.19-22.40.51:918][756]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.11.19-22.40.51:918][756]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.19-22.40.51:918][756]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.19-22.40.51:918][756]MaterialEditorStats: Shader Count: 2
+[2024.11.19-22.40.55:204][139]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-22.40.55:204][139]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.19-22.40.55:204][139]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.19-22.40.55:204][139]MaterialEditorStats: Shader Count: 0
+[2024.11.19-22.40.56:045][234]MaterialEditorStats: Base pass shader: 229 instructions
+[2024.11.19-22.40.56:045][234]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.19-22.40.56:045][234]MaterialEditorStats: Texture samplers: 5/16
+[2024.11.19-22.40.56:045][234]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.19-22.40.56:045][234]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.19-22.40.56:045][234]MaterialEditorStats: Shader Count: 2
+[2024.11.19-22.40.59:942][672]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-22.40.59:942][672]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.19-22.40.59:942][672]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.19-22.40.59:942][672]MaterialEditorStats: Shader Count: 0
+[2024.11.19-22.41.00:709][759]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.19-22.41.00:709][759]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.19-22.41.00:709][759]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.19-22.41.00:709][759]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.19-22.41.00:709][759]MaterialEditorStats: Shader Count: 1
+[2024.11.19-22.41.00:812][771]MaterialEditorStats: Base pass shader: 232 instructions
+[2024.11.19-22.41.00:812][771]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.19-22.41.00:812][771]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.19-22.41.00:812][771]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.19-22.41.00:812][771]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.19-22.41.00:812][771]MaterialEditorStats: Shader Count: 2
+[2024.11.19-22.41.01:932][897]LogMaterialEditor: Saving and Compiling material Techo
+[2024.11.19-22.41.02:059][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.11.19-22.41.02:727][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.11.19-22.41.02:735][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-22.41.04:816][897]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.11.19-22.41.06:690][897]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001036s (1.879587s overbudget)
+[2024.11.19-22.41.06:699][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materiales/Techo" FILE="../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Materiales/Techo.uasset" SILENT=true
+[2024.11.19-22.41.06:701][897]LogSavePackage: Moving output files for package: /Game/Materiales/Techo
+[2024.11.19-22.41.06:701][897]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/Techo1D7F04954457FE91032BBC8D8CD67128.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Materiales/Techo.uasset'
+[2024.11.19-22.41.06:706][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.97 sec (total: 21.3 sec)
+[2024.11.19-22.41.06:710][897]AssetCheck: New page: Asset Save: Techo
+[2024.11.19-22.41.06:710][897]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materiales/Techo.Techo
+[2024.11.19-22.41.06:711][897]MaterialEditorStats: Base pass shader: 232 instructions
+[2024.11.19-22.41.06:711][897]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.19-22.41.06:711][897]MaterialEditorStats: MaxSampler: 281 instructions
+[2024.11.19-22.41.06:711][897]MaterialEditorStats: Texture samplers: 7/16
+[2024.11.19-22.41.06:711][897]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.19-22.41.06:711][897]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.19-22.41.06:711][897]MaterialEditorStats: Shader Count: 16
+[2024.11.19-22.41.06:734][898]LogAutomationController: Ignoring very large delta of 4.80 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.19-22.42.23:032][180]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-22.42.23:040][180]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-22.42.23:040][180]PIE: New page: PIE session: PruebasMauri (19 nov. 2024 16:42:23)
+[2024.11.19-22.42.23:069][180]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.19-22.42.23:324][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.254679s)
+[2024.11.19-22.42.23:324][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.254788s)
+[2024.11.19-22.42.23:324][180]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.19-22.42.23:324][180]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.19-22.42.23:325][180]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.19-22.42.23:326][180]LogPlayLevel: PIE: World Init took: (0.001575s)
+[2024.11.19-22.42.23:343][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.19-22.42.23:344][180]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.11.19-22.42.23:344][180]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-22.42.23:344][180]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-22.42.23:344][180]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-22.42.23:344][180]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-22.42.23:344][180]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.19-22.42.23:344][180]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.19-22.42.23:344][180]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.19-22.42.23:344][180]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-22.42.23:345][180]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-22.42.23:345][180]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-22.42.23:345][180]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-22.42.23:347][180]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-22.42.23:373][180]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (USB Audio Device)
+[2024.11.19-22.42.23:375][180]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-22.42.23:375][180]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-22.42.23:375][180]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-22.42.23:377][180]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.11.19-22.42.23:377][180]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.11.19-22.42.23:379][180]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.11.19-22.42.23:379][180]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.11.19-22.42.23:379][180]LogInit: FAudioDevice initialized with ID 7.
+[2024.11.19-22.42.23:379][180]LogAudio: Display: Audio Device (ID: 7) registered with world 'PruebasMauri'.
+[2024.11.19-22.42.23:379][180]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.11.19-22.42.23:389][180]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.19-22.42.23:397][180]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.19-19.42.23
+[2024.11.19-22.42.23:398][180]LogWorld: Bringing up level for play took: 0.008609
+[2024.11.19-22.42.23:401][180]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.11.19-22.42.23:405][180]PIE: Server logged in
+[2024.11.19-22.42.23:406][180]PIE: Play in editor total start time 0,368 seconds.
+[2024.11.19-22.42.23:416][180]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.42.23:418][180]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.42.23:418][180]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.42.36:139][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.42.36:139][513]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.19-22.42.36:140][513]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-22.42.36:140][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.42.36:143][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-22.42.36:146][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.42.36:156][513]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.19-22.42.36:157][513]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.11.19-22.42.36:157][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.11.19-22.42.36:159][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.11.19-22.42.36:163][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.42.36:166][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.19-22.42.36:201][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.42.36:202][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.42.36:202][513]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.42.36:233][514]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.11.19-22.43.14:218][939]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-22.43.14:224][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-22.43.14:224][939]PIE: New page: PIE session: PruebasMauri (19 nov. 2024 16:43:14)
+[2024.11.19-22.43.14:249][939]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.19-22.43.14:504][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.254606s)
+[2024.11.19-22.43.14:504][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.254645s)
+[2024.11.19-22.43.14:504][939]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.19-22.43.14:504][939]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.19-22.43.14:504][939]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.19-22.43.14:505][939]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2024.11.19-22.43.14:514][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.11.19-22.43.14:516][939]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.11.19-22.43.14:516][939]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-22.43.14:516][939]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-22.43.14:516][939]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-22.43.14:516][939]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-22.43.14:516][939]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.19-22.43.14:516][939]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.19-22.43.14:516][939]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.19-22.43.14:516][939]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-22.43.14:516][939]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-22.43.14:516][939]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-22.43.14:516][939]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-22.43.14:518][939]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-22.43.14:539][939]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (USB Audio Device)
+[2024.11.19-22.43.14:540][939]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-22.43.14:540][939]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-22.43.14:540][939]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-22.43.14:543][939]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.11.19-22.43.14:543][939]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.11.19-22.43.14:544][939]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.11.19-22.43.14:544][939]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.11.19-22.43.14:544][939]LogInit: FAudioDevice initialized with ID 8.
+[2024.11.19-22.43.14:544][939]LogAudio: Display: Audio Device (ID: 8) registered with world 'PruebasMauri'.
+[2024.11.19-22.43.14:544][939]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.11.19-22.43.14:549][939]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.19-22.43.14:556][939]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.19-19.43.14
+[2024.11.19-22.43.14:557][939]LogWorld: Bringing up level for play took: 0.007669
+[2024.11.19-22.43.14:558][939]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.11.19-22.43.14:561][939]PIE: Server logged in
+[2024.11.19-22.43.14:561][939]PIE: Play in editor total start time 0,338 seconds.
+[2024.11.19-22.43.14:571][939]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.43.14:572][939]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.43.14:572][939]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.43.22:689][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.43.22:689][784]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.19-22.43.22:689][784]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-22.43.22:690][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.43.22:694][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-22.43.22:697][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.43.22:707][784]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.19-22.43.22:708][784]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.11.19-22.43.22:708][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.11.19-22.43.22:709][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.11.19-22.43.22:716][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.43.22:719][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.11.19-22.43.22:773][784]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.43.22:773][784]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.43.22:774][784]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.43.22:793][785]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.11.19-22.43.38:206][258]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-22.43.38:213][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-22.43.38:213][258]PIE: New page: PIE session: PruebasMauri (19 nov. 2024 16:43:38)
+[2024.11.19-22.43.38:249][258]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.19-22.43.38:494][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.244825s)
+[2024.11.19-22.43.38:494][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.244873s)
+[2024.11.19-22.43.38:494][258]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.19-22.43.38:494][258]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.19-22.43.38:495][258]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.19-22.43.38:495][258]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2024.11.19-22.43.38:504][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.11.19-22.43.38:505][258]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.11.19-22.43.38:505][258]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-22.43.38:505][258]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-22.43.38:505][258]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-22.43.38:505][258]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-22.43.38:505][258]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.19-22.43.38:505][258]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.19-22.43.38:505][258]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.19-22.43.38:505][258]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-22.43.38:506][258]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-22.43.38:506][258]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-22.43.38:506][258]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-22.43.38:507][258]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-22.43.38:529][258]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (USB Audio Device)
+[2024.11.19-22.43.38:529][258]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-22.43.38:529][258]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-22.43.38:529][258]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-22.43.38:530][258]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.11.19-22.43.38:530][258]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.11.19-22.43.38:532][258]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.11.19-22.43.38:532][258]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.11.19-22.43.38:532][258]LogInit: FAudioDevice initialized with ID 9.
+[2024.11.19-22.43.38:532][258]LogAudio: Display: Audio Device (ID: 9) registered with world 'PruebasMauri'.
+[2024.11.19-22.43.38:532][258]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.11.19-22.43.38:535][258]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.19-22.43.38:543][258]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.19-19.43.38
+[2024.11.19-22.43.38:543][258]LogWorld: Bringing up level for play took: 0.007332
+[2024.11.19-22.43.38:545][258]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.11.19-22.43.38:547][258]PIE: Server logged in
+[2024.11.19-22.43.38:548][258]PIE: Play in editor total start time 0,336 seconds.
+[2024.11.19-22.43.38:557][258]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.43.38:557][258]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.43.38:558][258]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.43.46:430][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.43.46:430][ 71]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.19-22.43.46:430][ 71]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-22.43.46:431][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.43.46:434][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-22.43.46:436][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.43.46:447][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.43.46:447][ 71]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.11.19-22.43.46:447][ 71]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.11.19-22.43.46:448][ 71]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.11.19-22.43.46:455][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.11.19-22.43.46:481][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.43.46:482][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.43.46:482][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.43.46:501][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.11.19-22.44.07:536][975]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ObjetosCasa/Box_Brush8_StaticMesh.Box_Brush8_StaticMesh
+[2024.11.19-22.44.07:651][975]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.19-22.44.07:651][975]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.19-22.44.08:319][975]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.11.19-22.44.21:483][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-22.44.21:524][482]LogSavePackage: Moving output files for package: /Game/ObjetosCasa/Box_Brush8_StaticMesh
+[2024.11.19-22.44.21:524][482]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/Box_Brush8_StaticMesh462EB6BE48FCCB0625119B9608127574.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/ObjetosCasa/Box_Brush8_StaticMesh.uasset'
+[2024.11.19-22.44.21:530][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 21.3 sec)
+[2024.11.19-22.44.21:535][482]AssetCheck: New page: Asset Save: Box_Brush8_StaticMesh
+[2024.11.19-22.44.21:535][482]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ObjetosCasa/Box_Brush8_StaticMesh.Box_Brush8_StaticMesh
+[2024.11.19-22.44.22:854][599]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-22.44.22:859][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-22.44.22:860][599]PIE: New page: PIE session: PruebasMauri (19 nov. 2024 16:44:22)
+[2024.11.19-22.44.22:899][599]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.19-22.44.23:150][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.250943s)
+[2024.11.19-22.44.23:150][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.250982s)
+[2024.11.19-22.44.23:150][599]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.19-22.44.23:150][599]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.19-22.44.23:150][599]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.19-22.44.23:151][599]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2024.11.19-22.44.23:207][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.11.19-22.44.23:207][599]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.11.19-22.44.23:207][599]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-22.44.23:207][599]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-22.44.23:207][599]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-22.44.23:207][599]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-22.44.23:207][599]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.19-22.44.23:207][599]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.19-22.44.23:207][599]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.19-22.44.23:207][599]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-22.44.23:208][599]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-22.44.23:208][599]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-22.44.23:208][599]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-22.44.23:210][599]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-22.44.23:232][599]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (USB Audio Device)
+[2024.11.19-22.44.23:233][599]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-22.44.23:233][599]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-22.44.23:233][599]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-22.44.23:235][599]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.11.19-22.44.23:235][599]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.11.19-22.44.23:237][599]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.11.19-22.44.23:237][599]LogInit: FAudioDevice initialized with ID 10.
+[2024.11.19-22.44.23:237][599]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.11.19-22.44.23:237][599]LogAudio: Display: Audio Device (ID: 10) registered with world 'PruebasMauri'.
+[2024.11.19-22.44.23:237][599]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.11.19-22.44.23:240][599]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.19-22.44.23:247][599]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.19-19.44.23
+[2024.11.19-22.44.23:247][599]LogWorld: Bringing up level for play took: 0.007565
+[2024.11.19-22.44.23:249][599]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.11.19-22.44.23:252][599]PIE: Server logged in
+[2024.11.19-22.44.23:252][599]PIE: Play in editor total start time 0,393 seconds.
+[2024.11.19-22.44.23:262][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.44.23:263][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.44.23:263][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.44.33:180][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.44.33:180][636]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.19-22.44.33:180][636]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-22.44.33:181][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.44.33:184][636]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-22.44.33:186][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.44.33:197][636]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.19-22.44.33:197][636]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.11.19-22.44.33:197][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.11.19-22.44.33:198][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.11.19-22.44.33:202][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.44.33:205][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.11.19-22.44.33:231][636]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.44.33:231][636]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.44.33:231][636]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.44.33:250][637]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.11.19-22.44.37:865][ 58]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ObjetosCasa/Linear_Stair_Brush_StaticMesh.Linear_Stair_Brush_StaticMesh
+[2024.11.19-22.44.37:870][ 58]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.19-22.44.37:870][ 58]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.19-22.44.38:185][ 58]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.11.19-22.44.46:065][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-22.44.46:125][963]LogSavePackage: Moving output files for package: /Game/ObjetosCasa/Linear_Stair_Brush_StaticMesh
+[2024.11.19-22.44.46:125][963]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/Linear_Stair_Brush_StaticMesh2E91FDCA48CA7F8B02649986F028F8B0.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/ObjetosCasa/Linear_Stair_Brush_StaticMesh.uasset'
+[2024.11.19-22.44.46:133][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 21.4 sec)
+[2024.11.19-22.44.46:137][963]AssetCheck: New page: Asset Save: Linear_Stair_Brush_StaticMesh
+[2024.11.19-22.44.46:137][963]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ObjetosCasa/Linear_Stair_Brush_StaticMesh.Linear_Stair_Brush_StaticMesh
+[2024.11.19-22.44.47:480][ 91]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-22.44.47:486][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-22.44.47:486][ 91]PIE: New page: PIE session: PruebasMauri (19 nov. 2024 16:44:47)
+[2024.11.19-22.44.47:520][ 91]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.19-22.44.47:776][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.256379s)
+[2024.11.19-22.44.47:776][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.256418s)
+[2024.11.19-22.44.47:776][ 91]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.19-22.44.47:776][ 91]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.19-22.44.47:776][ 91]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.19-22.44.47:777][ 91]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2024.11.19-22.44.47:786][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.11.19-22.44.47:787][ 91]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.11.19-22.44.47:787][ 91]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-22.44.47:787][ 91]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-22.44.47:787][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-22.44.47:787][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-22.44.47:787][ 91]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.19-22.44.47:787][ 91]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.19-22.44.47:787][ 91]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.19-22.44.47:787][ 91]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-22.44.47:788][ 91]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-22.44.47:788][ 91]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-22.44.47:788][ 91]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-22.44.47:789][ 91]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-22.44.47:811][ 91]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (USB Audio Device)
+[2024.11.19-22.44.47:812][ 91]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-22.44.47:812][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-22.44.47:812][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-22.44.47:813][ 91]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.11.19-22.44.47:813][ 91]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.11.19-22.44.47:815][ 91]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.11.19-22.44.47:815][ 91]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.11.19-22.44.47:815][ 91]LogInit: FAudioDevice initialized with ID 11.
+[2024.11.19-22.44.47:815][ 91]LogAudio: Display: Audio Device (ID: 11) registered with world 'PruebasMauri'.
+[2024.11.19-22.44.47:815][ 91]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.11.19-22.44.47:818][ 91]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.19-22.44.47:825][ 91]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.19-19.44.47
+[2024.11.19-22.44.47:825][ 91]LogWorld: Bringing up level for play took: 0.006998
+[2024.11.19-22.44.47:827][ 91]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.11.19-22.44.47:830][ 91]PIE: Server logged in
+[2024.11.19-22.44.47:830][ 91]PIE: Play in editor total start time 0,345 seconds.
+[2024.11.19-22.44.47:841][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.44.47:841][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.44.47:841][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.45.00:639][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.45.00:639][426]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.19-22.45.00:639][426]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-22.45.00:640][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.45.00:644][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-22.45.00:647][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.45.00:657][426]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.19-22.45.00:658][426]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.11.19-22.45.00:658][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.11.19-22.45.00:660][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.11.19-22.45.00:666][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.45.00:668][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.11.19-22.45.00:701][426]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.45.00:701][426]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.45.00:702][426]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.45.00:720][427]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.11.19-22.45.06:679][919]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ObjetosCasa/Cylinder_Brush14_StaticMesh.Cylinder_Brush14_StaticMesh
+[2024.11.19-22.45.06:685][919]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.19-22.45.06:685][919]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.19-22.45.06:986][919]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.11.19-22.45.13:412][654]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-22.45.13:473][654]LogSavePackage: Moving output files for package: /Game/ObjetosCasa/Cylinder_Brush14_StaticMesh
+[2024.11.19-22.45.13:473][654]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/Cylinder_Brush14_StaticMeshE455EADD408C812AB268158B1690F985.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/ObjetosCasa/Cylinder_Brush14_StaticMesh.uasset'
+[2024.11.19-22.45.13:479][654]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 21.5 sec)
+[2024.11.19-22.45.13:483][654]AssetCheck: New page: Asset Save: Cylinder_Brush14_StaticMesh
+[2024.11.19-22.45.13:483][654]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ObjetosCasa/Cylinder_Brush14_StaticMesh.Cylinder_Brush14_StaticMesh
+[2024.11.19-22.45.17:253][992]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ObjetosCasa/Box_Brush9_StaticMesh.Box_Brush9_StaticMesh
+[2024.11.19-22.45.17:258][992]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.19-22.45.17:259][992]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.19-22.45.17:573][992]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.11.19-22.45.24:206][741]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-22.45.24:254][741]LogSavePackage: Moving output files for package: /Game/ObjetosCasa/Box_Brush9_StaticMesh
+[2024.11.19-22.45.24:254][741]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/Box_Brush9_StaticMeshCBDB81C740505EDDECD0FDB3164F05B3.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/ObjetosCasa/Box_Brush9_StaticMesh.uasset'
+[2024.11.19-22.45.24:260][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 21.5 sec)
+[2024.11.19-22.45.24:265][741]AssetCheck: New page: Asset Save: Box_Brush9_StaticMesh
+[2024.11.19-22.45.24:265][741]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ObjetosCasa/Box_Brush9_StaticMesh.Box_Brush9_StaticMesh
+[2024.11.19-22.45.30:340][248]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ObjetosCasa/Box_Brush10_StaticMesh.Box_Brush10_StaticMesh
+[2024.11.19-22.45.30:346][248]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.19-22.45.30:346][248]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.19-22.45.30:664][248]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.11.19-22.45.35:603][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-22.45.35:655][805]LogSavePackage: Moving output files for package: /Game/ObjetosCasa/Box_Brush10_StaticMesh
+[2024.11.19-22.45.35:656][805]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/Box_Brush10_StaticMesh7249747D488799ABD9018495877E1F80.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/ObjetosCasa/Box_Brush10_StaticMesh.uasset'
+[2024.11.19-22.45.35:661][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 21.6 sec)
+[2024.11.19-22.45.35:667][805]AssetCheck: New page: Asset Save: Box_Brush10_StaticMesh
+[2024.11.19-22.45.35:667][805]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ObjetosCasa/Box_Brush10_StaticMesh.Box_Brush10_StaticMesh
+[2024.11.19-22.45.42:737][431]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ObjetosCasa/Box_Brush11_StaticMesh.Box_Brush11_StaticMesh
+[2024.11.19-22.45.42:743][431]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.19-22.45.42:743][431]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.19-22.45.43:067][431]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.11.19-22.45.48:069][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-22.45.48:121][986]LogSavePackage: Moving output files for package: /Game/ObjetosCasa/Box_Brush11_StaticMesh
+[2024.11.19-22.45.48:121][986]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/Box_Brush11_StaticMesh3B7E22D4435475495AB818B4F53F3C00.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/ObjetosCasa/Box_Brush11_StaticMesh.uasset'
+[2024.11.19-22.45.48:126][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 21.6 sec)
+[2024.11.19-22.45.48:131][986]AssetCheck: New page: Asset Save: Box_Brush11_StaticMesh
+[2024.11.19-22.45.48:131][986]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ObjetosCasa/Box_Brush11_StaticMesh.Box_Brush11_StaticMesh
+[2024.11.19-22.45.51:254][356]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-22.45.51:288][356]LogSavePackage: Moving output files for package: /Game/ObjetosCasa/Box_Brush11_StaticMesh
+[2024.11.19-22.45.51:288][356]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/Box_Brush11_StaticMeshF505CFA84D2E89501E951E8E25DC88A9.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/ObjetosCasa/Box_Brush11_StaticMesh.uasset'
+[2024.11.19-22.45.51:293][356]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 21.7 sec)
+[2024.11.19-22.45.51:298][356]AssetCheck: New page: Asset Save: Box_Brush11_StaticMesh
+[2024.11.19-22.45.51:298][356]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ObjetosCasa/Box_Brush11_StaticMesh.Box_Brush11_StaticMesh
+[2024.11.19-22.45.52:967][511]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-22.45.52:972][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-22.45.52:972][511]PIE: New page: PIE session: PruebasMauri (19 nov. 2024 16:45:52)
+[2024.11.19-22.45.52:972][511]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.19-22.45.53:217][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.244415s)
+[2024.11.19-22.45.53:217][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.244454s)
+[2024.11.19-22.45.53:217][511]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.19-22.45.53:217][511]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.19-22.45.53:217][511]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.19-22.45.53:218][511]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2024.11.19-22.45.53:250][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.11.19-22.45.53:250][511]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.11.19-22.45.53:250][511]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-22.45.53:250][511]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-22.45.53:251][511]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-22.45.53:251][511]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-22.45.53:251][511]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.19-22.45.53:251][511]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.19-22.45.53:251][511]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.19-22.45.53:251][511]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-22.45.53:251][511]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-22.45.53:251][511]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-22.45.53:251][511]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-22.45.53:253][511]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-22.45.53:275][511]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (USB Audio Device)
+[2024.11.19-22.45.53:275][511]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-22.45.53:275][511]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-22.45.53:275][511]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-22.45.53:276][511]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.11.19-22.45.53:276][511]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.11.19-22.45.53:278][511]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.11.19-22.45.53:278][511]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.11.19-22.45.53:278][511]LogInit: FAudioDevice initialized with ID 12.
+[2024.11.19-22.45.53:278][511]LogAudio: Display: Audio Device (ID: 12) registered with world 'PruebasMauri'.
+[2024.11.19-22.45.53:278][511]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.11.19-22.45.53:284][511]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.19-22.45.53:292][511]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.19-19.45.53
+[2024.11.19-22.45.53:292][511]LogWorld: Bringing up level for play took: 0.007720
+[2024.11.19-22.45.53:294][511]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.11.19-22.45.53:297][511]PIE: Server logged in
+[2024.11.19-22.45.53:297][511]PIE: Play in editor total start time 0,325 seconds.
+[2024.11.19-22.45.53:307][511]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.45.53:308][511]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.45.53:308][511]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.46.10:580][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.46.10:580][320]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.19-22.46.10:580][320]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-22.46.10:581][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.46.10:584][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-22.46.10:587][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.46.10:597][320]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.19-22.46.10:597][320]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.11.19-22.46.10:598][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.11.19-22.46.10:599][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.11.19-22.46.10:603][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.46.10:606][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.11.19-22.46.10:641][320]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.46.10:642][320]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.46.10:642][320]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.19-22.46.10:661][321]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.11.19-22.46.24:031][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.11.19-22.46.24:041][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.11.19-22.46.25:271][515]LogSlate: Window 'Save Content' being destroyed
+[2024.11.19-22.46.25:282][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-22.46.25:346][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.11.19-22.46.25:430][515]LogSavePackage: Moving output files for package: /Game/Maps/PruebasMauri
+[2024.11.19-22.46.25:431][515]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasMauri750239CA48FA5CA17CA13E8D2FEBF79F.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasMauri.umap'
+[2024.11.19-22.46.25:438][515]LogFileHelpers: Saving map 'PruebasMauri' took 0.103
+[2024.11.19-22.46.25:441][515]LogSavePackage: Moving output files for package: /Game/Materiales/brown_planks_05_diff_2k
+[2024.11.19-22.46.25:441][515]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/brown_planks_05_diff_2kE0A9E80141461894115101A7B6A492A4.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Materiales/brown_planks_05_diff_2k.uasset'
+[2024.11.19-22.46.25:444][515]LogSavePackage: Moving output files for package: /Game/Materiales/brown_planks_05_rough_2k
+[2024.11.19-22.46.25:444][515]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/brown_planks_05_rough_2k2469FBD74E7B63736205ACA073FC5C37.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Materiales/brown_planks_05_rough_2k.uasset'
+[2024.11.19-22.46.25:621][515]LogSavePackage: Moving output files for package: /Game/Materiales/corrugated_iron_disp_2k
+[2024.11.19-22.46.25:621][515]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/corrugated_iron_disp_2k80AFD03D47AAA60907F94E9605893192.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Materiales/corrugated_iron_disp_2k.uasset'
+[2024.11.19-22.46.25:670][515]LogSavePackage: Moving output files for package: /Game/Materiales/corrugated_iron_rough_2k
+[2024.11.19-22.46.25:670][515]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/corrugated_iron_rough_2kC1A73E1C4F7534F24C81BBB1E62E6CD4.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Materiales/corrugated_iron_rough_2k.uasset'
+[2024.11.19-22.46.25:676][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 392 ms (total: 22.1 sec)
+[2024.11.19-22.46.25:682][515]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.19-22.46.25:682][515]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
+[2024.11.19-22.46.25:682][515]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Materiales/corrugated_iron_rough_2k.corrugated_iron_rough_2k
+[2024.11.19-22.46.25:682][515]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Materiales/corrugated_iron_disp_2k.corrugated_iron_disp_2k
+[2024.11.19-22.46.25:682][515]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Materiales/brown_planks_05_rough_2k.brown_planks_05_rough_2k
+[2024.11.19-22.46.25:682][515]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Materiales/brown_planks_05_diff_2k.brown_planks_05_diff_2k
