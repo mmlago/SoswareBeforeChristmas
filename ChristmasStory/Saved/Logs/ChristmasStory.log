@@ -9700,3 +9700,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.19-23.27.32:187][399]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
 [2024.11.19-23.33.17:196][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
 [2024.11.19-23.33.31:612][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.11.19-23.34.10:249][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
