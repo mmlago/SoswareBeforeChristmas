@@ -13182,3 +13182,4 @@ Script Stack (0 frames) :
 [2024.11.20-20.46.37:593][739]AssetCheck: New page: Asset Save: multiple assets
 [2024.11.20-20.46.37:593][739]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
 [2024.11.20-20.46.37:593][739]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ObjetosCasa/Box_Brush9_StaticMeshss.Box_Brush9_StaticMeshss
+[2024.11.20-20.55.37:030][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
