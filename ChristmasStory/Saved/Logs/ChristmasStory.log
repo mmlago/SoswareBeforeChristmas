@@ -13183,3 +13183,11 @@ Script Stack (0 frames) :
 [2024.11.20-20.46.37:593][739]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
 [2024.11.20-20.46.37:593][739]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ObjetosCasa/Box_Brush9_StaticMeshss.Box_Brush9_StaticMeshss
 [2024.11.20-20.55.37:030][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.11.20-21.09.27:443][ 64]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.11.20-21.09.27:443][ 64]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.11.20-21.23.38:157][615]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.11.20-21.39.38:658][495]LogDerivedDataCache: C:/Users/Pepon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.372 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9876 files in 12342 folders with total size 2350 MiB.
+[2024.11.20-22.39.39:585][294]LogDerivedDataCache: C:/Users/Pepon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.299 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9876 files in 12342 folders with total size 2350 MiB.
+[2024.11.20-22.55.18:731][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2024.11.20-22.55.19:650][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.11.20-22.55.19:806][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
