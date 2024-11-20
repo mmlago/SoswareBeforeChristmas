@@ -5403,3 +5403,1713 @@ Any materials which use this function will lose their connections to these funct
 [2024.11.20-00.12.34:175][383]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_Displacement.Stone_Wall_xboicaz_2K_Displacement
 [2024.11.20-00.12.34:175][383]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_Cavity.Stone_Wall_xboicaz_2K_Cavity
 [2024.11.20-00.12.34:175][383]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_Bump.Stone_Wall_xboicaz_2K_Bump
+[2024.11.20-00.12.52:656][  0]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_Roughness.Stone_Wall_xboicaz_2K_Roughness
+[2024.11.20-00.12.52:685][  0]LogViewport: Scene viewport resized to 1424x934, mode Windowed.
+[2024.11.20-00.12.52:715][  1]LogViewport: Scene viewport resized to 1424x925, mode Windowed.
+[2024.11.20-00.12.52:729][  2]LogViewport: Scene viewport resized to 1424x917, mode Windowed.
+[2024.11.20-00.12.52:740][  3]LogViewport: Scene viewport resized to 1424x913, mode Windowed.
+[2024.11.20-00.12.52:752][  4]LogViewport: Scene viewport resized to 1424x908, mode Windowed.
+[2024.11.20-00.12.52:766][  5]LogViewport: Scene viewport resized to 1424x903, mode Windowed.
+[2024.11.20-00.12.52:780][  6]LogViewport: Scene viewport resized to 1424x897, mode Windowed.
+[2024.11.20-00.12.52:793][  7]LogViewport: Scene viewport resized to 1424x892, mode Windowed.
+[2024.11.20-00.12.52:806][  8]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2024.11.20-00.12.57:158][514]LogTexture: Display: Building textures: /Game/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_Roughness.Stone_Wall_xboicaz_2K_Roughness (TFO_AutoDXT, 2048x1024 x1x1x1) (Required Memory Estimate: 191.979147 MB), EncodeSpeed: Fast
+[2024.11.20-00.13.00:779][946]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.13.00:817][946]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_Roughness
+[2024.11.20-00.13.00:817][946]LogSavePackage: Moving '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Saved/Stone_Wall_xboicaz_2K_RoughnessBB29C82A440159F4876A4C9364109BF3.tmp' to '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_Roughness.uasset'
+[2024.11.20-00.13.00:827][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 2.53 sec)
+[2024.11.20-00.13.00:830][946]AssetCheck: New page: Asset Save: Stone_Wall_xboicaz_2K_Roughness
+[2024.11.20-00.13.00:830][946]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_Roughness.Stone_Wall_xboicaz_2K_Roughness
+[2024.11.20-00.13.01:704][ 49]LogViewport: Scene viewport resized to 511x247, mode Windowed.
+[2024.11.20-00.13.01:719][ 50]LogViewport: Scene viewport resized to 511x246, mode Windowed.
+[2024.11.20-00.13.01:747][ 51]LogViewport: Scene viewport resized to 511x243, mode Windowed.
+[2024.11.20-00.13.01:763][ 52]LogViewport: Scene viewport resized to 511x241, mode Windowed.
+[2024.11.20-00.13.01:778][ 53]LogViewport: Scene viewport resized to 511x240, mode Windowed.
+[2024.11.20-00.13.01:795][ 54]LogViewport: Scene viewport resized to 511x239, mode Windowed.
+[2024.11.20-00.13.01:810][ 55]LogViewport: Scene viewport resized to 511x237, mode Windowed.
+[2024.11.20-00.13.01:836][ 56]LogViewport: Scene viewport resized to 511x235, mode Windowed.
+[2024.11.20-00.13.11:251][618]LogViewport: Scene viewport resized to 511x237, mode Windowed.
+[2024.11.20-00.13.11:274][620]LogViewport: Scene viewport resized to 511x243, mode Windowed.
+[2024.11.20-00.13.11:297][622]LogViewport: Scene viewport resized to 511x252, mode Windowed.
+[2024.11.20-00.13.11:322][624]LogViewport: Scene viewport resized to 511x261, mode Windowed.
+[2024.11.20-00.13.11:345][626]LogViewport: Scene viewport resized to 511x270, mode Windowed.
+[2024.11.20-00.13.11:369][628]LogViewport: Scene viewport resized to 511x282, mode Windowed.
+[2024.11.20-00.13.11:384][629]LogViewport: Scene viewport resized to 511x289, mode Windowed.
+[2024.11.20-00.13.11:406][631]LogViewport: Scene viewport resized to 511x301, mode Windowed.
+[2024.11.20-00.13.11:422][632]LogViewport: Scene viewport resized to 511x309, mode Windowed.
+[2024.11.20-00.13.11:444][634]LogViewport: Scene viewport resized to 511x323, mode Windowed.
+[2024.11.20-00.13.11:458][635]LogViewport: Scene viewport resized to 511x331, mode Windowed.
+[2024.11.20-00.13.11:474][636]LogViewport: Scene viewport resized to 511x342, mode Windowed.
+[2024.11.20-00.13.11:490][637]LogViewport: Scene viewport resized to 511x352, mode Windowed.
+[2024.11.20-00.13.11:505][638]LogViewport: Scene viewport resized to 511x364, mode Windowed.
+[2024.11.20-00.13.11:521][639]LogViewport: Scene viewport resized to 511x376, mode Windowed.
+[2024.11.20-00.13.11:545][641]LogViewport: Scene viewport resized to 511x390, mode Windowed.
+[2024.11.20-00.13.11:559][642]LogViewport: Scene viewport resized to 511x394, mode Windowed.
+[2024.11.20-00.13.11:575][643]LogViewport: Scene viewport resized to 511x398, mode Windowed.
+[2024.11.20-00.13.11:590][644]LogViewport: Scene viewport resized to 511x400, mode Windowed.
+[2024.11.20-00.13.11:604][645]LogViewport: Scene viewport resized to 511x401, mode Windowed.
+[2024.11.20-00.13.11:635][648]LogViewport: Scene viewport resized to 511x403, mode Windowed.
+[2024.11.20-00.13.11:649][649]LogViewport: Scene viewport resized to 511x405, mode Windowed.
+[2024.11.20-00.13.11:674][651]LogViewport: Scene viewport resized to 511x406, mode Windowed.
+[2024.11.20-00.13.11:764][661]LogViewport: Scene viewport resized to 511x403, mode Windowed.
+[2024.11.20-00.13.11:790][662]LogViewport: Scene viewport resized to 511x397, mode Windowed.
+[2024.11.20-00.14.07:779][187]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.14.07:830][187]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.14.11:075][566]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_AO.Stone_Wall_xboicaz_2K_AO
+[2024.11.20-00.14.11:101][566]LogViewport: Scene viewport resized to 1424x936, mode Windowed.
+[2024.11.20-00.14.11:125][567]LogViewport: Scene viewport resized to 1424x927, mode Windowed.
+[2024.11.20-00.14.11:135][568]LogViewport: Scene viewport resized to 1424x922, mode Windowed.
+[2024.11.20-00.14.11:148][569]LogViewport: Scene viewport resized to 1424x917, mode Windowed.
+[2024.11.20-00.14.11:162][570]LogViewport: Scene viewport resized to 1424x912, mode Windowed.
+[2024.11.20-00.14.11:175][571]LogViewport: Scene viewport resized to 1424x907, mode Windowed.
+[2024.11.20-00.14.11:189][572]LogViewport: Scene viewport resized to 1424x902, mode Windowed.
+[2024.11.20-00.14.11:201][573]LogViewport: Scene viewport resized to 1424x897, mode Windowed.
+[2024.11.20-00.14.11:213][574]LogViewport: Scene viewport resized to 1424x892, mode Windowed.
+[2024.11.20-00.14.11:227][575]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2024.11.20-00.14.13:719][862]LogTexture: Display: Building textures: /Game/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_AO.Stone_Wall_xboicaz_2K_AO (TFO_AutoDXT, 2048x1024 x1x1x1) (Required Memory Estimate: 191.979147 MB), EncodeSpeed: Fast
+[2024.11.20-00.14.15:107][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.14.15:143][ 26]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_AO
+[2024.11.20-00.14.15:144][ 26]LogSavePackage: Moving '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Saved/Stone_Wall_xboicaz_2K_AO87524CF14C582CF53F112EAE097DC934.tmp' to '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_AO.uasset'
+[2024.11.20-00.14.15:152][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 2.57 sec)
+[2024.11.20-00.14.15:155][ 26]AssetCheck: New page: Asset Save: Stone_Wall_xboicaz_2K_AO
+[2024.11.20-00.14.15:155][ 26]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_AO.Stone_Wall_xboicaz_2K_AO
+[2024.11.20-00.14.16:138][142]LogViewport: Scene viewport resized to 511x419, mode Windowed.
+[2024.11.20-00.14.16:155][143]LogViewport: Scene viewport resized to 511x416, mode Windowed.
+[2024.11.20-00.14.16:182][144]LogViewport: Scene viewport resized to 511x411, mode Windowed.
+[2024.11.20-00.14.16:198][145]LogViewport: Scene viewport resized to 511x409, mode Windowed.
+[2024.11.20-00.14.16:215][146]LogViewport: Scene viewport resized to 511x405, mode Windowed.
+[2024.11.20-00.14.16:232][147]LogViewport: Scene viewport resized to 511x403, mode Windowed.
+[2024.11.20-00.14.16:249][148]LogViewport: Scene viewport resized to 511x399, mode Windowed.
+[2024.11.20-00.14.16:266][149]LogViewport: Scene viewport resized to 511x397, mode Windowed.
+[2024.11.20-00.14.26:456][292]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.14.26:506][292]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.14.30:490][714]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.14.30:540][714]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.14.32:220][908]LogMaterialEditor: Applying material M_Master
+[2024.11.20-00.14.33:046][908]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2024.11.20-00.14.33:082][908]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.14.33:119][908]LogMaterial: Warning: [AssetLog] C:\Users\maxib\AppData\Local\GitHubDesktop\app-3.4.9\SoswareBeforeChristmas\ChristmasStory\Content\FirstPerson\Blueprints\Materials\M_Master.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.14.33:133][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.11.20-00.14.33:170][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.11.20-00.14.34:298][ 38]LogMaterialEditor: Saving and Compiling material M_Master
+[2024.11.20-00.14.34:299][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.14.34:393][ 38]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Materials/M_Master
+[2024.11.20-00.14.34:394][ 38]LogSavePackage: Moving '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Saved/M_MasterDB1225EE46699693CF6B7F9B1B84F484.tmp' to '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Materials/M_Master.uasset'
+[2024.11.20-00.14.34:405][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 2.68 sec)
+[2024.11.20-00.14.34:407][ 38]AssetCheck: New page: Asset Save: M_Master
+[2024.11.20-00.14.34:407][ 38]LogContentValidation: Display: Validating /Script/Engine.Material /Game/FirstPerson/Blueprints/Materials/M_Master.M_Master
+[2024.11.20-00.14.43:856][ 83]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.14.43:905][ 83]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.14.46:830][415]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_Displacement.Stone_Wall_xboicaz_2K_Displacement
+[2024.11.20-00.14.46:857][415]LogViewport: Scene viewport resized to 1424x935, mode Windowed.
+[2024.11.20-00.14.46:885][416]LogViewport: Scene viewport resized to 1424x926, mode Windowed.
+[2024.11.20-00.14.46:899][417]LogViewport: Scene viewport resized to 1424x919, mode Windowed.
+[2024.11.20-00.14.46:909][418]LogViewport: Scene viewport resized to 1424x915, mode Windowed.
+[2024.11.20-00.14.46:923][419]LogViewport: Scene viewport resized to 1424x909, mode Windowed.
+[2024.11.20-00.14.46:936][420]LogViewport: Scene viewport resized to 1424x904, mode Windowed.
+[2024.11.20-00.14.46:950][421]LogViewport: Scene viewport resized to 1424x899, mode Windowed.
+[2024.11.20-00.14.46:963][422]LogViewport: Scene viewport resized to 1424x894, mode Windowed.
+[2024.11.20-00.14.46:976][423]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2024.11.20-00.14.50:248][802]LogTexture: Display: Building textures: /Game/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_Displacement.Stone_Wall_xboicaz_2K_Displacement (TFO_AutoDXT, 2048x1024 x1x1x1) (Required Memory Estimate: 191.979147 MB), EncodeSpeed: Fast
+[2024.11.20-00.15.12:850][358]LogTexture: Display: Building textures: /Game/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_Displacement.Stone_Wall_xboicaz_2K_Displacement (TFO_AutoDXT, 2048x1024 x1x1x1) (Required Memory Estimate: 191.979147 MB), EncodeSpeed: Fast
+[2024.11.20-00.15.14:141][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.15.14:205][498]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_Displacement
+[2024.11.20-00.15.14:205][498]LogSavePackage: Moving '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Saved/Stone_Wall_xboicaz_2K_Displaceme260E209441AA33586E92228090AB1BA3.tmp' to '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_Displacement.uasset'
+[2024.11.20-00.15.14:224][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 2.76 sec)
+[2024.11.20-00.15.14:226][498]AssetCheck: New page: Asset Save: Stone_Wall_xboicaz_2K_Displacement
+[2024.11.20-00.15.14:226][498]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_Displacement.Stone_Wall_xboicaz_2K_Displacement
+[2024.11.20-00.15.19:645][796]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.15.20:814][880]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.15.20:863][880]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: ================================================
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: Total job queries 591, among them cache hits 231 (39.09%)
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: Tracking 360 distinct input hashes that result in 76 distinct outputs (21.11%)
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: RAM used: 12.85 MiB of 1.60 GiB budget. Usage: 0.78%
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: Shaders Compiled: 352
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: Jobs assigned 352, completed 352 (100.00%)
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: Average time worker was idle: 60.67 s
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.57 s
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: Job execution time: average 0.38 s, max 0.66 s
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: Job life time (pending + execution): average 0.46 s, max 0.98
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 38.18 s
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: Jobs were issued in 352 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: Average processing rate: 9.22 jobs/sec
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: Total thread time: 99.49 s
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: Total thread preprocess time: 4.671 s
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: Percentage time preprocessing: 4.69%
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: Effective parallelization: 2.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 0.36 sec, max 0.39 sec, min 0.33 sec)
+[2024.11.20-00.15.21:313][926]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.20-00.15.21:314][926]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 40.21% of total time (compiled  129 times, average 0.31 sec, max 0.43 sec, min 0.25 sec)
+[2024.11.20-00.15.21:314][926]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 37.60% of total time (compiled  129 times, average 0.29 sec, max 0.38 sec, min 0.23 sec)
+[2024.11.20-00.15.21:314][926]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.51% of total time (compiled   39 times, average 0.24 sec, max 0.31 sec, min 0.22 sec)
+[2024.11.20-00.15.21:314][926]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.18% of total time (compiled   39 times, average 0.18 sec, max 0.23 sec, min 0.16 sec)
+[2024.11.20-00.15.21:314][926]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 1.09% of total time (compiled    3 times, average 0.36 sec, max 0.39 sec, min 0.33 sec)
+[2024.11.20-00.15.21:314][926]LogShaderCompilers: Display: ================================================
+[2024.11.20-00.15.27:010][584]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.15.28:368][733]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.15.28:417][733]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.15.29:730][882]LogMaterialEditor: Applying material M_Master
+[2024.11.20-00.15.30:628][882]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2024.11.20-00.15.30:664][882]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.15.30:705][882]LogMaterial: Warning: [AssetLog] C:\Users\maxib\AppData\Local\GitHubDesktop\app-3.4.9\SoswareBeforeChristmas\ChristmasStory\Content\FirstPerson\Blueprints\Materials\M_Master.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.15.30:716][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.11.20-00.15.30:755][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.11.20-00.15.31:855][  9]LogMaterialEditor: Saving and Compiling material M_Master
+[2024.11.20-00.15.31:857][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.15.31:952][  9]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Materials/M_Master
+[2024.11.20-00.15.31:952][  9]LogSavePackage: Moving '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Saved/M_MasterD7EAD38B45D185622C0736BA77A029EC.tmp' to '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Materials/M_Master.uasset'
+[2024.11.20-00.15.31:962][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 2.87 sec)
+[2024.11.20-00.15.31:966][  9]AssetCheck: New page: Asset Save: M_Master
+[2024.11.20-00.15.31:966][  9]LogContentValidation: Display: Validating /Script/Engine.Material /Game/FirstPerson/Blueprints/Materials/M_Master.M_Master
+[2024.11.20-00.15.42:258][592]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.15.43:485][722]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.15.43:534][722]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.15.45:964][  0]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.15.47:200][133]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.15.47:250][133]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.15.49:483][387]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.15.50:293][477]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.15.50:341][477]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.16.04:191][ 95]LogMaterialEditor: Applying material M_Master
+[2024.11.20-00.16.05:093][ 95]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2024.11.20-00.16.05:129][ 95]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.16.05:168][ 95]LogMaterial: Warning: [AssetLog] C:\Users\maxib\AppData\Local\GitHubDesktop\app-3.4.9\SoswareBeforeChristmas\ChristmasStory\Content\FirstPerson\Blueprints\Materials\M_Master.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.16.05:181][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.11.20-00.16.05:224][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.11.20-00.16.05:894][172]LogMaterialEditor: Saving and Compiling material M_Master
+[2024.11.20-00.16.05:895][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.16.05:993][172]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Materials/M_Master
+[2024.11.20-00.16.05:994][172]LogSavePackage: Moving '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Saved/M_MasterFEAF25104B2DFDB1FB76BE989CFE8E86.tmp' to '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Materials/M_Master.uasset'
+[2024.11.20-00.16.06:005][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 2.98 sec)
+[2024.11.20-00.16.06:006][172]AssetCheck: New page: Asset Save: M_Master
+[2024.11.20-00.16.06:006][172]LogContentValidation: Display: Validating /Script/Engine.Material /Game/FirstPerson/Blueprints/Materials/M_Master.M_Master
+[2024.11.20-00.16.16:102][268]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.16.16:151][268]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.16.16:802][333]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.16.21:991][673]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_Displacement.Stone_Wall_xboicaz_2K_Displacement
+[2024.11.20-00.16.22:019][673]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2024.11.20-00.16.25:392][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.16.25:420][ 62]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_Displacement
+[2024.11.20-00.16.25:421][ 62]LogSavePackage: Moving '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Saved/Stone_Wall_xboicaz_2K_Displaceme408AA60B44C7B1206510FD898C5A07A3.tmp' to '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_Displacement.uasset'
+[2024.11.20-00.16.25:430][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 3.01 sec)
+[2024.11.20-00.16.25:433][ 62]AssetCheck: New page: Asset Save: Stone_Wall_xboicaz_2K_Displacement
+[2024.11.20-00.16.25:433][ 62]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/FirstPerson/Blueprints/Materials/TexturePlaceholders/Stone_Wall_xboicaz_2K_Displacement.Stone_Wall_xboicaz_2K_Displacement
+[2024.11.20-00.16.26:316][166]LogViewport: Scene viewport resized to 511x419, mode Windowed.
+[2024.11.20-00.16.26:331][167]LogViewport: Scene viewport resized to 511x416, mode Windowed.
+[2024.11.20-00.16.26:361][168]LogViewport: Scene viewport resized to 511x411, mode Windowed.
+[2024.11.20-00.16.26:378][169]LogViewport: Scene viewport resized to 511x408, mode Windowed.
+[2024.11.20-00.16.26:394][170]LogViewport: Scene viewport resized to 511x405, mode Windowed.
+[2024.11.20-00.16.26:409][171]LogViewport: Scene viewport resized to 511x403, mode Windowed.
+[2024.11.20-00.16.26:427][172]LogViewport: Scene viewport resized to 511x399, mode Windowed.
+[2024.11.20-00.16.26:442][173]LogViewport: Scene viewport resized to 511x397, mode Windowed.
+[2024.11.20-00.16.34:342][247]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.16.35:728][364]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.16.35:776][364]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.16.45:161][ 89]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.16.45:209][ 89]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.16.50:359][687]LogMaterialEditor: Applying material M_Master
+[2024.11.20-00.16.51:251][687]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2024.11.20-00.16.51:289][687]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.16.51:328][687]LogMaterial: Warning: [AssetLog] C:\Users\maxib\AppData\Local\GitHubDesktop\app-3.4.9\SoswareBeforeChristmas\ChristmasStory\Content\FirstPerson\Blueprints\Materials\M_Master.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.16.51:341][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.11.20-00.16.51:380][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.11.20-00.16.52:785][844]LogMaterialEditor: Saving and Compiling material M_Master
+[2024.11.20-00.16.52:785][844]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.16.52:887][844]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Materials/M_Master
+[2024.11.20-00.16.52:887][844]LogSavePackage: Moving '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Saved/M_MasterF15B18734BD6A38527C9A89455905B36.tmp' to '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Materials/M_Master.uasset'
+[2024.11.20-00.16.52:899][844]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 3.13 sec)
+[2024.11.20-00.16.52:901][844]AssetCheck: New page: Asset Save: M_Master
+[2024.11.20-00.16.52:901][844]LogContentValidation: Display: Validating /Script/Engine.Material /Game/FirstPerson/Blueprints/Materials/M_Master.M_Master
+[2024.11.20-00.17.30:296][920]LogMaterialEditor: Saving and Compiling material M_Master
+[2024.11.20-00.17.30:297][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.17.30:388][920]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Materials/M_Master
+[2024.11.20-00.17.30:388][920]LogSavePackage: Moving '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Saved/M_Master39513C184141EB04FEDC73946888D4FB.tmp' to '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Materials/M_Master.uasset'
+[2024.11.20-00.17.30:398][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 3.23 sec)
+[2024.11.20-00.17.30:402][920]AssetCheck: New page: Asset Save: M_Master
+[2024.11.20-00.17.30:402][920]LogContentValidation: Display: Validating /Script/Engine.Material /Game/FirstPerson/Blueprints/Materials/M_Master.M_Master
+[2024.11.20-00.17.52:980][290]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.17.53:031][290]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.17.54:063][405]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/StarterContent/Textures/T_Concrete_Tiles_M.T_Concrete_Tiles_M
+[2024.11.20-00.17.54:089][405]LogViewport: Scene viewport resized to 1424x936, mode Windowed.
+[2024.11.20-00.17.54:140][406]LogViewport: Scene viewport resized to 1424x917, mode Windowed.
+[2024.11.20-00.17.54:150][407]LogViewport: Scene viewport resized to 1424x912, mode Windowed.
+[2024.11.20-00.17.54:164][408]LogViewport: Scene viewport resized to 1424x907, mode Windowed.
+[2024.11.20-00.17.54:177][409]LogViewport: Scene viewport resized to 1424x902, mode Windowed.
+[2024.11.20-00.17.54:190][410]LogViewport: Scene viewport resized to 1424x897, mode Windowed.
+[2024.11.20-00.17.54:202][411]LogViewport: Scene viewport resized to 1424x892, mode Windowed.
+[2024.11.20-00.17.54:217][412]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2024.11.20-00.17.56:131][622]LogTexture: Display: Building textures: /Game/StarterContent/Textures/T_Concrete_Tiles_M.T_Concrete_Tiles_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.11.20-00.17.57:306][760]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.17.57:355][760]LogSavePackage: Moving output files for package: /Game/StarterContent/Textures/T_Concrete_Tiles_M
+[2024.11.20-00.17.57:355][760]LogSavePackage: Moving '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Saved/T_Concrete_Tiles_MF8076BEE47CD137D5EEAD18CB21CE8D7.tmp' to '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset'
+[2024.11.20-00.17.57:365][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 3.29 sec)
+[2024.11.20-00.17.57:367][760]AssetCheck: New page: Asset Save: T_Concrete_Tiles_M
+[2024.11.20-00.17.57:367][760]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StarterContent/Textures/T_Concrete_Tiles_M.T_Concrete_Tiles_M
+[2024.11.20-00.17.58:302][867]LogViewport: Scene viewport resized to 511x419, mode Windowed.
+[2024.11.20-00.17.58:319][868]LogViewport: Scene viewport resized to 511x415, mode Windowed.
+[2024.11.20-00.17.58:348][869]LogViewport: Scene viewport resized to 511x410, mode Windowed.
+[2024.11.20-00.17.58:367][870]LogViewport: Scene viewport resized to 511x407, mode Windowed.
+[2024.11.20-00.17.58:384][871]LogViewport: Scene viewport resized to 511x404, mode Windowed.
+[2024.11.20-00.17.58:402][872]LogViewport: Scene viewport resized to 511x401, mode Windowed.
+[2024.11.20-00.17.58:417][873]LogViewport: Scene viewport resized to 511x398, mode Windowed.
+[2024.11.20-00.17.58:433][874]LogViewport: Scene viewport resized to 511x397, mode Windowed.
+[2024.11.20-00.18.00:190][ 79]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.18.01:455][215]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.18.01:504][215]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.18.44:393][689]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.18.44:441][689]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.18.44:958][747]LogShaderCompilers: Display: ================================================
+[2024.11.20-00.18.44:958][747]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.20-00.18.44:958][747]LogShaderCompilers: Display: Total job queries 611, among them cache hits 231 (37.81%)
+[2024.11.20-00.18.44:958][747]LogShaderCompilers: Display: Tracking 380 distinct input hashes that result in 76 distinct outputs (20.00%)
+[2024.11.20-00.18.44:958][747]LogShaderCompilers: Display: RAM used: 13.22 MiB of 1.60 GiB budget. Usage: 0.81%
+[2024.11.20-00.18.44:958][747]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.20-00.18.44:958][747]LogShaderCompilers: Display: Shaders Compiled: 372
+[2024.11.20-00.18.44:958][747]LogShaderCompilers: Display: Jobs assigned 372, completed 372 (100.00%)
+[2024.11.20-00.18.44:958][747]LogShaderCompilers: Display: Average time worker was idle: 58.43 s
+[2024.11.20-00.18.44:958][747]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.57 s
+[2024.11.20-00.18.44:958][747]LogShaderCompilers: Display: Job execution time: average 0.38 s, max 0.66 s
+[2024.11.20-00.18.44:958][747]LogShaderCompilers: Display: Job life time (pending + execution): average 0.46 s, max 0.98
+[2024.11.20-00.18.44:958][747]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 42.31 s
+[2024.11.20-00.18.44:958][747]LogShaderCompilers: Display: Jobs were issued in 372 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.20-00.18.44:958][747]LogShaderCompilers: Display: Average processing rate: 8.79 jobs/sec
+[2024.11.20-00.18.44:958][747]LogShaderCompilers: Display: Total thread time: 104.787 s
+[2024.11.20-00.18.44:959][747]LogShaderCompilers: Display: Total thread preprocess time: 4.927 s
+[2024.11.20-00.18.44:959][747]LogShaderCompilers: Display: Percentage time preprocessing: 4.70%
+[2024.11.20-00.18.44:959][747]LogShaderCompilers: Display: Effective parallelization: 2.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.11.20-00.18.44:959][747]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.20-00.18.44:959][747]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.11.20-00.18.44:959][747]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2024.11.20-00.18.44:959][747]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2024.11.20-00.18.44:959][747]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2024.11.20-00.18.44:959][747]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 0.36 sec, max 0.39 sec, min 0.33 sec)
+[2024.11.20-00.18.44:959][747]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.20-00.18.44:959][747]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 40.76% of total time (compiled  139 times, average 0.31 sec, max 0.43 sec, min 0.25 sec)
+[2024.11.20-00.18.44:959][747]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 38.17% of total time (compiled  139 times, average 0.29 sec, max 0.38 sec, min 0.23 sec)
+[2024.11.20-00.18.44:959][747]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.03% of total time (compiled   39 times, average 0.24 sec, max 0.31 sec, min 0.22 sec)
+[2024.11.20-00.18.44:959][747]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.82% of total time (compiled   39 times, average 0.18 sec, max 0.23 sec, min 0.16 sec)
+[2024.11.20-00.18.44:959][747]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 1.03% of total time (compiled    3 times, average 0.36 sec, max 0.39 sec, min 0.33 sec)
+[2024.11.20-00.18.44:959][747]LogShaderCompilers: Display: ================================================
+[2024.11.20-00.18.47:352][ 26]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.18.47:400][ 26]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.18.52:030][572]LogMaterialEditor: Applying material M_Master
+[2024.11.20-00.18.52:951][572]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2024.11.20-00.18.52:988][572]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.18.53:025][572]LogMaterial: Warning: [AssetLog] C:\Users\maxib\AppData\Local\GitHubDesktop\app-3.4.9\SoswareBeforeChristmas\ChristmasStory\Content\FirstPerson\Blueprints\Materials\M_Master.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2024.11.20-00.18.53:038][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.11.20-00.18.53:073][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.11.20-00.18.53:775][652]LogMaterialEditor: Saving and Compiling material M_Master
+[2024.11.20-00.18.53:775][652]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.18.53:882][652]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Materials/M_Master
+[2024.11.20-00.18.53:883][652]LogSavePackage: Moving '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Saved/M_Master19D4E0B24E1059F484C2ADA9D471FEC1.tmp' to '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Materials/M_Master.uasset'
+[2024.11.20-00.18.53:894][652]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 3.41 sec)
+[2024.11.20-00.18.53:898][652]AssetCheck: New page: Asset Save: M_Master
+[2024.11.20-00.18.53:898][652]LogContentValidation: Display: Validating /Script/Engine.Material /Game/FirstPerson/Blueprints/Materials/M_Master.M_Master
+[2024.11.20-00.20.47:121][479]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Engine/Engine_MI_Shaders/T_Emissive.T_Emissive
+[2024.11.20-00.20.47:147][479]LogViewport: Scene viewport resized to 1424x936, mode Windowed.
+[2024.11.20-00.20.47:174][480]LogViewport: Scene viewport resized to 1424x926, mode Windowed.
+[2024.11.20-00.20.47:185][481]LogViewport: Scene viewport resized to 1424x921, mode Windowed.
+[2024.11.20-00.20.47:198][482]LogViewport: Scene viewport resized to 1424x916, mode Windowed.
+[2024.11.20-00.20.47:211][483]LogViewport: Scene viewport resized to 1424x911, mode Windowed.
+[2024.11.20-00.20.47:224][484]LogViewport: Scene viewport resized to 1424x905, mode Windowed.
+[2024.11.20-00.20.47:238][485]LogViewport: Scene viewport resized to 1424x901, mode Windowed.
+[2024.11.20-00.20.47:251][486]LogViewport: Scene viewport resized to 1424x895, mode Windowed.
+[2024.11.20-00.20.47:264][487]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2024.11.20-00.20.52:697][136]LogViewport: Scene viewport resized to 511x419, mode Windowed.
+[2024.11.20-00.20.52:711][137]LogViewport: Scene viewport resized to 511x415, mode Windowed.
+[2024.11.20-00.20.52:747][138]LogViewport: Scene viewport resized to 511x410, mode Windowed.
+[2024.11.20-00.20.52:762][139]LogViewport: Scene viewport resized to 511x407, mode Windowed.
+[2024.11.20-00.20.52:781][140]LogViewport: Scene viewport resized to 511x404, mode Windowed.
+[2024.11.20-00.20.52:800][141]LogViewport: Scene viewport resized to 511x401, mode Windowed.
+[2024.11.20-00.20.52:816][142]LogViewport: Scene viewport resized to 511x398, mode Windowed.
+[2024.11.20-00.20.52:835][143]LogViewport: Scene viewport resized to 511x397, mode Windowed.
+[2024.11.20-00.22.07:760][ 14]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+
+[2024.11.20-00.22.07:798][ 14]MaterialEditorStats: Error: [SM6] (Node StaticSwitchParameter) Missing A input
+[2024.11.20-00.22.07:798][ 14]MaterialEditorStats: Error: [SM6] (Node MakeMaterialAttributes) Error on property Normal
+[2024.11.20-00.22.07:798][ 14]MaterialEditorStats: Error: [SM6] (Node TextureObjectParameter) Param Tex Object> Requires valid texture
+[2024.11.20-00.22.07:798][ 14]MaterialEditorStats: Error: [SM6] (Node MakeMaterialAttributes) Error on property Metallic
+[2024.11.20-00.22.07:798][ 14]MaterialEditorStats: Error: [SM6] (Node MakeMaterialAttributes) Error on property Specular
+[2024.11.20-00.22.07:798][ 14]MaterialEditorStats: Error: [SM6] (Node MakeMaterialAttributes) Error on property Roughness
+[2024.11.20-00.22.12:691][527]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+
+[2024.11.20-00.22.14:348][717]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+
+[2024.11.20-00.22.37:367][402]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+
+[2024.11.20-00.22.37:405][402]MaterialEditorStats: Error: [SM6] (Node StaticSwitchParameter) Missing A input
+[2024.11.20-00.22.37:405][402]MaterialEditorStats: Error: [SM6] (Node MakeMaterialAttributes) Error on property Normal
+[2024.11.20-00.22.37:405][402]MaterialEditorStats: Error: [SM6] (Node MakeMaterialAttributes) Error on property Specular
+[2024.11.20-00.22.37:405][402]MaterialEditorStats: Error: [SM6] (Node MakeMaterialAttributes) Error on property Roughness
+[2024.11.20-00.22.40:115][637]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+
+[2024.11.20-00.22.41:845][838]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+
+[2024.11.20-00.22.52:518][ 61]LogMaterialEditor: Applying material M_Master
+[2024.11.20-00.22.53:418][ 61]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2024.11.20-00.22.53:455][ 61]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+
+[2024.11.20-00.22.53:494][ 61]LogMaterial: Warning: [AssetLog] C:\Users\maxib\AppData\Local\GitHubDesktop\app-3.4.9\SoswareBeforeChristmas\ChristmasStory\Content\FirstPerson\Blueprints\Materials\M_Master.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+
+[2024.11.20-00.22.53:509][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.11.20-00.22.53:547][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.11.20-00.22.54:488][145]LogMaterialEditor: Saving and Compiling material M_Master
+[2024.11.20-00.22.54:489][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.22.54:592][145]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Materials/M_Master
+[2024.11.20-00.22.54:592][145]LogSavePackage: Moving '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Saved/M_MasterDDF7C3D241AC76EB20BEC684B4EABCE1.tmp' to '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Materials/M_Master.uasset'
+[2024.11.20-00.22.54:603][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 3.52 sec)
+[2024.11.20-00.22.54:606][145]AssetCheck: New page: Asset Save: M_Master
+[2024.11.20-00.22.54:606][145]LogContentValidation: Display: Validating /Script/Engine.Material /Game/FirstPerson/Blueprints/Materials/M_Master.M_Master
+[2024.11.20-00.23.25:284][130]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+
+[2024.11.20-00.23.35:478][753]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+
+[2024.11.20-00.23.36:827][905]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Master: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+
+[2024.11.20-00.23.40:534][335]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.23.40:534][335]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.23.40:534][335]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.23.40:534][335]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: ================================================
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: Total job queries 617, among them cache hits 231 (37.44%)
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: Tracking 384 distinct input hashes that result in 77 distinct outputs (20.05%)
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: RAM used: 13.29 MiB of 1.60 GiB budget. Usage: 0.81%
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: Shaders Compiled: 376
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: Jobs assigned 378, completed 376 (99.47%)
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: Average time worker was idle: 65.29 s
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.57 s
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: Job execution time: average 0.38 s, max 0.66 s
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: Job life time (pending + execution): average 0.46 s, max 0.98
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 43.09 s
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: Jobs were issued in 378 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: Average processing rate: 8.73 jobs/sec
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: Total thread time: 105.694 s
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: Total thread preprocess time: 4.97 s
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: Percentage time preprocessing: 4.70%
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: Effective parallelization: 2.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 0.36 sec, max 0.39 sec, min 0.33 sec)
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 40.65% of total time (compiled  140 times, average 0.31 sec, max 0.43 sec, min 0.25 sec)
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 38.09% of total time (compiled  140 times, average 0.29 sec, max 0.38 sec, min 0.23 sec)
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.16% of total time (compiled   40 times, average 0.24 sec, max 0.31 sec, min 0.22 sec)
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.92% of total time (compiled   40 times, average 0.18 sec, max 0.23 sec, min 0.16 sec)
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 1.02% of total time (compiled    3 times, average 0.36 sec, max 0.39 sec, min 0.33 sec)
+[2024.11.20-00.23.41:098][337]LogShaderCompilers: Display: ================================================
+[2024.11.20-00.23.41:105][338]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.20-00.23.41:105][338]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.23.41:105][338]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.23.41:105][338]MaterialEditorStats: Shader Count: 2
+[2024.11.20-00.23.41:205][350]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.23.41:205][350]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.23.41:205][350]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.23.41:205][350]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.23.41:205][350]MaterialEditorStats: Shader Count: 3
+[2024.11.20-00.23.41:306][362]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.23.41:306][362]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.23.41:306][362]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.23.41:306][362]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.23.41:306][362]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.23.41:306][362]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.23.42:711][518]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.23.42:711][518]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.23.42:711][518]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.23.42:711][518]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.23.42:732][520]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.23.42:732][520]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.23.42:732][520]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.23.42:732][520]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.23.42:732][520]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.23.42:732][520]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.24.01:072][697]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.24.01:072][697]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.24.01:072][697]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.24.01:072][697]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.24.01:470][699]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.24.01:470][699]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.24.01:470][699]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.24.01:470][699]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.24.01:470][699]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.24.01:470][699]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.24.03:933][992]LogMaterialEditor: Applying material M_Master
+[2024.11.20-00.24.04:019][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.11.20-00.24.04:621][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.11.20-00.24.04:632][992]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.20-00.24.04:632][992]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.24.04:632][992]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.24.04:632][992]MaterialEditorStats: Shader Count: 2
+[2024.11.20-00.24.05:773][128]LogMaterialEditor: Saving and Compiling material M_Master
+[2024.11.20-00.24.05:775][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.24.06:751][128]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Materials/M_Master
+[2024.11.20-00.24.06:752][128]LogSavePackage: Moving '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Saved/M_Master6522DB1C4F9246FA8352B182607FD90F.tmp' to '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Materials/M_Master.uasset'
+[2024.11.20-00.24.06:762][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 987 ms (total: 4.51 sec)
+[2024.11.20-00.24.06:764][128]AssetCheck: New page: Asset Save: M_Master
+[2024.11.20-00.24.06:764][128]LogContentValidation: Display: Validating /Script/Engine.Material /Game/FirstPerson/Blueprints/Materials/M_Master.M_Master
+[2024.11.20-00.24.06:764][128]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.24.06:764][128]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.24.06:764][128]MaterialEditorStats: MaxSampler: 332 instructions
+[2024.11.20-00.24.06:764][128]MaterialEditorStats: Texture samplers: 7/16
+[2024.11.20-00.24.06:764][128]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.24.06:764][128]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.24.06:764][128]MaterialEditorStats: Shader Count: 16
+[2024.11.20-00.24.18:464][461]LogMaterialEditor: Applying material M_Master
+[2024.11.20-00.24.18:550][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.11.20-00.24.18:703][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.11.20-00.24.18:715][461]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.20-00.24.18:715][461]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.24.18:715][461]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.24.18:715][461]MaterialEditorStats: Shader Count: 2
+[2024.11.20-00.24.19:124][510]LogMaterialEditor: Saving and Compiling material M_Master
+[2024.11.20-00.24.19:125][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.24.19:231][510]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Materials/M_Master
+[2024.11.20-00.24.19:231][510]LogSavePackage: Moving '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Saved/M_Master066828E049ED112D73AE6CA78E67ADF8.tmp' to '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Materials/M_Master.uasset'
+[2024.11.20-00.24.19:241][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 4.62 sec)
+[2024.11.20-00.24.19:244][510]AssetCheck: New page: Asset Save: M_Master
+[2024.11.20-00.24.19:244][510]LogContentValidation: Display: Validating /Script/Engine.Material /Game/FirstPerson/Blueprints/Materials/M_Master.M_Master
+[2024.11.20-00.24.19:244][510]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.24.19:244][510]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.24.19:244][510]MaterialEditorStats: MaxSampler: 332 instructions
+[2024.11.20-00.24.19:244][510]MaterialEditorStats: Texture samplers: 7/16
+[2024.11.20-00.24.19:244][510]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.24.19:244][510]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.24.19:244][510]MaterialEditorStats: Shader Count: 16
+[2024.11.20-00.24.45:725][577]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.24.45:725][577]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.24.45:725][577]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.24.45:725][577]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.24.46:132][579]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.24.46:132][579]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.24.46:132][579]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.24.46:132][579]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.24.46:132][579]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.24.46:132][579]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.24.47:774][763]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.24.47:774][763]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.24.47:774][763]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.24.47:774][763]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.24.47:790][765]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.24.47:790][765]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.24.47:790][765]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.24.47:790][765]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.24.47:790][765]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.24.47:790][765]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.24.49:365][942]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.24.49:365][942]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.24.49:365][942]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.24.49:365][942]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.24.49:383][944]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.24.49:383][944]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.24.49:383][944]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.24.49:383][944]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.24.49:383][944]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.24.49:383][944]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.24.50:613][ 80]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.24.50:613][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.24.50:613][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.24.50:613][ 80]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.24.50:629][ 82]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.24.50:629][ 82]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.24.50:629][ 82]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.24.50:629][ 82]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.24.50:629][ 82]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.24.50:629][ 82]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.24.51:988][232]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.24.51:988][232]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.24.51:988][232]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.24.51:988][232]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.24.52:007][234]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.24.52:007][234]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.24.52:007][234]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.24.52:007][234]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.24.52:007][234]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.24.52:007][234]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.24.54:084][460]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.24.54:084][460]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.24.54:084][460]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.24.54:084][460]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.24.54:490][462]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.24.54:490][462]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.24.54:490][462]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.24.54:490][462]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.24.54:490][462]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.24.54:490][462]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.25.02:505][367]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.25.02:505][367]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.25.02:505][367]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.25.02:506][367]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.25.02:909][369]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.25.02:909][369]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.25.02:909][369]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.25.02:909][369]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.25.02:909][369]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.25.02:909][369]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.25.04:369][519]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.25.04:369][519]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.25.04:369][519]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.25.04:369][519]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.25.04:782][521]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.25.04:782][521]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.25.04:782][521]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.25.04:782][521]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.25.04:782][521]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.25.04:782][521]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.25.07:964][886]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.25.07:964][886]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.25.07:964][886]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.25.07:964][886]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.25.07:983][888]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.25.07:983][888]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.25.07:983][888]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.25.07:983][888]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.25.07:983][888]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.25.07:983][888]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.25.09:318][ 33]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.25.09:318][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.25.09:318][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.25.09:318][ 33]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.25.09:336][ 35]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.25.09:336][ 35]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.25.09:336][ 35]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.25.09:336][ 35]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.25.09:336][ 35]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.25.09:336][ 35]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.25.10:505][161]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.25.10:505][161]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.25.10:505][161]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.25.10:505][161]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.25.10:524][163]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.25.10:524][163]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.25.10:524][163]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.25.10:524][163]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.25.10:524][163]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.25.10:524][163]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.25.12:365][368]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.25.12:365][368]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.25.12:365][368]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.25.12:365][368]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.25.12:386][370]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.25.12:386][370]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.25.12:386][370]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.25.12:386][370]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.25.12:386][370]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.25.12:386][370]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.25.13:524][503]LogMaterialEditor: Applying material M_Master
+[2024.11.20-00.25.13:617][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.11.20-00.25.13:769][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.11.20-00.25.13:781][503]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.20-00.25.13:781][503]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.25.13:781][503]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.25.13:781][503]MaterialEditorStats: Shader Count: 2
+[2024.11.20-00.25.14:570][597]LogMaterialEditor: Saving and Compiling material M_Master
+[2024.11.20-00.25.14:571][597]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.25.14:674][597]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Materials/M_Master
+[2024.11.20-00.25.14:674][597]LogSavePackage: Moving '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Saved/M_Master48DD966F4DDFA020B81937A26B78D5EC.tmp' to '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Materials/M_Master.uasset'
+[2024.11.20-00.25.14:684][597]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 4.74 sec)
+[2024.11.20-00.25.14:687][597]AssetCheck: New page: Asset Save: M_Master
+[2024.11.20-00.25.14:687][597]LogContentValidation: Display: Validating /Script/Engine.Material /Game/FirstPerson/Blueprints/Materials/M_Master.M_Master
+[2024.11.20-00.25.14:688][597]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.25.14:688][597]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.25.14:688][597]MaterialEditorStats: MaxSampler: 332 instructions
+[2024.11.20-00.25.14:688][597]MaterialEditorStats: Texture samplers: 7/16
+[2024.11.20-00.25.14:688][597]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.25.14:688][597]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.25.14:688][597]MaterialEditorStats: Shader Count: 16
+[2024.11.20-00.25.21:338][314]LogMaterialEditor: Applying material M_Master
+[2024.11.20-00.25.21:427][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.11.20-00.25.21:587][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.11.20-00.25.21:598][314]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.20-00.25.21:598][314]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.25.21:598][314]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.25.21:598][314]MaterialEditorStats: Shader Count: 2
+[2024.11.20-00.25.22:036][360]LogMaterialEditor: Saving and Compiling material M_Master
+[2024.11.20-00.25.22:038][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.25.22:149][360]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Materials/M_Master
+[2024.11.20-00.25.22:149][360]LogSavePackage: Moving '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Saved/M_MasterC06D167245FA91680213C1863AEE1CF3.tmp' to '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Materials/M_Master.uasset'
+[2024.11.20-00.25.22:159][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 4.86 sec)
+[2024.11.20-00.25.22:162][360]AssetCheck: New page: Asset Save: M_Master
+[2024.11.20-00.25.22:162][360]LogContentValidation: Display: Validating /Script/Engine.Material /Game/FirstPerson/Blueprints/Materials/M_Master.M_Master
+[2024.11.20-00.25.22:162][360]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.25.22:162][360]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.25.22:162][360]MaterialEditorStats: MaxSampler: 332 instructions
+[2024.11.20-00.25.22:162][360]MaterialEditorStats: Texture samplers: 7/16
+[2024.11.20-00.25.22:162][360]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.25.22:162][360]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.25.22:162][360]MaterialEditorStats: Shader Count: 16
+[2024.11.20-00.26.11:250][362]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.26.11:250][362]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.26.11:250][362]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.26.11:250][362]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.26.11:756][421]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.20-00.26.11:756][421]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.26.11:756][421]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.26.11:756][421]MaterialEditorStats: Shader Count: 2
+[2024.11.20-00.26.11:857][433]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.26.11:857][433]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.26.11:857][433]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.26.11:857][433]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.26.11:857][433]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.26.11:857][433]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.26.18:354][665]LogMaterialEditor: Applying material M_Master
+[2024.11.20-00.26.18:441][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.11.20-00.26.18:940][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.11.20-00.26.18:951][665]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.20-00.26.18:951][665]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.26.18:951][665]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.26.18:951][665]MaterialEditorStats: Shader Count: 2
+[2024.11.20-00.26.19:754][753]LogMaterialEditor: Saving and Compiling material M_Master
+[2024.11.20-00.26.19:755][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.26.20:644][753]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Materials/M_Master
+[2024.11.20-00.26.20:645][753]LogSavePackage: Moving '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Saved/M_Master6345EBDB4447B5C4BE3B7B938511B92B.tmp' to '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Materials/M_Master.uasset'
+[2024.11.20-00.26.20:655][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 899 ms (total: 5.76 sec)
+[2024.11.20-00.26.20:658][753]AssetCheck: New page: Asset Save: M_Master
+[2024.11.20-00.26.20:658][753]LogContentValidation: Display: Validating /Script/Engine.Material /Game/FirstPerson/Blueprints/Materials/M_Master.M_Master
+[2024.11.20-00.26.20:659][753]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.26.20:659][753]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.26.20:659][753]MaterialEditorStats: MaxSampler: 332 instructions
+[2024.11.20-00.26.20:659][753]MaterialEditorStats: Texture samplers: 7/16
+[2024.11.20-00.26.20:659][753]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.26.20:659][753]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.26.20:659][753]MaterialEditorStats: Shader Count: 16
+[2024.11.20-00.27.35:463][718]LogDerivedDataCache: C:/Users/maxib/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:37.169 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 19521 files in 22528 folders with total size 1745 MiB.
+[2024.11.20-00.27.50:231][379]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.27.50:231][379]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.27.50:231][379]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.27.50:231][379]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.27.50:241][380]LogShaderCompilers: Display: ================================================
+[2024.11.20-00.27.50:241][380]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.20-00.27.50:241][380]LogShaderCompilers: Display: Total job queries 793, among them cache hits 369 (46.53%)
+[2024.11.20-00.27.50:241][380]LogShaderCompilers: Display: Tracking 424 distinct input hashes that result in 87 distinct outputs (20.52%)
+[2024.11.20-00.27.50:241][380]LogShaderCompilers: Display: RAM used: 14.25 MiB of 1.60 GiB budget. Usage: 0.87%
+[2024.11.20-00.27.50:241][380]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.20-00.27.50:241][380]LogShaderCompilers: Display: Shaders Compiled: 416
+[2024.11.20-00.27.50:241][380]LogShaderCompilers: Display: Jobs assigned 416, completed 416 (100.00%)
+[2024.11.20-00.27.50:241][380]LogShaderCompilers: Display: Average time worker was idle: 79.96 s
+[2024.11.20-00.27.50:241][380]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.57 s
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display: Job execution time: average 0.38 s, max 0.66 s
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display: Job life time (pending + execution): average 0.46 s, max 0.98
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 46.30 s
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display: Jobs were issued in 416 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display: Average processing rate: 8.98 jobs/sec
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display: Total thread time: 118.399 s
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display: Total thread preprocess time: 5.53 s
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display: Percentage time preprocessing: 4.67%
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display: Effective parallelization: 2.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 0.40 sec, max 0.41 sec, min 0.39 sec)
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 0.39 sec, max 0.44 sec, min 0.36 sec)
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    3 times, average 0.39 sec, max 0.41 sec, min 0.38 sec)
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    5 times, average 0.37 sec, max 0.42 sec, min 0.33 sec)
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    5 times, average 0.37 sec, max 0.39 sec, min 0.33 sec)
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 37.76% of total time (compiled  145 times, average 0.31 sec, max 0.43 sec, min 0.25 sec)
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 35.19% of total time (compiled  145 times, average 0.29 sec, max 0.38 sec, min 0.23 sec)
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.85% of total time (compiled   43 times, average 0.24 sec, max 0.31 sec, min 0.22 sec)
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.69% of total time (compiled   43 times, average 0.18 sec, max 0.23 sec, min 0.16 sec)
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 1.57% of total time (compiled    5 times, average 0.37 sec, max 0.42 sec, min 0.33 sec)
+[2024.11.20-00.27.50:242][380]LogShaderCompilers: Display: ================================================
+[2024.11.20-00.27.50:256][381]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.27.50:256][381]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.27.50:256][381]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.27.50:256][381]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.27.50:256][381]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.27.50:256][381]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.27.54:423][852]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.27.54:423][852]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.27.54:423][852]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.27.54:423][852]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.27.54:445][854]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.27.54:445][854]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.27.54:445][854]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.27.54:445][854]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.27.54:445][854]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.27.54:445][854]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.28.06:535][753]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.28.06:535][753]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.28.06:535][753]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.28.06:535][753]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.28.06:553][755]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.28.06:553][755]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.28.06:553][755]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.28.06:553][755]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.28.06:553][755]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.28.06:553][755]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.28.09:061][ 31]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.28.09:061][ 31]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.28.09:061][ 31]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.28.09:061][ 31]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.28.09:093][ 33]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.28.09:093][ 33]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.28.09:093][ 33]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.28.09:093][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.28.09:093][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.28.09:093][ 33]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.28.09:978][120]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.28.09:978][120]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.28.09:978][120]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.28.09:978][120]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.28.10:004][122]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.28.10:004][122]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.28.10:004][122]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.28.10:004][122]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.28.10:004][122]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.28.10:004][122]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.28.11:002][225]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.28.11:002][225]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.28.11:002][225]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.28.11:002][225]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.28.11:024][227]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.28.11:024][227]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.28.11:024][227]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.28.11:024][227]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.28.11:024][227]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.28.11:024][227]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.28.16:336][448]LogMaterialEditor: Applying material M_Master
+[2024.11.20-00.28.16:428][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.11.20-00.28.16:583][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.11.20-00.28.16:594][448]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.20-00.28.16:594][448]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.28.16:594][448]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.28.16:594][448]MaterialEditorStats: Shader Count: 2
+[2024.11.20-00.28.17:201][513]LogMaterialEditor: Saving and Compiling material M_Master
+[2024.11.20-00.28.17:202][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.28.17:305][513]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Materials/M_Master
+[2024.11.20-00.28.17:305][513]LogSavePackage: Moving '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Saved/M_MasterDEA69D244D163560C444F684E6E9D6A8.tmp' to '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Materials/M_Master.uasset'
+[2024.11.20-00.28.17:315][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 5.87 sec)
+[2024.11.20-00.28.17:318][513]AssetCheck: New page: Asset Save: M_Master
+[2024.11.20-00.28.17:318][513]LogContentValidation: Display: Validating /Script/Engine.Material /Game/FirstPerson/Blueprints/Materials/M_Master.M_Master
+[2024.11.20-00.28.17:319][513]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.28.17:319][513]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.28.17:319][513]MaterialEditorStats: MaxSampler: 332 instructions
+[2024.11.20-00.28.17:319][513]MaterialEditorStats: Texture samplers: 7/16
+[2024.11.20-00.28.17:319][513]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.28.17:319][513]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.28.17:319][513]MaterialEditorStats: Shader Count: 16
+[2024.11.20-00.28.49:860][621]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.28.49:860][621]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.28.49:860][621]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.28.49:860][621]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.28.50:264][623]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.28.50:264][623]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.28.50:264][623]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.28.50:264][623]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.28.50:264][623]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.28.50:264][623]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.28.51:893][795]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.28.51:893][795]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.28.51:893][795]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.28.51:893][795]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.28.52:318][797]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.20-00.28.52:318][797]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.28.52:318][797]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.28.52:318][797]MaterialEditorStats: Shader Count: 2
+[2024.11.20-00.28.52:377][804]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.28.52:378][804]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.28.52:378][804]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.28.52:378][804]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.28.52:378][804]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.28.52:378][804]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.28.56:459][281]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.28.56:459][281]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.28.56:459][281]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.28.56:459][281]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.28.56:476][283]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.28.56:476][283]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.28.56:476][283]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.28.56:476][283]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.28.56:476][283]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.28.56:476][283]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.29.03:131][ 67]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.29.03:131][ 67]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.03:131][ 67]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.03:131][ 67]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.29.03:147][ 69]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.29.03:147][ 69]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.29.03:147][ 69]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.29.03:147][ 69]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.03:147][ 69]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.03:147][ 69]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.29.06:480][455]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.29.06:480][455]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.06:480][455]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.06:480][455]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.29.06:495][457]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.29.06:495][457]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.29.06:496][457]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.29.06:496][457]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.06:496][457]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.06:496][457]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.29.08:315][663]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.29.08:315][663]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.08:315][663]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.08:315][663]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.29.08:332][665]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.29.08:332][665]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.29.08:332][665]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.29.08:332][665]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.08:332][665]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.08:332][665]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.29.10:565][919]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.29.10:565][919]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.10:565][919]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.10:565][919]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.29.10:581][921]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.29.10:581][921]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.29.10:581][921]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.29.10:581][921]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.10:581][921]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.10:581][921]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.29.13:354][239]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.29.13:354][239]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.13:354][239]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.13:354][239]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.29.13:370][241]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.29.13:370][241]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.29.13:370][241]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.29.13:370][241]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.13:370][241]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.13:370][241]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.29.17:014][663]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.29.17:014][663]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.17:014][663]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.17:014][663]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.29.17:031][665]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.29.17:031][665]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.29.17:031][665]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.29.17:031][665]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.17:031][665]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.17:031][665]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.29.19:544][953]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.29.19:544][953]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.19:544][953]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.19:544][953]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.29.19:565][955]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.29.19:565][955]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.29.19:565][955]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.29.19:565][955]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.19:565][955]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.19:565][955]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.29.25:873][687]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.29.25:873][687]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.25:873][687]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.25:873][687]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.29.25:891][689]MaterialEditorStats: Base pass shader: 269 instructions
+[2024.11.20-00.29.25:891][689]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.29.25:891][689]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.29.25:891][689]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.25:891][689]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.25:891][689]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.29.34:179][671]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.29.34:179][671]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.34:179][671]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.34:179][671]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.29.34:526][711]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.20-00.29.34:526][711]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.34:526][711]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.34:526][711]MaterialEditorStats: Shader Count: 1
+[2024.11.20-00.29.34:627][723]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.29.34:627][723]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.20-00.29.34:627][723]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.34:627][723]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.34:627][723]MaterialEditorStats: Shader Count: 2
+[2024.11.20-00.29.34:724][734]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.29.34:724][734]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.29.34:724][734]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.29.34:724][734]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.34:724][734]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.34:724][734]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.29.37:368][ 48]LogMaterialEditor: Applying material M_Master
+[2024.11.20-00.29.37:459][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.11.20-00.29.38:059][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.11.20-00.29.38:070][ 48]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.20-00.29.38:070][ 48]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.38:070][ 48]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.38:070][ 48]MaterialEditorStats: Shader Count: 2
+[2024.11.20-00.29.38:726][127]LogMaterialEditor: Saving and Compiling material M_Master
+[2024.11.20-00.29.38:727][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.29.39:632][127]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Materials/M_Master
+[2024.11.20-00.29.39:632][127]LogSavePackage: Moving '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Saved/M_Master5176E8EA461B5E410E850CB547F13156.tmp' to '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Materials/M_Master.uasset'
+[2024.11.20-00.29.39:643][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 915 ms (total: 6.79 sec)
+[2024.11.20-00.29.39:645][127]AssetCheck: New page: Asset Save: M_Master
+[2024.11.20-00.29.39:645][127]LogContentValidation: Display: Validating /Script/Engine.Material /Game/FirstPerson/Blueprints/Materials/M_Master.M_Master
+[2024.11.20-00.29.39:646][127]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.29.39:646][127]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.29.39:646][127]MaterialEditorStats: MaxSampler: 357 instructions
+[2024.11.20-00.29.39:646][127]MaterialEditorStats: Texture samplers: 7/16
+[2024.11.20-00.29.39:646][127]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.39:646][127]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.39:646][127]MaterialEditorStats: Shader Count: 16
+[2024.11.20-00.29.52:802][658]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.29.52:802][658]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.52:802][658]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.52:802][658]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.29.53:218][660]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.29.53:218][660]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.29.53:218][660]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.29.53:218][660]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.53:218][660]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.53:218][660]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.29.54:946][842]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.29.54:946][842]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.54:946][842]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.54:946][842]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.29.55:373][844]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.29.55:373][844]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.29.55:373][844]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.29.55:373][844]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.29.55:373][844]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.29.55:373][844]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.02:544][681]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.02:544][681]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.02:544][681]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.02:544][681]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.02:559][683]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.02:559][683]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.02:559][683]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.02:559][683]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.02:559][683]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.02:559][683]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.04:495][901]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.04:495][901]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.04:495][901]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.04:495][901]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.04:511][903]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.04:511][903]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.04:511][903]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.04:511][903]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.04:511][903]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.04:511][903]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.05:696][ 31]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.05:696][ 31]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.05:696][ 31]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.05:696][ 31]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.05:712][ 33]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.05:712][ 33]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.05:712][ 33]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.05:712][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.05:712][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.05:712][ 33]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.07:130][191]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.07:130][191]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.07:130][191]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.07:130][191]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.07:146][193]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.07:146][193]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.07:146][193]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.07:146][193]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.07:146][193]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.07:146][193]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.08:330][322]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.08:330][322]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.08:330][322]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.08:330][322]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.08:346][324]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.08:346][324]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.08:346][324]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.08:346][324]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.08:346][324]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.08:346][324]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.09:819][487]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.09:819][487]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.09:819][487]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.09:819][487]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.09:835][489]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.09:835][489]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.09:835][489]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.09:835][489]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.09:835][489]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.09:835][489]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.11:444][665]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.11:444][665]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.11:444][665]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.11:444][665]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.11:460][667]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.11:460][667]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.11:460][667]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.11:460][667]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.11:460][667]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.11:460][667]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.13:145][857]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.13:145][857]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.13:145][857]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.13:145][857]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.13:161][859]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.13:161][859]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.13:161][859]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.13:161][859]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.13:161][859]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.13:161][859]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.15:148][ 84]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.15:148][ 84]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.15:149][ 84]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.15:149][ 84]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.15:165][ 86]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.15:165][ 86]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.15:165][ 86]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.15:165][ 86]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.15:165][ 86]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.15:165][ 86]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.16:716][260]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.16:716][260]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.16:716][260]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.16:716][260]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.16:736][262]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.16:736][262]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.16:736][262]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.16:736][262]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.16:736][262]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.16:736][262]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.20:976][727]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.20:976][727]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.20:976][727]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.20:976][727]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.21:389][729]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.21:389][729]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.21:389][729]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.21:389][729]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.21:389][729]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.21:389][729]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.24:767][110]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.24:767][110]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.24:767][110]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.24:767][110]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.25:182][112]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.25:183][112]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.25:183][112]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.25:183][112]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.25:183][112]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.25:183][112]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.26:787][290]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.26:787][290]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.26:787][290]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.26:787][290]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.26:803][292]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.26:803][292]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.26:803][292]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.26:803][292]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.26:803][292]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.26:803][292]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.28:133][439]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.28:133][439]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.28:133][439]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.28:133][439]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.28:150][441]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.28:150][441]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.28:150][441]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.28:150][441]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.28:150][441]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.28:150][441]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.29:263][561]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.29:263][561]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.29:263][561]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.29:263][561]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.29:279][563]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.29:279][563]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.29:279][563]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.29:279][563]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.29:279][563]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.29:279][563]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.30:606][709]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.30:606][709]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.30:606][709]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.30:606][709]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.30:622][711]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.30:622][711]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.30:622][711]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.30:622][711]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.30:622][711]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.30:622][711]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.31:985][862]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.31:985][862]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.31:985][862]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.31:985][862]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.32:002][864]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.32:002][864]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.32:002][864]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.32:002][864]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.32:002][864]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.32:002][864]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.34:078][ 99]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.34:078][ 99]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.34:078][ 99]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.34:078][ 99]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.34:100][101]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.34:100][101]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.34:100][101]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.34:100][101]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.34:100][101]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.34:100][101]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.35:690][278]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.35:690][278]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.35:690][278]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.35:690][278]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.35:705][280]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.35:705][280]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.35:705][280]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.35:705][280]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.35:705][280]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.35:705][280]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.37:237][450]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.37:237][450]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.37:237][450]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.37:237][450]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.37:254][452]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.37:254][452]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.37:254][452]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.37:254][452]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.37:254][452]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.37:254][452]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.39:164][667]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.39:164][667]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.39:164][667]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.39:164][667]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.39:181][669]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.39:181][669]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.39:181][669]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.39:181][669]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.39:181][669]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.39:182][669]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.41:683][956]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.20-00.30.41:684][956]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.41:684][956]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.41:684][956]MaterialEditorStats: Shader Count: 0
+[2024.11.20-00.30.41:700][958]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.41:700][958]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.41:700][958]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.20-00.30.41:700][958]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.41:700][958]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.41:700][958]MaterialEditorStats: Shader Count: 4
+[2024.11.20-00.30.42:673][ 73]LogMaterialEditor: Applying material M_Master
+[2024.11.20-00.30.42:771][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.11.20-00.30.42:927][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.11.20-00.30.42:939][ 73]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.20-00.30.42:939][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.42:939][ 73]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.42:939][ 73]MaterialEditorStats: Shader Count: 2
+[2024.11.20-00.30.43:473][137]LogMaterialEditor: Saving and Compiling material M_Master
+[2024.11.20-00.30.43:474][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-00.30.43:579][137]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Materials/M_Master
+[2024.11.20-00.30.43:579][137]LogSavePackage: Moving '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Saved/M_Master0B13C1E842E8D80961A51D8CA4B4E73E.tmp' to '../../../../../Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Materials/M_Master.uasset'
+[2024.11.20-00.30.43:589][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 6.90 sec)
+[2024.11.20-00.30.43:591][137]AssetCheck: New page: Asset Save: M_Master
+[2024.11.20-00.30.43:591][137]LogContentValidation: Display: Validating /Script/Engine.Material /Game/FirstPerson/Blueprints/Materials/M_Master.M_Master
+[2024.11.20-00.30.43:592][137]MaterialEditorStats: Base pass shader: 293 instructions
+[2024.11.20-00.30.43:592][137]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2024.11.20-00.30.43:592][137]MaterialEditorStats: MaxSampler: 357 instructions
+[2024.11.20-00.30.43:592][137]MaterialEditorStats: Texture samplers: 7/16
+[2024.11.20-00.30.43:592][137]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.11.20-00.30.43:592][137]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.20-00.30.43:592][137]MaterialEditorStats: Shader Count: 16
