@@ -1195,3 +1195,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.22-17.51.45:157][  0]LogContentStreaming: Texture pool size now 400 MB
 [2024.11.22-17.51.45:189][  0]LogViewport: Scene viewport resized to 1240x894, mode Windowed.
 [2024.11.22-17.51.45:205][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-17.53.47:594][368]LogDerivedDataCache: C:/Users/matul/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.229 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5880 files in 7922 folders with total size 549 MiB.
