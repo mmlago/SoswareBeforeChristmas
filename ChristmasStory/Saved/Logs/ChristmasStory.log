@@ -5756,3 +5756,125 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.22-19.38.41:934][165]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Maps/FirstPersonMap does not exist, will not scan.
 [2024.11.22-19.39.18:519][407]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/Epic Games/UE_5.2/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedInputSubsystems.h'.
 [2024.11.22-19.39.18:531][408]LogAutomationController: Ignoring very large delta of 8.94 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.22-19.39.35:149][496]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.11.22-19.39.35:222][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.11.22-19.39.35:662][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-19.39.35:774][522]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.11.22-19.39.35:775][522]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/BP_FirstPersonCharacter6EEA3D414640C25FD98818BEE4F25C98.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.11.22-19.39.35:794][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 1.79 sec)
+[2024.11.22-19.39.35:802][522]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.11.22-19.39.35:802][522]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.11.22-19.40.05:860][359]LogBlueprint: Warning: [AssetLog] C:\Users\matul\Desktop\Clase 6\SoswareBeforeChristmas\ChristmasStory\Content\FirstPerson\Blueprints\BP_Weapon_Component.uasset: [Compiler] Could not find a variable named "FirstPersonMesh" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get FirstPersonMesh
+[2024.11.22-19.40.05:860][359]LogBlueprint: Warning: [AssetLog] C:\Users\matul\Desktop\Clase 6\SoswareBeforeChristmas\ChristmasStory\Content\FirstPerson\Blueprints\BP_Weapon_Component.uasset: [Compiler] Could not find a variable named "FirstPersonMesh" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get FirstPersonMesh
+[2024.11.22-19.40.05:861][359]LogBlueprint: Error: [AssetLog] C:\Users\matul\Desktop\Clase 6\SoswareBeforeChristmas\ChristmasStory\Content\FirstPerson\Blueprints\BP_Weapon_Component.uasset: [Compiler] The property associated with  First Person Mesh  could not be found in '/Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component_C'
+[2024.11.22-19.40.05:861][359]LogBlueprint: Error: [AssetLog] C:\Users\matul\Desktop\Clase 6\SoswareBeforeChristmas\ChristmasStory\Content\FirstPerson\Blueprints\BP_Weapon_Component.uasset: [Compiler] The property associated with  First Person Mesh  could not be found in '/Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component_C'
+[2024.11.22-19.40.05:910][359]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/FirstPersonArms/Animations/FP_Rifle_Fire.FP_Rifle_Fire
+[2024.11.22-19.40.05:920][359]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.11.22-19.40.05:948][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.11.22-19.40.07:919][359]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.22-19.40.07:967][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.11.22-19.40.07:989][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.11.22-19.40.08:011][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.11.22-19.40.08:031][359]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.22-19.40.08:072][360]LogAutomationController: Ignoring very large delta of 2.26 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.22-19.40.09:354][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.11.22-19.40.10:310][490]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.22-19.40.10:353][490]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+	Asset Type: Blueprint
+[2024.11.22-19.40.10:678][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.11.22-19.40.10:699][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.11.22-19.40.10:718][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.11.22-19.40.13:296][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.11.22-19.40.14:259][756]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.22-19.40.14:340][756]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile
+	Asset Type: Blueprint
+[2024.11.22-19.40.14:630][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.11.22-19.40.14:765][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.11.22-19.40.14:788][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.11.22-19.40.14:812][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.11.22-19.40.23:073][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.23:073][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.23:073][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.23:075][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.23:075][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.23:075][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.23:075][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.23:076][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.23:076][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.23:076][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.23:077][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.23:077][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.23:077][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.23:078][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.23:078][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.23:078][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.23:079][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.23:079][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.32:692][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.32:693][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.32:693][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.32:693][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.32:694][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.32:694][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.32:694][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.32:695][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.32:695][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.32:695][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.32:696][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.47:865][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.11.22-19.40.51:671][338]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.22-19.40.51:882][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.22-19.40.51:902][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.11.22-19.40.51:921][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.11.22-19.40.52:020][339]LogAutomationController: Ignoring very large delta of 4.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.22-19.40.52:051][340]LogShaderCompilers: Display: ================================================
+[2024.11.22-19.40.52:051][340]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.22-19.40.52:051][340]LogShaderCompilers: Display: Total job queries 960, among them cache hits 191 (19.90%)
+[2024.11.22-19.40.52:051][340]LogShaderCompilers: Display: Tracking 768 distinct input hashes that result in 69 distinct outputs (8.98%)
+[2024.11.22-19.40.52:051][340]LogShaderCompilers: Display: RAM used: 13.14 MiB of 819.20 MiB budget. Usage: 1.60%
+[2024.11.22-19.40.52:051][340]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.22-19.40.52:051][340]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.11.22-19.40.52:051][340]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100.00%)
+[2024.11.22-19.40.52:051][340]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2024.11.22-19.40.52:051][340]LogShaderCompilers: Display: Job execution time: average 1.02 s, max 1.02 s
+[2024.11.22-19.40.52:051][340]LogShaderCompilers: Display: Job life time (pending + execution): average 1.07 s, max 1.07
+[2024.11.22-19.40.52:051][340]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.07 s
+[2024.11.22-19.40.52:051][340]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.22-19.40.52:051][340]LogShaderCompilers: Display: Average processing rate: 0.93 jobs/sec
+[2024.11.22-19.40.52:051][340]LogShaderCompilers: Display: ================================================
+[2024.11.22-19.40.52:345][349]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 33554432 bytes
+[2024.11.22-19.40.55:802][583]Cmd: TRANSACTION UNDO
+[2024.11.22-19.40.55:802][583]LogEditorTransaction: Undo Clicking on Actors
+[2024.11.22-19.40.55:925][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.55:925][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.55:926][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.55:926][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.55:927][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.55:927][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.55:928][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.55:928][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.55:928][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.55:928][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.55:928][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.55:929][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.55:929][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.55:930][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.55:930][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.55:931][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.55:933][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.40.55:933][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.22-19.41.14:054][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.11.22-19.41.14:075][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.11.22-19.41.14:894][303]LogSlate: Window 'Save Content' being destroyed
+[2024.11.22-19.41.14:912][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-19.41.15:000][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.11.22-19.41.15:095][303]LogSavePackage: Moving output files for package: /Game/Maps/PruebasMauri
+[2024.11.22-19.41.15:096][303]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasMauriE3E41CF44AAB32080DFE2BAE5B1B8577.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasMauri.umap'
+[2024.11.22-19.41.15:105][303]LogFileHelpers: Saving map 'PruebasMauri' took 0.130
+[2024.11.22-19.41.15:121][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 209 ms (total: 1.99 sec)
+[2024.11.22-19.41.15:128][303]AssetCheck: New page: Asset Save: PruebasMauri
+[2024.11.22-19.41.15:128][303]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
