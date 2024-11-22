@@ -7279,3 +7279,6 @@ Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get FirstPersonMesh
 [2024.11.22-19.45.59:415][126]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
 [2024.11.22-19.45.59:652][150]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 33554432 bytes
 [2024.11.22-19.49.34:522][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.11.22-20.00.40:201][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.11.22-20.00.40:777][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.11.22-20.00.40:927][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
