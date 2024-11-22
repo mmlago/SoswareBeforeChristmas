@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<ExecutionGuid>F13438D843C860A569DC128C83F647D5</ExecutionGuid>
+		<CrashGUID>UECC-Windows-2222135A4BEC118A98DB478128E85890_0000</CrashGUID>
+		<IsEnsure>true</IsEnsure>
+		<IsStall>false</IsStall>
+		<IsAssert>false</IsAssert>
+		<CrashType>Ensure</CrashType>
+		<ErrorMessage>Ensure condition failed: !ObjectPackageData.ObjectPath.Contains(L&quot;.&quot;, ESearchCase::CaseSensitive) [File:D:\build\++UE5\Sync\Engine\Source\Runtime\AssetRegistry\Private\PackageReader.cpp] [Line: 1168] Cannot make FAssetData for sub object Box_Brush77_StaticMesh. in package /Game/ObjetosCasa/Box_Brush77_StaticMesh! Stack: 0x00007ffc5dd402b2 UnrealEditor-AssetRegistry.dll!UnknownFunction [] 0x00007ffc5dd3e56e UnrealEditor-AssetRegistry.dll!UnknownFunction [] 0x00007ffc5dd3dddc UnrealEditor-AssetRegistry.dll!UnknownFunction [] 0x00007ffc5dd3dccb UnrealEditor-AssetRegistry.dll!UnknownFunction [] 0x00007ffc5dce4f04 UnrealEditor-AssetRegistry.dll!UnknownFunction [] 0x00007ffc5dce5dfd UnrealEditor-AssetRegistry.dll!UnknownFunction [] 0x00007ffc5dcf8b94 UnrealEditor-AssetRegistry.dll!UnknownFunction [] 0x00007ffc322452e5 UnrealEditor-Core.dll!UnknownFunction [] 0x00007ffc322451cc UnrealEditor-Core.dll!UnknownFunction [] 0x00007ffc32220055 UnrealEditor-Core.dll!UnknownFunction [] 0x00007ffc322781a2 UnrealEditor-Core.dll!UnknownFunction [] 0x00007ffc322337c0 UnrealEditor-Core.dll!UnknownFunction [] 0x00007ffc323c5670 UnrealEditor-Core.dll!UnknownFunction [] 0x00007ffc32922162 UnrealEditor-Core.dll!UnknownFunction [] 0x00007ffc329181b0 UnrealEditor-Core.dll!UnknownFunction [] 0x00007ffcd694259d KERNEL32.DLL!UnknownFunction [] 0x00007ffcd83eaf38 ntdll.dll!UnknownFunction []</ErrorMessage>
+		<CrashReporterMessage />
+		<ProcessId>4980</ProcessId>
+		<SecondsSinceStart>0</SecondsSinceStart>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<GameName>UE-ChristmasStory</GameName>
+		<ExecutableName>UnrealEditor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>WindowsEditor</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Editor</EngineMode>
+		<EngineModeEx>Unset</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>5.2.1-26001984+++UE5+Release-5.2</EngineVersion>
+		<CommandLine>CommandLineRemoved</CommandLine>
+		<LanguageLCID>0</LanguageLCID>
+		<AppDefaultLocale>en-US</AppDefaultLocale>
+		<BuildVersion>++UE5+Release-5.2-CL-26001984</BuildVersion>
+		<Symbols>**UE5*Release-5.2-CL-26001984-Win64-Development</Symbols>
+		<IsUERelease>true</IsUERelease>
+		<IsRequestingExit>false</IsRequestingExit>
+		<UserName />
+		<BaseDir>D:/Epic Games/UE_5.2/Engine/Binaries/Win64/</BaseDir>
+		<RootDir>D:/Epic Games/UE_5.2/</RootDir>
+		<MachineId>7DF7C33C4F1B926D4C084AA69A57D06C</MachineId>
+		<LoginId>7df7c33c4f1b926d4c084aa69a57d06c</LoginId>
+		<EpicAccountId>8138763b1c254f608ee74ab7f287cb90</EpicAccountId>
+		<SourceContext />
+		<UserDescription>Sent in the unattended mode</UserDescription>
+		<UserActivityHint />
+		<CrashDumpMode>0</CrashDumpMode>
+		<GameStateName />
+		<Misc.NumberOfCores>6</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>12</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>NVIDIA GeForce RTX 3060 Ti</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 11 (23H2) [10.0.22631.4460]</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<MemoryStats.TotalPhysical>17042575360</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>26169380864</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>6471847936</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>6384640000</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>1521098752</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>1521098752</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>1638522880</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>1638522880</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<NumMinidumpFramesToIgnore>6</NumMinidumpFramesToIgnore>
+		<CallStack />
+		<PCallStack>UnrealEditor-AssetRegistry 0x00007ffc5dc90000 + b02b2 UnrealEditor-AssetRegistry 0x00007ffc5dc90000 + ae56e UnrealEditor-AssetRegistry 0x00007ffc5dc90000 + adddc UnrealEditor-AssetRegistry 0x00007ffc5dc90000 + adccb UnrealEditor-AssetRegistry 0x00007ffc5dc90000 + 54f04 UnrealEditor-AssetRegistry 0x00007ffc5dc90000 + 55dfd UnrealEditor-AssetRegistry 0x00007ffc5dc90000 + 68b94 UnrealEditor-Core 0x00007ffc32190000 + b52e5 UnrealEditor-Core 0x00007ffc32190000 + b51cc UnrealEditor-Core 0x00007ffc32190000 + 90055 UnrealEditor-Core 0x00007ffc32190000 + e81a2 UnrealEditor-Core 0x00007ffc32190000 + a37c0 UnrealEditor-Core 0x00007ffc32190000 + 235670 UnrealEditor-Core 0x00007ffc32190000 + 792162 UnrealEditor-Core 0x00007ffc32190000 + 7881b0 KERNEL32 0x00007ffcd6930000 + 1259d ntdll 0x00007ffcd8390000 + 5af38</PCallStack>
+		<PCallStackHash>B6647A86E274625507E37F4005EB50D787FBB197</PCallStackHash>
+		<Threads>
+			<Thread>
+				<CallStack>KERNELBASE 0x00007ffcd58d0000 + 5fa4c UnrealEditor-Core 0x00007ffc32190000 + 7602a8 UnrealEditor-Core 0x00007ffc32190000 + 7600da UnrealEditor-Core 0x00007ffc32190000 + 375d54 UnrealEditor-Core 0x00007ffc32190000 + 38e083 UnrealEditor-AssetRegistry 0x00007ffc5dc90000 + 116f7b UnrealEditor-AssetRegistry 0x00007ffc5dc90000 + b02b2 UnrealEditor-AssetRegistry 0x00007ffc5dc90000 + ae56e UnrealEditor-AssetRegistry 0x00007ffc5dc90000 + adddc UnrealEditor-AssetRegistry 0x00007ffc5dc90000 + adccb UnrealEditor-AssetRegistry 0x00007ffc5dc90000 + 54f04 UnrealEditor-AssetRegistry 0x00007ffc5dc90000 + 55dfd UnrealEditor-AssetRegistry 0x00007ffc5dc90000 + 68b94 UnrealEditor-Core 0x00007ffc32190000 + b52e5 UnrealEditor-Core 0x00007ffc32190000 + b51cc UnrealEditor-Core 0x00007ffc32190000 + 90055 UnrealEditor-Core 0x00007ffc32190000 + e81a2 UnrealEditor-Core 0x00007ffc32190000 + a37c0 UnrealEditor-Core 0x00007ffc32190000 + 235670 UnrealEditor-Core 0x00007ffc32190000 + 792162 UnrealEditor-Core 0x00007ffc32190000 + 7881b0 KERNEL32 0x00007ffcd6930000 + 1259d ntdll 0x00007ffcd8390000 + 5af38</CallStack>
+				<IsCrashed>true</IsCrashed>
+				<Registers />
+				<ThreadID>19208</ThreadID>
+				<ThreadName>Background Worker #2</ThreadName>
+			</Thread>
+		</Threads>
+		<TimeOfCrash>638678988264380000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 11 (23H2) [10.0.22631.4460]  64b]</PlatformFullName>
+		<CPUBrand>11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz</CPUBrand>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<IsRunningOnBattery>false</IsRunningOnBattery>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+		<CrashTrigger>0</CrashTrigger>
+	</PlatformProperties>
+	<EngineData>
+		<MatchingDPStatus>WindowsEditorNo errors</MatchingDPStatus>
+		<RHI.IntegratedGPU>false</RHI.IntegratedGPU>
+		<RHI.DriverDenylisted>false</RHI.DriverDenylisted>
+		<RHI.D3DDebug>false</RHI.D3DDebug>
+		<RHI.Breadcrumbs>true</RHI.Breadcrumbs>
+		<RHI.DRED>false</RHI.DRED>
+		<RHI.DREDContext>false</RHI.DREDContext>
+		<RHI.Aftermath>true</RHI.Aftermath>
+		<RHI.RHIName>D3D12</RHI.RHIName>
+		<RHI.AdapterName>NVIDIA GeForce RTX 3060 Ti</RHI.AdapterName>
+		<RHI.UserDriverVersion>566.03</RHI.UserDriverVersion>
+		<RHI.InternalDriverVersion>32.0.15.6603</RHI.InternalDriverVersion>
+		<RHI.DriverDate>10-15-2024</RHI.DriverDate>
+		<RHI.FeatureLevel>SM6</RHI.FeatureLevel>
+		<RHI.GPUVendor>NVIDIA</RHI.GPUVendor>
+		<RHI.DeviceId>2489</RHI.DeviceId>
+		<DeviceProfile.Name>WindowsEditor</DeviceProfile.Name>
+	</EngineData>
+	<GameData />
+</FGenericCrashContext>
