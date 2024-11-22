@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasMauri.umap",
-				"D:/Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Maps/apaPrueba.umap",
 				"C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasCony.umap",
 				"C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasFeli.umap",
@@ -41,6 +39,9 @@
 				"C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Input/Actions/IA_RotateItem.uasset",
 				"C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Input/IMC_Default.uasset",
 				"C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Input/Actions/IA_MoveObject.uasset",
+				"C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Maps/apaPrueba.umap",
+				"D:/Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasMauri.umap",
+				"D:/Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Maps/apaPrueba.umap",
 				"C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Box_Brush30_StaticMesh.uasset",
 				"C:/Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasMaxi.umap",
 				"C:/Users/maxib/AppData/Local/GitHubDesktop/app-3.4.9/SoswareBeforeChristmas/ChristmasStory/Content/Maps/_GENERATED/maxib/Box_AE5CF32F.uasset",
