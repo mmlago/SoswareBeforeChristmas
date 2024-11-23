@@ -13922,3 +13922,486 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.23-05.48.28:123][364]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 1:30 min)
 [2024.11.23-05.48.28:128][364]AssetCheck: New page: Asset Save: PruebasMauri
 [2024.11.23-05.48.28:128][364]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
+[2024.11.23-05.50.14:306][281]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.23-05.50.14:324][281]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.23-05.50.14:337][282]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.23-05.50.16:357][435]LogContentBrowser: Attempting asset rename: NewFolder -> Techo
+[2024.11.23-05.50.16:358][435]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.23-05.50.37:230][716]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2024.11.23-05.50.37:245][716]LogInterchangeEngine: [Pending] Importing
+[2024.11.23-05.50.37:245][716]LogInterchangeEngine: Display: Interchange start importing source [D:/Arte 3D/Kit ...els/GLTF formatcabinRoof.glb]
+[2024.11.23-05.50.37:256][717]LogAutomationController: Ignoring very large delta of 16.10 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.23-05.50.37:306][717]LogStaticMesh: Display: Building static mesh cabinRoof...
+[2024.11.23-05.50.37:314][717]LogStaticMesh: Built static mesh [0.01s] /Game/CasaFinal/Techo/cabinRoof.cabinRoof
+[2024.11.23-05.50.37:316][717]LogInterchangeEngine: [Pending] Importing
+[2024.11.23-05.50.37:322][717]LogInterchangeEngine: [Success] Import Done
+[2024.11.23-05.50.37:377][718]LogInterchangeEngine: [Success] Import Done
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: ================================================
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: Total job queries 1 153, among them cache hits 42 (3.64%)
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: Tracking 1 105 distinct input hashes that result in 106 distinct outputs (9.59%)
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: RAM used: 22,11 MiB of 819,20 MiB budget. Usage: 2.70%
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: Shaders Compiled: 349
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: Jobs assigned 351, completed 349 (99.43%)
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: Average time worker was idle: 41.09 s
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: Time job spent in pending queue: average 1.88 s, longest 14.87 s
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: Job execution time: average 0.72 s, max 12.62 s
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: Job life time (pending + execution): average 2.61 s, max 15.37
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 137.61 s
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: Jobs were issued in 351 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: Average processing rate: 2.54 jobs/sec
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: Total thread time: 167,834 s
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: Total thread preprocess time: 6,27 s
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: Percentage time preprocessing: 3.74%
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: Effective parallelization: 1.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    2 times, average 0.80 sec, max 0.84 sec, min 0.77 sec)
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display:    TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    2 times, average 0.79 sec, max 0.85 sec, min 0.73 sec)
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 0.77 sec, max 0.79 sec, min 0.74 sec)
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2024.11.23-05.50.38:511][769]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    2 times, average 0.76 sec, max 0.79 sec, min 0.73 sec)
+[2024.11.23-05.50.38:512][769]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.23-05.50.38:512][769]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.10% of total time (compiled   22 times, average 0.69 sec, max 0.89 sec, min 0.57 sec)
+[2024.11.23-05.50.38:512][769]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.07% of total time (compiled   22 times, average 0.62 sec, max 0.80 sec, min 0.54 sec)
+[2024.11.23-05.50.38:512][769]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.23% of total time (compiled   18 times, average 0.58 sec, max 1.17 sec, min 0.50 sec)
+[2024.11.23-05.50.38:512][769]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.23% of total time (compiled   18 times, average 0.58 sec, max 0.76 sec, min 0.53 sec)
+[2024.11.23-05.50.38:512][769]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.09% of total time (compiled   18 times, average 0.57 sec, max 0.75 sec, min 0.52 sec)
+[2024.11.23-05.50.38:512][769]LogShaderCompilers: Display: ================================================
+[2024.11.23-05.50.42:507][ 50]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CasaFinal/Techo/cabinRoof.cabinRoof
+[2024.11.23-05.50.42:507][ 50]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CasaFinal/Techo/cabinRoof.cabinRoof
+[2024.11.23-05.50.42:508][ 50]LogActorFactory: Actor Factory spawned StaticMesh /Game/CasaFinal/Techo/cabinRoof.cabinRoof as actor: StaticMeshActor /Game/Maps/PruebasMauri.PruebasMauri:PersistentLevel.StaticMeshActor_152
+[2024.11.23-05.50.44:416][196]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CasaFinal/Techo/cabinRoof.cabinRoof
+[2024.11.23-05.50.44:417][196]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CasaFinal/Techo/cabinRoof.cabinRoof
+[2024.11.23-05.50.44:419][196]LogActorFactory: Actor Factory spawned StaticMesh /Game/CasaFinal/Techo/cabinRoof.cabinRoof as actor: StaticMeshActor /Game/Maps/PruebasMauri.PruebasMauri:PersistentLevel.StaticMeshActor_153
+[2024.11.23-05.50.44:447][196]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.50.44:448][196]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.50.44:449][196]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.50.44:449][196]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.50.44:449][196]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.50.44:450][196]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.50.44:450][196]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.50.44:451][196]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.50.44:451][196]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.50.44:451][196]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.50.44:452][196]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.50.44:452][196]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.50.44:455][196]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.39:039][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.39:039][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.39:039][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.39:040][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.39:040][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.39:041][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.39:041][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.39:042][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.39:042][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.39:043][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.39:043][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.39:044][261]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.40:855][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.40:855][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.40:856][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.40:856][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.40:857][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.40:857][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.40:858][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.40:858][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.40:858][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.40:859][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.40:859][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.40:861][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.45:593][781]Cmd: TRANSACTION UNDO
+[2024.11.23-05.51.45:593][781]LogEditorTransaction: Undo Scale Elements
+[2024.11.23-05.51.46:526][781]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.46:527][781]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.46:527][781]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.46:528][781]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.46:528][781]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.46:528][781]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.46:529][781]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.46:529][781]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.46:530][781]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.46:530][781]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.46:530][781]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.46:531][781]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.46:531][781]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.46:531][781]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.46:534][781]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.46:534][781]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.49:952][ 41]Cmd: TRANSACTION UNDO
+[2024.11.23-05.51.49:952][ 41]LogEditorTransaction: Undo Scale Elements
+[2024.11.23-05.51.50:824][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.50:825][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.50:825][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.50:826][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.50:826][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.50:826][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.50:827][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.50:827][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.50:828][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.50:828][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.50:828][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.50:829][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.50:829][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.50:829][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.50:832][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.50:832][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.51.59:516][728]Cmd: TRANSACTION UNDO
+[2024.11.23-05.51.59:516][728]LogEditorTransaction: Undo Set Scale
+[2024.11.23-05.52.00:375][728]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.00:375][728]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.00:376][728]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.00:376][728]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.00:377][728]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.00:377][728]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.00:377][728]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.00:378][728]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.00:378][728]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.00:379][728]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.00:379][728]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.00:379][728]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.00:380][728]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.00:380][728]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.00:383][728]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.00:383][728]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.18:927][132]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.18:927][132]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.18:928][132]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.18:928][132]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.18:928][132]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.18:929][132]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.18:929][132]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.18:929][132]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.18:930][132]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.18:930][132]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.18:931][132]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.18:931][132]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.18:931][132]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.18:932][132]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.18:964][133]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.25:009][600]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.25:009][600]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.25:010][600]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.25:010][600]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.25:011][600]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.25:011][600]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.25:011][600]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.25:012][600]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.25:012][600]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.25:012][600]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.25:013][600]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.25:013][600]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.25:013][600]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.25:014][600]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.25:017][600]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.26:790][723]Cmd: TRANSACTION UNDO
+[2024.11.23-05.52.26:791][723]LogEditorTransaction: Undo Clicking on Elements
+[2024.11.23-05.52.27:692][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.27:693][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.27:693][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.27:693][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.27:694][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.27:694][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.27:695][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.27:695][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.27:695][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.27:696][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.27:696][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.27:696][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.27:697][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.27:697][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.27:700][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.27:736][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.27:743][725]Cmd: TRANSACTION UNDO
+[2024.11.23-05.52.27:743][725]LogEditorTransaction: Undo Clicking on Elements
+[2024.11.23-05.52.28:594][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.28:594][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.28:595][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.28:595][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.28:595][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.28:596][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.28:596][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.28:596][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.28:597][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.28:597][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.28:598][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.28:598][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.28:598][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.28:599][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.28:601][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.28:602][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.28:621][726]Cmd: TRANSACTION UNDO
+[2024.11.23-05.52.28:621][726]LogEditorTransaction: Undo Move Elements
+[2024.11.23-05.52.29:168][726]Cmd: TRANSACTION UNDO
+[2024.11.23-05.52.29:168][726]LogEditorTransaction: Undo Move Elements
+[2024.11.23-05.52.30:373][726]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.30:374][726]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.30:374][726]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.30:375][726]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.30:375][726]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.30:376][726]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.30:376][726]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.30:376][726]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.30:377][726]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.30:377][726]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.30:378][726]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.30:378][726]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.30:378][726]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.30:381][726]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.30:381][726]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.30:387][727]Cmd: TRANSACTION UNDO
+[2024.11.23-05.52.30:387][727]LogEditorTransaction: Undo Move Elements
+[2024.11.23-05.52.30:936][727]Cmd: TRANSACTION UNDO
+[2024.11.23-05.52.30:936][727]LogEditorTransaction: Undo Move Elements
+[2024.11.23-05.52.32:099][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.32:100][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.32:100][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.32:101][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.32:101][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.32:102][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.32:102][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.32:103][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.32:103][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.32:103][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.32:104][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.32:104][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.32:105][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.32:107][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.32:107][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.37:739][154]Cmd: DELETE
+[2024.11.23-05.52.37:739][154]Cmd: ACTOR DELETE
+[2024.11.23-05.52.37:748][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.23-05.52.37:767][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.23-05.52.37:769][154]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2024.11.23-05.52.37:790][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.39:685][295]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CasaFinal/Techo/cabinRoof.cabinRoof
+[2024.11.23-05.52.39:685][295]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CasaFinal/Techo/cabinRoof.cabinRoof
+[2024.11.23-05.52.39:686][295]LogActorFactory: Actor Factory spawned StaticMesh /Game/CasaFinal/Techo/cabinRoof.cabinRoof as actor: StaticMeshActor /Game/Maps/PruebasMauri.PruebasMauri:PersistentLevel.StaticMeshActor_154
+[2024.11.23-05.52.39:691][295]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.52.40:510][360]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CasaFinal/Techo/cabinRoof.cabinRoof
+[2024.11.23-05.52.40:510][360]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CasaFinal/Techo/cabinRoof.cabinRoof
+[2024.11.23-05.52.40:512][360]LogActorFactory: Actor Factory spawned StaticMesh /Game/CasaFinal/Techo/cabinRoof.cabinRoof as actor: StaticMeshActor /Game/Maps/PruebasMauri.PruebasMauri:PersistentLevel.StaticMeshActor_155
+[2024.11.23-05.52.40:541][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.13:347][688]Cmd: EDIT COPY
+[2024.11.23-05.53.13:501][700]Cmd: EDIT PASTE
+[2024.11.23-05.53.13:547][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.13:548][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.13:548][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.13:548][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.13:549][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.13:549][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.13:550][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.13:550][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.13:550][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.13:551][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.13:551][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.13:551][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.13:552][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.13:554][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.13:555][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.37:725][486]Cmd: EDIT COPY
+[2024.11.23-05.53.37:925][498]Cmd: EDIT PASTE
+[2024.11.23-05.53.37:976][498]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.37:977][498]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.37:978][498]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.37:978][498]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.37:979][498]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.37:979][498]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.37:980][498]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.37:980][498]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.37:981][498]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.37:981][498]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.37:981][498]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.37:982][498]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.37:982][498]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.37:985][498]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.37:985][498]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.41:099][730]Cmd: EDIT COPY
+[2024.11.23-05.53.41:271][743]Cmd: EDIT PASTE
+[2024.11.23-05.53.41:325][743]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.41:325][743]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.41:326][743]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.41:327][743]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.41:327][743]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.41:328][743]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.41:328][743]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.41:328][743]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.41:329][743]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.41:329][743]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.41:329][743]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.41:330][743]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.41:330][743]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.41:333][743]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.41:333][743]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.49:159][330]Cmd: EDIT COPY
+[2024.11.23-05.53.49:318][342]Cmd: EDIT PASTE
+[2024.11.23-05.53.49:384][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.49:385][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.49:385][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.49:386][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.49:386][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.49:387][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.49:387][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.49:387][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.49:388][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.49:388][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.49:389][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.49:389][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.49:389][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.49:392][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.49:393][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.56:714][909]Cmd: EDIT COPY
+[2024.11.23-05.53.56:891][923]Cmd: EDIT PASTE
+[2024.11.23-05.53.56:941][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.56:941][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.56:942][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.56:942][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.56:943][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.56:943][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.56:944][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.56:944][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.56:945][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.56:945][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.56:946][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.56:946][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.56:946][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.56:947][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.56:950][923]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.56:996][924]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.59:562][128]Cmd: EDIT COPY
+[2024.11.23-05.53.59:725][141]Cmd: EDIT PASTE
+[2024.11.23-05.53.59:774][141]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.59:775][141]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.59:775][141]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.59:776][141]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.59:776][141]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.59:776][141]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.59:777][141]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.59:777][141]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.59:778][141]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.59:778][141]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.59:779][141]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.59:779][141]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.59:780][141]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.59:780][141]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.59:781][141]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.53.59:784][141]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.54.02:041][319]Cmd: EDIT COPY
+[2024.11.23-05.54.02:179][330]Cmd: EDIT PASTE
+[2024.11.23-05.54.02:230][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.54.02:231][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.54.02:232][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.54.02:232][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.54.02:233][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.54.02:233][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.54.02:234][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.54.02:234][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.54.02:235][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.54.02:235][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.54.02:236][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.54.02:236][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.54.02:236][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.54.02:237][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.54.02:237][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.54.02:240][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.55.15:634][678]Cmd: DELETE
+[2024.11.23-05.55.15:634][678]Cmd: ACTOR DELETE
+[2024.11.23-05.55.15:644][678]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.23-05.55.15:660][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.11.23-05.55.15:667][678]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2024.11.23-05.55.15:690][678]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.55.18:203][847]Cmd: DELETE
+[2024.11.23-05.55.18:203][847]Cmd: ACTOR DELETE
+[2024.11.23-05.55.18:213][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.23-05.55.18:229][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.11.23-05.55.18:231][847]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2024.11.23-05.55.18:257][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.55.20:913][ 32]Cmd: DELETE
+[2024.11.23-05.55.20:913][ 32]Cmd: ACTOR DELETE
+[2024.11.23-05.55.20:921][ 32]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.23-05.55.20:936][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.11.23-05.55.20:939][ 32]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.11.23-05.55.20:974][ 32]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.55.23:762][224]Cmd: DELETE
+[2024.11.23-05.55.23:762][224]Cmd: ACTOR DELETE
+[2024.11.23-05.55.23:770][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.23-05.55.23:785][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.11.23-05.55.23:788][224]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.11.23-05.55.23:824][224]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.55.27:474][469]Cmd: DELETE
+[2024.11.23-05.55.27:474][469]Cmd: ACTOR DELETE
+[2024.11.23-05.55.27:482][469]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.23-05.55.27:498][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.11.23-05.55.27:500][469]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.11.23-05.55.27:523][469]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.55.31:269][727]Cmd: DELETE
+[2024.11.23-05.55.31:270][727]Cmd: ACTOR DELETE
+[2024.11.23-05.55.31:278][727]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.23-05.55.31:278][727]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.23-05.55.31:279][727]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.23-05.55.31:295][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.11.23-05.55.31:298][727]LogEditorActor: Deleted 3 Actors (0.027 secs)
+[2024.11.23-05.55.31:324][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.55.31:324][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.55.31:324][727]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.23-05.55.35:719][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.11.23-05.55.35:734][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.11.23-05.55.36:623][ 59]LogSlate: Window 'Save Content' being destroyed
+[2024.11.23-05.55.36:632][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.23-05.55.36:698][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.11.23-05.55.36:761][ 59]LogSavePackage: Moving output files for package: /Game/Maps/PruebasMauri
+[2024.11.23-05.55.36:762][ 59]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasMauriA46F6E164CF9DD45896CDFA07343EBF9.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasMauri.umap'
+[2024.11.23-05.55.36:770][ 59]LogFileHelpers: Saving map 'PruebasMauri' took 0.088
+[2024.11.23-05.55.36:779][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CasaFinal/Techo/cabinRoof" FILE="../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/CasaFinal/Techo/cabinRoof.uasset" SILENT=true
+[2024.11.23-05.55.36:784][ 59]LogSavePackage: Moving output files for package: /Game/CasaFinal/Techo/cabinRoof
+[2024.11.23-05.55.36:784][ 59]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/cabinRoof06F9C9474F1ADB5910A6CE98173A0625.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/CasaFinal/Techo/cabinRoof.uasset'
+[2024.11.23-05.55.38:807][ 59]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.11.23-05.55.40:570][ 59]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004927s (1.768159s overbudget)
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: ================================================
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: Total job queries 1 165, among them cache hits 42 (3.61%)
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: Tracking 1 123 distinct input hashes that result in 106 distinct outputs (9.44%)
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: RAM used: 22,51 MiB of 819,20 MiB budget. Usage: 2.75%
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: Shaders Compiled: 367
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: Jobs assigned 367, completed 367 (100.00%)
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: Average time worker was idle: 40.92 s
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: Time job spent in pending queue: average 1.88 s, longest 14.87 s
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: Job execution time: average 0.71 s, max 12.62 s
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: Job life time (pending + execution): average 2.59 s, max 15.37
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 143.21 s
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: Jobs were issued in 367 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: Average processing rate: 2.56 jobs/sec
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: Total thread time: 176,911 s
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: Total thread preprocess time: 6,598 s
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: Percentage time preprocessing: 3.73%
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: Effective parallelization: 1.24 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    2 times, average 0.80 sec, max 0.84 sec, min 0.77 sec)
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display:    TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    2 times, average 0.79 sec, max 0.85 sec, min 0.73 sec)
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 0.77 sec, max 0.79 sec, min 0.74 sec)
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    2 times, average 0.76 sec, max 0.79 sec, min 0.73 sec)
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.03% of total time (compiled   23 times, average 0.69 sec, max 0.89 sec, min 0.57 sec)
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.99% of total time (compiled   23 times, average 0.61 sec, max 0.80 sec, min 0.54 sec)
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.22% of total time (compiled   19 times, average 0.58 sec, max 0.76 sec, min 0.53 sec)
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.21% of total time (compiled   19 times, average 0.58 sec, max 1.17 sec, min 0.50 sec)
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.10% of total time (compiled   19 times, average 0.57 sec, max 0.75 sec, min 0.52 sec)
+[2024.11.23-05.55.40:573][ 59]LogShaderCompilers: Display: ================================================
+[2024.11.23-05.55.40:579][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CasaFinal/Techo/snow" FILE="../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/CasaFinal/Techo/snow.uasset" SILENT=true
+[2024.11.23-05.55.40:582][ 59]LogSavePackage: Moving output files for package: /Game/CasaFinal/Techo/snow
+[2024.11.23-05.55.40:582][ 59]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/snow0971106E4B7A3507827534920A4E99E5.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/CasaFinal/Techo/snow.uasset'
+[2024.11.23-05.55.42:605][ 59]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.11.23-05.55.44:052][ 59]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000091s (1.451773s overbudget)
+[2024.11.23-05.55.44:068][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CasaFinal/Techo/wood" FILE="../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/CasaFinal/Techo/wood.uasset" SILENT=true
+[2024.11.23-05.55.44:071][ 59]LogSavePackage: Moving output files for package: /Game/CasaFinal/Techo/wood
+[2024.11.23-05.55.44:071][ 59]LogSavePackage: Moving '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Saved/wood1D2E3EA24F2278A6C21A4B92A790855B.tmp' to '../../../../../Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/CasaFinal/Techo/wood.uasset'
+[2024.11.23-05.55.44:077][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.44 sec (total: 1:37 min)
+[2024.11.23-05.55.44:084][ 59]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.23-05.55.44:084][ 59]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
+[2024.11.23-05.55.44:084][ 59]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/CasaFinal/Techo/cabinRoof.cabinRoof
+[2024.11.23-05.55.44:084][ 59]LogContentValidation: Display: Validating /Script/Engine.Material /Game/CasaFinal/Techo/snow.snow
+[2024.11.23-05.55.44:084][ 59]LogContentValidation: Display: Validating /Script/Engine.Material /Game/CasaFinal/Techo/wood.wood
+[2024.11.23-05.55.44:091][ 60]LogAutomationController: Ignoring very large delta of 8.39 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
