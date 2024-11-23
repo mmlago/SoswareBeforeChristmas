@@ -3658,3 +3658,119 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.23-09.07.06:016][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 8.04 sec)
 [2024.11.23-09.07.06:021][535]AssetCheck: New page: Asset Save: PruebasMauri
 [2024.11.23-09.07.06:021][535]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
+[2024.11.23-09.07.22:127][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.11.23-09.07.22:136][983]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.23-09.07.23:613][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa1/border
+[2024.11.23-09.07.23:613][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/border22CCF05846399953BF794A96A3048549.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa1/border.uasset'
+[2024.11.23-09.07.24:875][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa1/roof
+[2024.11.23-09.07.24:875][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/roofC3A908934197C7F64887EBA3DDBD0061.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa1/roof.uasset'
+[2024.11.23-09.07.26:246][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa1/window
+[2024.11.23-09.07.26:246][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/window3921E3EC41E0A1D0B39E679B1A35AC90.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa1/window.uasset'
+[2024.11.23-09.07.27:447][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa1/_defaultMat
+[2024.11.23-09.07.27:447][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/_defaultMat59BCA2A44DDE9192AFBF4F85F2EE21B9.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa1/_defaultMat.uasset'
+[2024.11.23-09.07.28:696][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa1/door
+[2024.11.23-09.07.28:696][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/door99A6190743579F57A670B390C8DEA43F.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa1/door.uasset'
+[2024.11.23-09.07.28:729][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa1/house_type02
+[2024.11.23-09.07.28:729][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/house_type0201C61B4540888433CF41EB8106EA0DF6.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa1/house_type02.uasset'
+[2024.11.23-09.07.29:953][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa2/border
+[2024.11.23-09.07.29:953][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/border643D3DE146CA7D4519D731AFD4E06A29.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa2/border.uasset'
+[2024.11.23-09.07.31:221][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa2/window
+[2024.11.23-09.07.31:221][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/windowAE068C944757FDF844270AB5235E3232.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa2/window.uasset'
+[2024.11.23-09.07.32:477][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa2/roof
+[2024.11.23-09.07.32:477][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/roof581251F8402A8D261663B9A179257B54.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa2/roof.uasset'
+[2024.11.23-09.07.33:743][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa2/_defaultMat
+[2024.11.23-09.07.33:743][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/_defaultMat729F0875410145490C36A8BFED0150D4.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa2/_defaultMat.uasset'
+[2024.11.23-09.07.35:009][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa2/door
+[2024.11.23-09.07.35:009][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/door4F2D003747451DAAD5D26BA3D5122C3F.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa2/door.uasset'
+[2024.11.23-09.07.35:043][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa2/house_type09
+[2024.11.23-09.07.35:043][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/house_type0914E8E32043267980073CB1BEDD006429.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa2/house_type09.uasset'
+[2024.11.23-09.07.36:276][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa3/border
+[2024.11.23-09.07.36:276][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/border7CAC4BE341D11318778E9AA2CB440415.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa3/border.uasset'
+[2024.11.23-09.07.37:555][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa3/window
+[2024.11.23-09.07.37:555][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/windowF94320F64A8764BE10ADB38661DBF1CD.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa3/window.uasset'
+[2024.11.23-09.07.38:821][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa3/door
+[2024.11.23-09.07.38:821][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/doorE4093E3E450145B8769915AB058DB58C.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa3/door.uasset'
+[2024.11.23-09.07.40:081][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa3/_defaultMat
+[2024.11.23-09.07.40:081][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/_defaultMat90793E24472991F9CAAD0AAAA953051B.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa3/_defaultMat.uasset'
+[2024.11.23-09.07.40:114][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa3/house_type20
+[2024.11.23-09.07.40:114][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/house_type202B4787524A24D75E9F7379BC202F330C.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa3/house_type20.uasset'
+[2024.11.23-09.07.41:329][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa4/border
+[2024.11.23-09.07.41:329][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/border49AFAC3D4EBA37BD02F5B8B2A12C8617.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa4/border.uasset'
+[2024.11.23-09.07.42:594][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa4/window
+[2024.11.23-09.07.42:594][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/windowD38AB0A645A3015E81F093B40B7A75AA.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa4/window.uasset'
+[2024.11.23-09.07.43:857][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa4/_defaultMat
+[2024.11.23-09.07.43:857][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/_defaultMat34C9987748CDE7A31F6336AA791B3F15.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa4/_defaultMat.uasset'
+[2024.11.23-09.07.45:119][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa4/door
+[2024.11.23-09.07.45:119][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/door3CDDE560493296F6B63EDC9ACE871CB0.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa4/door.uasset'
+[2024.11.23-09.07.46:374][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa4/roof
+[2024.11.23-09.07.46:374][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/roofB2471DBD40581346865E6A9B0BA865AB.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa4/roof.uasset'
+[2024.11.23-09.07.46:407][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa4/house_type21
+[2024.11.23-09.07.46:407][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/house_type21DF43D3D64025D936D085338560BDA7F3.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa4/house_type21.uasset'
+[2024.11.23-09.07.47:648][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa5/border
+[2024.11.23-09.07.47:648][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/borderAB0689354970F1C11C1182A071C1464B.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa5/border.uasset'
+[2024.11.23-09.07.48:914][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa5/window
+[2024.11.23-09.07.48:914][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/windowB3420BBF4B3EB72777E863983002C39C.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa5/window.uasset'
+[2024.11.23-09.07.50:088][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa5/roof
+[2024.11.23-09.07.50:088][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/roofEFB063454BDC437E3618EAA1A13A2E48.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa5/roof.uasset'
+[2024.11.23-09.07.51:256][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa5/door
+[2024.11.23-09.07.51:256][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/door9CA830004E8E10D07439B1820F799A37.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa5/door.uasset'
+[2024.11.23-09.07.52:511][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa5/_defaultMat
+[2024.11.23-09.07.52:511][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/_defaultMatA83A26894B90F2300634E29085D54609.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa5/_defaultMat.uasset'
+[2024.11.23-09.07.52:545][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa5/house_type06
+[2024.11.23-09.07.52:545][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/house_type06B3E0D0E74C85A579022497908015B054.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa5/house_type06.uasset'
+[2024.11.23-09.07.53:778][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa6/roof
+[2024.11.23-09.07.53:778][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/roof4DE7F3C64AD8A6806F70F4A7E9FF2FC1.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa6/roof.uasset'
+[2024.11.23-09.07.54:948][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa6/border
+[2024.11.23-09.07.54:948][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/border9BB959164B05CE95EB2050B4203CD0D8.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa6/border.uasset'
+[2024.11.23-09.07.56:223][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa6/_defaultMat
+[2024.11.23-09.07.56:223][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/_defaultMatA91B8C8B49868D1ECCEE83ADB06D1317.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa6/_defaultMat.uasset'
+[2024.11.23-09.07.57:491][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa6/window
+[2024.11.23-09.07.57:492][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/window091DC66D4DC6D076487FB4A003398404.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa6/window.uasset'
+[2024.11.23-09.07.58:756][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa6/door
+[2024.11.23-09.07.58:756][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/door491EEA9948CD2BD733FE71B8C2D29CA0.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa6/door.uasset'
+[2024.11.23-09.07.58:790][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Casa6/house_type17
+[2024.11.23-09.07.58:790][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/house_type1746F3953242088AADD9EC7F9F2326788A.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Casa6/house_type17.uasset'
+[2024.11.23-09.08.00:032][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Cercado/wood
+[2024.11.23-09.08.00:032][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/wood0D6B3AD64AC0B033F965F38686133626.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Cercado/wood.uasset'
+[2024.11.23-09.08.00:063][983]LogSavePackage: Moving output files for package: /Game/AssetsCasaMau/Exterior/Cercado/fence_open
+[2024.11.23-09.08.00:063][983]LogSavePackage: Moving '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Saved/fence_openDB20835342BDA1F116D3E1AA5D1810DE.tmp' to '../../../../../../Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/AssetsCasaMau/Exterior/Cercado/fence_open.uasset'
+[2024.11.23-09.08.00:069][983]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.9 sec (total: 45.9 sec)
+[2024.11.23-09.08.00:078][983]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/AssetsCasaMau/Exterior/Casa3/house_type20.house_type20
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa3/_defaultMat._defaultMat
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa3/door.door
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa3/window.window
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa3/border.border
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/AssetsCasaMau/Exterior/Casa2/house_type09.house_type09
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa2/door.door
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa2/_defaultMat._defaultMat
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa2/roof.roof
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa2/window.window
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa2/border.border
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/AssetsCasaMau/Exterior/Casa1/house_type02.house_type02
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa1/door.door
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa1/_defaultMat._defaultMat
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa1/window.window
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa1/roof.roof
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa1/border.border
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/AssetsCasaMau/Exterior/Casa4/house_type21.house_type21
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa4/roof.roof
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa4/door.door
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa4/_defaultMat._defaultMat
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa4/window.window
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa4/border.border
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/AssetsCasaMau/Exterior/Casa5/house_type06.house_type06
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa5/_defaultMat._defaultMat
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa5/door.door
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa5/roof.roof
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa5/window.window
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa5/border.border
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/AssetsCasaMau/Exterior/Casa6/house_type17.house_type17
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa6/door.door
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa6/window.window
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa6/_defaultMat._defaultMat
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa6/border.border
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Casa6/roof.roof
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/AssetsCasaMau/Exterior/Cercado/fence_open.fence_open
+[2024.11.23-09.08.00:078][983]LogContentValidation: Display: Validating /Script/Engine.Material /Game/AssetsCasaMau/Exterior/Cercado/wood.wood
+[2024.11.23-09.08.00:084][984]LogAutomationController: Ignoring very large delta of 37.97 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
