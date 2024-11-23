@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<ExecutionGuid>D38B441F49C8AAFDBD3B9E833ACD403C</ExecutionGuid>
+		<CrashGUID>UECC-Windows-D738516C4635E4F99C7CD0A1406C9131_0000</CrashGUID>
+		<IsEnsure>true</IsEnsure>
+		<IsStall>false</IsStall>
+		<IsAssert>false</IsAssert>
+		<CrashType>Ensure</CrashType>
+		<ErrorMessage>Ensure condition failed: !ObjectPackageData.ObjectPath.Contains(L&quot;.&quot;, ESearchCase::CaseSensitive) [File:D:\build\++UE5\Sync\Engine\Source\Runtime\AssetRegistry\Private\PackageReader.cpp] [Line: 1168] Cannot make FAssetData for sub object Box_Brush77_StaticMesh. in package /Game/ObjetosCasa/Box_Brush77_StaticMesh! Stack: 0x00007ffec44502b2 UnrealEditor-AssetRegistry.dll!UnknownFunction [] 0x00007ffec444e56e UnrealEditor-AssetRegistry.dll!UnknownFunction [] 0x00007ffec444dddc UnrealEditor-AssetRegistry.dll!UnknownFunction [] 0x00007ffec444dccb UnrealEditor-AssetRegistry.dll!UnknownFunction [] 0x00007ffec43f4f04 UnrealEditor-AssetRegistry.dll!UnknownFunction [] 0x00007ffec43f5dfd UnrealEditor-AssetRegistry.dll!UnknownFunction [] 0x00007ffec43ccefc UnrealEditor-AssetRegistry.dll!UnknownFunction [] 0x00007ffec4482c81 UnrealEditor-AssetRegistry.dll!UnknownFunction [] 0x00007ffec4437b28 UnrealEditor-AssetRegistry.dll!UnknownFunction [] 0x00007ffec446ae2d UnrealEditor-AssetRegistry.dll!UnknownFunction [] 0x00007ffe54a22162 UnrealEditor-Core.dll!UnknownFunction [] 0x00007ffe54a181b0 UnrealEditor-Core.dll!UnknownFunction [] 0x00007fff0e337374 KERNEL32.DLL!UnknownFunction [] 0x00007fff0eefcc91 ntdll.dll!UnknownFunction []</ErrorMessage>
+		<CrashReporterMessage />
+		<ProcessId>5996</ProcessId>
+		<SecondsSinceStart>0</SecondsSinceStart>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<GameName>UE-ChristmasStory</GameName>
+		<ExecutableName>UnrealEditor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>WindowsEditor</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Editor</EngineMode>
+		<EngineModeEx>Unset</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>5.2.1-26001984+++UE5+Release-5.2</EngineVersion>
+		<CommandLine>CommandLineRemoved</CommandLine>
+		<LanguageLCID>0</LanguageLCID>
+		<AppDefaultLocale>es-AR</AppDefaultLocale>
+		<BuildVersion>++UE5+Release-5.2-CL-26001984</BuildVersion>
+		<Symbols>**UE5*Release-5.2-CL-26001984-Win64-Development</Symbols>
+		<IsUERelease>true</IsUERelease>
+		<IsRequestingExit>false</IsRequestingExit>
+		<UserName />
+		<BaseDir>D:/Motor Unreal/UE_5.2/Engine/Binaries/Win64/</BaseDir>
+		<RootDir>D:/Motor Unreal/UE_5.2/</RootDir>
+		<MachineId>5CD1DF254BC5C4354D97C7B3A7F50505</MachineId>
+		<LoginId>5cd1df254bc5c4354d97c7b3a7f50505</LoginId>
+		<EpicAccountId>6f93bb8bd200404697dec7481364dce2</EpicAccountId>
+		<SourceContext />
+		<UserDescription>Sent in the unattended mode</UserDescription>
+		<UserActivityHint />
+		<CrashDumpMode>0</CrashDumpMode>
+		<GameStateName />
+		<Misc.NumberOfCores>6</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>6</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>AMD Radeon RX 580 2048SP</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 10 (22H2) [10.0.19045.5131]</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<MemoryStats.TotalPhysical>17116479488</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>30001381376</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>6402899968</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>11722035200</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>1325686784</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>1325690880</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>1474809856</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>1474809856</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<NumMinidumpFramesToIgnore>0</NumMinidumpFramesToIgnore>
+		<CallStack />
+		<PCallStack>KERNELBASE 0x00007fff0c620000 + 3b699 tbb 0x0000000180000000 + 5dabccb970 tbb 0x0000000180000000 + 5dabccc260</PCallStack>
+		<PCallStackHash>DA39A3EE5E6B4B0D3255BFEF95601890AFD80709</PCallStackHash>
+		<Threads>
+			<Thread>
+				<CallStack>KERNELBASE 0x00007fff0c620000 + 3b699 tbb 0x0000000180000000 + 5dabccb970 tbb 0x0000000180000000 + 5dabccc260</CallStack>
+				<IsCrashed>true</IsCrashed>
+				<Registers />
+				<ThreadID>15716</ThreadID>
+				<ThreadName>FAssetDataGatherer</ThreadName>
+			</Thread>
+		</Threads>
+		<TimeOfCrash>638679303568990000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 10 (22H2) [10.0.19045.5131]  64b]</PlatformFullName>
+		<CPUBrand>Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz</CPUBrand>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<IsRunningOnBattery>false</IsRunningOnBattery>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+		<CrashTrigger>0</CrashTrigger>
+	</PlatformProperties>
+	<EngineData>
+		<MatchingDPStatus>WindowsEditorNo errors</MatchingDPStatus>
+		<RHI.IntegratedGPU>false</RHI.IntegratedGPU>
+		<RHI.DriverDenylisted>false</RHI.DriverDenylisted>
+		<RHI.D3DDebug>false</RHI.D3DDebug>
+		<RHI.Breadcrumbs>true</RHI.Breadcrumbs>
+		<RHI.DRED>false</RHI.DRED>
+		<RHI.DREDContext>false</RHI.DREDContext>
+		<RHI.Aftermath>false</RHI.Aftermath>
+		<RHI.RHIName>D3D12</RHI.RHIName>
+		<RHI.AdapterName>AMD Radeon RX 580 2048SP</RHI.AdapterName>
+		<RHI.UserDriverVersion>AMD Software: Adrenalin Edition 24.3.1</RHI.UserDriverVersion>
+		<RHI.InternalDriverVersion>31.0.21912.14</RHI.InternalDriverVersion>
+		<RHI.DriverDate>2-20-2024</RHI.DriverDate>
+		<RHI.FeatureLevel>SM6</RHI.FeatureLevel>
+		<RHI.GPUVendor>AMD</RHI.GPUVendor>
+		<RHI.DeviceId>6FDF</RHI.DeviceId>
+		<DeviceProfile.Name>WindowsEditor</DeviceProfile.Name>
+	</EngineData>
+	<GameData />
+</FGenericCrashContext>
