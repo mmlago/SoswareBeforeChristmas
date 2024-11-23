@@ -14405,3 +14405,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.23-05.55.44:084][ 59]LogContentValidation: Display: Validating /Script/Engine.Material /Game/CasaFinal/Techo/snow.snow
 [2024.11.23-05.55.44:084][ 59]LogContentValidation: Display: Validating /Script/Engine.Material /Game/CasaFinal/Techo/wood.wood
 [2024.11.23-05.55.44:091][ 60]LogAutomationController: Ignoring very large delta of 8.39 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.23-05.56.05:930][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.11.23-05.56.07:624][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
