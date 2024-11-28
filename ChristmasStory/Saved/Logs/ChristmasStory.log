@@ -1724,3 +1724,15 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.28-21.18.25:581][782]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.11.28-21.18.25:581][782]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2024.11.28-21.18.37:062][ 10]LogDerivedDataCache: C:/Users/matul/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.233 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9407 files in 11903 folders with total size 698 MiB.
+[2024.11.28-21.19.04:312][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.11.28-21.19.04:332][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.11.28-21.19.06:035][842]LogSlate: Window 'Save Content' being destroyed
+[2024.11.28-21.19.06:046][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.28-21.19.06:105][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PruebasLago" FILE="C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasLago.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.28-21.19.06:124][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.28-21.19.06:131][842]LogSavePackage: Moving output files for package: /Game/Maps/PruebasLago
+[2024.11.28-21.19.06:132][842]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasLago1FC9EFB64EA47A5AFF15EC8ADFD3030C.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasLago.umap'
+[2024.11.28-21.19.06:139][842]LogFileHelpers: Saving map 'PruebasLago' took 0.035
+[2024.11.28-21.19.06:151][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 425 ms)
+[2024.11.28-21.19.06:160][842]AssetCheck: New page: Asset Save: PruebasLago
+[2024.11.28-21.19.06:160][842]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasLago.PruebasLago
