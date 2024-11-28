@@ -6040,3 +6040,20 @@ Make sure 'Bp_inspection2_C' has been compiled for  Get Item
 [2024.11.28-21.13.43:547][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 1.64 sec)
 [2024.11.28-21.13.43:553][923]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
 [2024.11.28-21.13.43:553][923]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.11.28-21.15.32:349][595]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.11.28-21.15.32:415][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.11.28-21.15.33:115][659]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-21.15.33:115][659]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-21.15.33:115][659]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-21.15.33:116][659]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-21.15.33:116][659]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-21.15.33:116][659]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-21.15.33:117][659]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-21.15.33:117][659]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-21.15.33:117][659]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-21.15.33:117][659]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-21.15.33:118][659]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-21.15.33:118][659]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-21.15.33:118][659]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-21.15.33:119][659]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-21.15.35:310][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
