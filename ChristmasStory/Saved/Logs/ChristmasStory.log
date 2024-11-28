@@ -4733,3 +4733,301 @@ Script Stack (3 frames) :
 [2024.11.28-19.05.45:976][832]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.11.28-19.05.45:976][832]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.11.28-19.05.45:990][833]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.11.28-19.06.28:538][168]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.28-19.06.28:543][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.28-19.06.28:543][168]PIE: New page: PIE session: PruebasLago (Nov 28, 2024, 1:06:28 PM)
+[2024.11.28-19.06.28:571][168]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasLago
+[2024.11.28-19.06.28:573][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001784s)
+[2024.11.28-19.06.28:573][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasLago.PruebasLago to /Game/Maps/UEDPIE_0_PruebasLago.PruebasLago (0.001837s)
+[2024.11.28-19.06.28:573][168]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.28-19.06.28:573][168]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.28-19.06.28:573][168]LogAIModule: Creating AISystem for world PruebasLago
+[2024.11.28-19.06.28:573][168]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2024.11.28-19.06.28:592][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.11.28-19.06.28:593][168]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.11.28-19.06.28:593][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.28-19.06.28:593][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.28-19.06.28:593][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.28-19.06.28:593][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.28-19.06.28:593][168]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.28-19.06.28:593][168]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.28-19.06.28:593][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.28-19.06.28:593][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.28-19.06.28:594][168]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.28-19.06.28:594][168]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.28-19.06.28:594][168]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.28-19.06.28:596][168]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.28-19.06.28:619][168]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.28-19.06.28:620][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.28-19.06.28:620][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.28-19.06.28:620][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.28-19.06.28:620][168]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.11.28-19.06.28:620][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.11.28-19.06.28:621][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.11.28-19.06.28:621][168]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.11.28-19.06.28:623][168]LogInit: FAudioDevice initialized with ID 24.
+[2024.11.28-19.06.28:623][168]LogAudio: Display: Audio Device (ID: 24) registered with world 'PruebasLago'.
+[2024.11.28-19.06.28:623][168]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.11.28-19.06.28:625][168]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.28-19.06.28:626][168]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasLago.PruebasLago up for play (max tick rate 0) at 2024.11.28-16.06.28
+[2024.11.28-19.06.28:626][168]LogWorld: Bringing up level for play took: 0.000563
+[2024.11.28-19.06.28:628][168]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.11.28-19.06.28:629][168]PIE: Server logged in
+[2024.11.28-19.06.28:630][168]PIE: Play in editor total start time 0.087 seconds.
+[2024.11.28-19.06.28:670][168]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.28:671][168]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.28:671][168]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.28:671][168]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.28:673][168]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.28:673][168]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.28:673][168]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.28:673][168]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.28:674][168]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.28:674][168]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.28:674][168]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.28:675][168]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.28:675][168]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.28:676][168]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.28:676][168]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.28:676][168]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.28:676][168]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.28:677][168]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.34:131][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.28-19.06.34:131][820]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasLago
+[2024.11.28-19.06.34:131][820]LogWorld: UWorld::CleanupWorld for PruebasLago, bSessionEnded=true, bCleanupResources=true
+[2024.11.28-19.06.34:131][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.28-19.06.34:136][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.28-19.06.34:139][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.28-19.06.34:155][820]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.28-19.06.34:155][820]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.11.28-19.06.34:155][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.11.28-19.06.34:157][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.11.28-19.06.34:161][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.28-19.06.34:163][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.11.28-19.06.34:193][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.34:193][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.34:194][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.34:194][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.34:194][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.34:195][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.34:195][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.34:195][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.34:195][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.34:196][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.34:196][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.34:196][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.34:196][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.06.34:210][821]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.11.28-19.06.53:882][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.11.28-19.06.55:424][481]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.28-19.06.55:548][481]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.11.28-19.06.55:548][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.28-19.06.55:562][481]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Nota/Nota12.Nota12
+	Asset Type: StaticMesh
+	Asset Name: /Game/Nota/Material.Material
+	Asset Type: Material
+	Asset Name: /Game/Nota/Minecraft.Minecraft
+	Asset Type: Texture2D
+	Asset Name: /Game/Nota/Nota.Nota
+	Asset Type: Material
+	Asset Name: /Game/Nota/Nota1.Nota1
+	Asset Type: Texture2D
+	Asset Name: /Game/Nota/Hoja.Hoja
+	Asset Type: Material
+[2024.11.28-19.06.55:771][481]LogMaterial: Warning: [AssetLog] C:\Users\matul\Desktop\Clase 6\SoswareBeforeChristmas\ChristmasStory\Content\Nota\Nota.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2024.11.28-19.06.55:772][481]LogMaterial: Warning: [AssetLog] C:\Users\matul\Desktop\Clase 6\SoswareBeforeChristmas\ChristmasStory\Content\Nota\Hoja.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2024.11.28-19.06.56:058][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.11.28-19.06.56:078][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.11.28-19.06.56:096][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.11.28-19.06.57:204][609]LogEditorViewport: Clicking Background
+[2024.11.28-19.07.13:330][696]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2024.11.28-19.07.13:344][696]LogInterchangeEngine: [Pending] Importing
+[2024.11.28-19.07.13:344][696]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/matul/DownloadsNota.glb]
+[2024.11.28-19.07.13:372][697]LogInterchangeEngine: [Pending] Importing
+[2024.11.28-19.07.13:546][703]LogCore: PNG has binary transparency, doing fill of RGB in transparent background
+[2024.11.28-19.07.13:652][706]LogTexture: Display: Building textures: /Game/Nota/Minecraft.Minecraft (BGRA8, 626x324 x1x1x1) (Required Memory Estimate: 5.994293 MB), EncodeSpeed: Fast
+[2024.11.28-19.07.13:668][706]LogStaticMesh: Display: Building static mesh Nota12...
+[2024.11.28-19.07.13:675][706]LogStaticMesh: Built static mesh [0.01s] /Game/Nota/Nota12.Nota12
+[2024.11.28-19.07.13:680][706]LogTexture: Display: Building textures: /Game/Nota/Nota1.Nota1 (BGRA8, 6497x4520 x1x1x1) (Required Memory Estimate: 858.913761 MB), EncodeSpeed: Fast
+[2024.11.28-19.07.13:868][706]LogInterchangeEngine: Warning: {
+	"Type": "/Script/InterchangeCore.InterchangeResultWarning_Generic",
+	"Properties": [
+		{
+			"Name": "Text",
+			"Value": "Renamed Assets:\n OriginalName:[/Game/Nota/Nota] NewName:[/Game/Nota/Nota2]"
+		},
+		{
+			"Name": "SourceAssetName",
+			"Value": "C:/Users/matul/Downloads/Nota.glb"
+		},
+		{
+			"Name": "DestinationAssetName",
+			"Value": ""
+		},
+		{
+			"Name": "AssetType",
+			"Value": "None"
+		},
+		{
+			"Name": "InterchangeKey",
+			"Value": ""
+		}
+	]
+}
+[2024.11.28-19.07.13:868][706]LogInterchangeEngine: [Success] Import Done
+[2024.11.28-19.07.13:933][706]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/Nota/Nota1) ...
+[2024.11.28-19.07.14:162][707]LogInterchangeEngine: [Success] Import Done
+[2024.11.28-19.07.18:443][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.11.28-19.07.18:463][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.11.28-19.07.19:385][965]LogSlate: Window 'Save Content' being destroyed
+[2024.11.28-19.07.19:397][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.28-19.07.19:447][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PruebasLago" FILE="C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasLago.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.28-19.07.19:466][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.11.28-19.07.19:476][965]LogSavePackage: Moving output files for package: /Game/Maps/PruebasLago
+[2024.11.28-19.07.19:477][965]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasLago9B4FC3944720679278E870BAF1AD373A.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasLago.umap'
+[2024.11.28-19.07.19:484][965]LogFileHelpers: Saving map 'PruebasLago' took 0.038
+[2024.11.28-19.07.19:492][965]LogSavePackage: Moving output files for package: /Game/StarterContent/Blueprints/Interact/BP_Inspection
+[2024.11.28-19.07.19:492][965]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/BP_InspectionAA0B77C649EB169A6B65D9AF5642E56F.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/StarterContent/Blueprints/Interact/BP_Inspection.uasset'
+[2024.11.28-19.07.19:516][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nota/Hoja" FILE="C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Nota/Hoja.uasset" SILENT=true
+[2024.11.28-19.07.19:519][965]LogSavePackage: Moving output files for package: /Game/Nota/Hoja
+[2024.11.28-19.07.19:519][965]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/Hoja8DCEF57947597B36C0D1AD8569B232E1.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Nota/Hoja.uasset'
+[2024.11.28-19.07.19:540][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nota/Material" FILE="C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Nota/Material.uasset" SILENT=true
+[2024.11.28-19.07.19:543][965]LogSavePackage: Moving output files for package: /Game/Nota/Material
+[2024.11.28-19.07.19:543][965]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/Material25EFA5534532B235D68F028B216216A9.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Nota/Material.uasset'
+[2024.11.28-19.07.19:546][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nota/Minecraft" FILE="C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Nota/Minecraft.uasset" SILENT=true
+[2024.11.28-19.07.19:556][965]LogSavePackage: Moving output files for package: /Game/Nota/Minecraft
+[2024.11.28-19.07.19:556][965]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/Minecraft474998C94C1250CE93B3AC9E9FF92B30.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Nota/Minecraft.uasset'
+[2024.11.28-19.07.19:577][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nota/Nota" FILE="C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Nota/Nota.uasset" SILENT=true
+[2024.11.28-19.07.19:581][965]LogSavePackage: Moving output files for package: /Game/Nota/Nota
+[2024.11.28-19.07.19:581][965]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/NotaEE211DCE40189B691376119C72C13AC5.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Nota/Nota.uasset'
+[2024.11.28-19.07.19:584][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nota/Nota1" FILE="C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Nota/Nota1.uasset" SILENT=true
+[2024.11.28-19.07.20:086][965]LogSavePackage: Moving output files for package: /Game/Nota/Nota1
+[2024.11.28-19.07.20:086][965]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/Nota14F5D180948EECD6F00A30D922378262E.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Nota/Nota1.uasset'
+[2024.11.28-19.07.20:095][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nota/Nota12" FILE="C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Nota/Nota12.uasset" SILENT=true
+[2024.11.28-19.07.20:099][965]LogSavePackage: Moving output files for package: /Game/Nota/Nota12
+[2024.11.28-19.07.20:099][965]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/Nota122E20B4C5494567C6991C8DBBD82C79FF.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Nota/Nota12.uasset'
+[2024.11.28-19.07.20:112][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 715 ms (total: 8.36 sec)
+[2024.11.28-19.07.20:121][965]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.28-19.07.20:121][965]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Blueprints/Interact/BP_Inspection.BP_Inspection
+[2024.11.28-19.07.20:121][965]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasLago.PruebasLago
+[2024.11.28-19.07.20:121][965]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Nota/Nota12.Nota12
+[2024.11.28-19.07.20:121][965]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Nota/Nota.Nota
+[2024.11.28-19.07.20:121][965]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Nota/Hoja.Hoja
+[2024.11.28-19.07.20:121][965]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Nota/Material.Material
+[2024.11.28-19.07.20:122][965]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Nota/Minecraft.Minecraft
+[2024.11.28-19.07.20:122][965]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Nota/Nota1.Nota1
+[2024.11.28-19.07.21:195][ 87]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.28-19.07.21:202][ 87]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.28-19.07.22:232][210]LogSlate: Window 'Interchange Results Browser' being destroyed
+[2024.11.28-19.07.24:417][462]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/Interact/BP_Inspection.BP_Inspection
+[2024.11.28-19.07.24:417][462]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.28-19.07.24:417][462]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.28-19.07.30:690][169]BlueprintLog: New page: Compile BP_Inspection
+[2024.11.28-19.07.30:737][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.11.28-19.07.30:995][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.32:415][360]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.28-19.07.32:422][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.28-19.07.32:422][360]PIE: New page: PIE session: PruebasLago (Nov 28, 2024, 1:07:32 PM)
+[2024.11.28-19.07.32:422][360]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasLago
+[2024.11.28-19.07.32:424][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001738s)
+[2024.11.28-19.07.32:424][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasLago.PruebasLago to /Game/Maps/UEDPIE_0_PruebasLago.PruebasLago (0.001772s)
+[2024.11.28-19.07.32:424][360]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.28-19.07.32:424][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.28-19.07.32:424][360]LogAIModule: Creating AISystem for world PruebasLago
+[2024.11.28-19.07.32:424][360]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2024.11.28-19.07.32:445][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.11.28-19.07.32:448][360]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.11.28-19.07.32:449][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.28-19.07.32:449][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.28-19.07.32:449][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.28-19.07.32:449][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.28-19.07.32:449][360]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.28-19.07.32:449][360]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.28-19.07.32:449][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.28-19.07.32:449][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.28-19.07.32:449][360]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.28-19.07.32:449][360]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.28-19.07.32:449][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.28-19.07.32:452][360]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.28-19.07.32:477][360]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.28-19.07.32:477][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.28-19.07.32:477][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.28-19.07.32:477][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.28-19.07.32:478][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.11.28-19.07.32:478][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.11.28-19.07.32:480][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.11.28-19.07.32:480][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.11.28-19.07.32:480][360]LogInit: FAudioDevice initialized with ID 25.
+[2024.11.28-19.07.32:480][360]LogAudio: Display: Audio Device (ID: 25) registered with world 'PruebasLago'.
+[2024.11.28-19.07.32:480][360]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.11.28-19.07.32:484][360]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.28-19.07.32:485][360]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasLago.PruebasLago up for play (max tick rate 0) at 2024.11.28-16.07.32
+[2024.11.28-19.07.32:485][360]LogWorld: Bringing up level for play took: 0.001186
+[2024.11.28-19.07.32:487][360]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.11.28-19.07.32:489][360]PIE: Server logged in
+[2024.11.28-19.07.32:490][360]PIE: Play in editor total start time 0.069 seconds.
+[2024.11.28-19.07.32:529][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.32:530][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.32:530][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.32:530][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.32:531][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.32:531][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.32:531][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.32:531][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.32:532][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.32:532][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.32:532][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.32:532][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.32:533][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.32:533][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.32:533][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.32:534][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.32:534][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.32:534][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.53:301][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.28-19.07.53:301][848]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasLago
+[2024.11.28-19.07.53:301][848]LogWorld: UWorld::CleanupWorld for PruebasLago, bSessionEnded=true, bCleanupResources=true
+[2024.11.28-19.07.53:301][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.28-19.07.53:307][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.28-19.07.53:312][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.28-19.07.53:330][848]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.28-19.07.53:330][848]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.11.28-19.07.53:330][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.11.28-19.07.53:331][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.11.28-19.07.53:335][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.28-19.07.53:337][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.11.28-19.07.53:369][848]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.53:369][848]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.53:369][848]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.53:370][848]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.53:370][848]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.53:370][848]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.53:370][848]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.53:371][848]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.53:371][848]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.53:371][848]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.53:372][848]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.53:372][848]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.53:372][848]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.28-19.07.53:391][849]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.11.28-19.07.54:490][976]LogEditorViewport: Clicking Background
+[2024.11.28-19.08.09:765][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.11.28-19.08.09:784][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.11.28-19.08.10:784][701]LogSlate: Window 'Save Content' being destroyed
+[2024.11.28-19.08.10:795][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.28-19.08.10:847][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PruebasLago" FILE="C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasLago.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.28-19.08.10:867][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.11.28-19.08.10:874][701]LogSavePackage: Moving output files for package: /Game/Maps/PruebasLago
+[2024.11.28-19.08.10:874][701]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasLago5C4E86774E6B86D6B8ACBABE8463B450.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasLago.umap'
+[2024.11.28-19.08.10:882][701]LogFileHelpers: Saving map 'PruebasLago' took 0.035
+[2024.11.28-19.08.10:888][701]LogSavePackage: Moving output files for package: /Game/StarterContent/Blueprints/Interact/BP_Inspection
+[2024.11.28-19.08.10:889][701]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/BP_Inspection5CABD8544B9202677EA0F0B976754964.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/StarterContent/Blueprints/Interact/BP_Inspection.uasset'
+[2024.11.28-19.08.10:904][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 8.47 sec)
+[2024.11.28-19.08.10:910][701]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.28-19.08.10:910][701]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Blueprints/Interact/BP_Inspection.BP_Inspection
+[2024.11.28-19.08.10:910][701]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasLago.PruebasLago
