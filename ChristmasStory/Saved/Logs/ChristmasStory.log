@@ -3965,3 +3965,163 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.29-16.57.54:157][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 5.17 sec)
 [2024.11.29-16.57.54:165][ 26]AssetCheck: New page: Asset Save: WB_final
 [2024.11.29-16.57.54:166][ 26]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/Widgets/WB_final.WB_final
+[2024.11.29-16.58.13:419][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.11.29-16.58.13:441][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.11.29-16.58.18:238][409]LogSlate: Window 'Save Content' being destroyed
+[2024.11.29-16.58.18:247][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.29-16.58.18:321][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.11.29-16.58.18:467][409]LogSavePackage: Moving output files for package: /Game/Maps/PruebasMauri
+[2024.11.29-16.58.18:468][409]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasMauri2FAE70DB4595A082A2E738BCDC51859E.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasMauri.umap'
+[2024.11.29-16.58.18:481][409]LogFileHelpers: Saving map 'PruebasMauri' took 0.181
+[2024.11.29-16.58.18:507][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 260 ms (total: 5.43 sec)
+[2024.11.29-16.58.18:513][409]AssetCheck: New page: Asset Save: PruebasMauri
+[2024.11.29-16.58.18:513][409]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
+[2024.11.29-16.58.18:519][410]LogAutomationController: Ignoring very large delta of 5.12 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.29-16.58.43:402][170]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.58.43:403][170]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.58.43:403][170]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.58.43:404][170]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.58.43:405][170]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.58.43:405][170]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.58.59:779][ 88]Cmd: DELETE
+[2024.11.29-16.58.59:779][ 88]Cmd: ACTOR DELETE
+[2024.11.29-16.58.59:793][ 88]LogEditorActor: Deleted Actor: TriggerDialogos_C
+[2024.11.29-16.58.59:814][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.11.29-16.58.59:817][ 88]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2024.11.29-16.58.59:847][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.59.10:774][383]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.59.10:774][383]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.59.10:774][383]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.59.10:775][383]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.59.10:775][383]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.59.10:775][383]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.59.12:663][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.29-16.59.12:748][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.11.29-16.59.12:880][606]LogSavePackage: Moving output files for package: /Game/Maps/PruebasMauri
+[2024.11.29-16.59.12:880][606]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasMauriC0E0A70244B26AB9B4A48E9DBC3866FC.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasMauri.umap'
+[2024.11.29-16.59.12:891][606]LogFileHelpers: Saving map 'PruebasMauri' took 0.170
+[2024.11.29-16.59.12:917][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 253 ms (total: 5.69 sec)
+[2024.11.29-16.59.12:923][606]AssetCheck: New page: Asset Save: PruebasMauri
+[2024.11.29-16.59.12:923][606]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
+[2024.11.29-16.59.16:046][977]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.29-16.59.16:054][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-16.59.16:054][977]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 10:59:16 AM)
+[2024.11.29-16.59.16:054][977]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-16.59.16:100][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045017s)
+[2024.11.29-16.59.16:100][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.045064s)
+[2024.11.29-16.59.16:100][977]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-16.59.16:100][977]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-16.59.16:101][977]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-16.59.16:101][977]LogPlayLevel: PIE: World Init took: (0.001069s)
+[2024.11.29-16.59.16:122][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.11.29-16.59.16:123][977]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.11.29-16.59.16:123][977]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-16.59.16:123][977]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-16.59.16:123][977]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-16.59.16:123][977]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-16.59.16:123][977]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-16.59.16:123][977]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-16.59.16:123][977]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-16.59.16:123][977]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-16.59.16:124][977]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-16.59.16:124][977]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-16.59.16:124][977]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-16.59.16:125][977]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-16.59.16:151][977]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-16.59.16:151][977]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-16.59.16:151][977]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-16.59.16:151][977]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-16.59.16:152][977]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.11.29-16.59.16:152][977]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.11.29-16.59.16:153][977]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.11.29-16.59.16:153][977]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.11.29-16.59.16:153][977]LogInit: FAudioDevice initialized with ID 27.
+[2024.11.29-16.59.16:153][977]LogAudio: Display: Audio Device (ID: 27) registered with world 'PruebasMauri'.
+[2024.11.29-16.59.16:153][977]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.11.29-16.59.16:157][977]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-16.59.16:175][977]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-13.59.16
+[2024.11.29-16.59.16:175][977]LogWorld: Bringing up level for play took: 0.018341
+[2024.11.29-16.59.16:177][977]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.11.29-16.59.16:180][977]PIE: Server logged in
+[2024.11.29-16.59.16:181][977]PIE: Play in editor total start time 0.129 seconds.
+[2024.11.29-16.59.16:245][977]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.59.16:245][977]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.59.16:246][977]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.59.16:246][977]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.59.16:246][977]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.59.16:246][977]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.59.16:247][977]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.59.18:647][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-16.59.19:627][382]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.59.21:827][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-16.59.22:627][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-16.59.23:629][862]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.11.29-16.59.23:629][862]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.11.29-16.59.23:629][862]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.11.29-16.59.26:446][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-16.59.26:472][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-16.59.27:643][343]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.59.27:757][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-16.59.27:757][357]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.11.29-16.59.27:757][357]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.11.29-16.59.27:932][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-16.59.36:121][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-16.59.36:338][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-16.59.45:614][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-16.59.50:868][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-16.59.51:409][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-16.59.53:289][414]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.11.29-16.59.53:290][414]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.11.29-16.59.56:165][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-16.59.56:708][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-16.59.56:708][824]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.11.29-16.59.56:708][824]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.11.29-16.59.56:933][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-16.59.57:109][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-16.59.57:712][944]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-16.59.58:720][ 65]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-17.00.01:862][442]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.11.29-17.00.01:862][442]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.11.29-17.00.05:454][873]Cmd: quit
+[2024.11.29-17.00.05:455][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-17.00.05:455][873]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-17.00.05:478][873]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-17.00.05:480][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-17.00.05:487][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-17.00.05:492][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-17.00.05:512][873]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-17.00.05:513][873]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.11.29-17.00.05:513][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.11.29-17.00.05:514][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.11.29-17.00.05:519][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-17.00.05:530][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.11.29-17.00.05:567][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-17.00.05:568][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-17.00.05:568][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-17.00.05:568][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-17.00.05:569][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-17.00.05:569][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-17.00.05:570][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-17.00.05:586][874]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.11.29-17.00.07:099][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.29-17.00.07:177][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.11.29-17.00.07:293][ 51]LogSavePackage: Moving output files for package: /Game/Maps/PruebasMauri
+[2024.11.29-17.00.07:293][ 51]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasMauriEBE4F30A451A63301446C0B9E450ACCD.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasMauri.umap'
+[2024.11.29-17.00.07:302][ 51]LogFileHelpers: Saving map 'PruebasMauri' took 0.149
+[2024.11.29-17.00.07:324][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 225 ms (total: 5.91 sec)
+[2024.11.29-17.00.07:331][ 51]AssetCheck: New page: Asset Save: PruebasMauri
+[2024.11.29-17.00.07:331][ 51]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
+[2024.11.29-17.00.08:884][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.11.29-17.00.08:909][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.11.29-17.00.10:953][225]LogSlate: Window 'Save Content' being destroyed
+[2024.11.29-17.00.10:968][226]LogAutomationController: Ignoring very large delta of 2.11 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.29-17.00.13:518][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.11.29-17.00.13:539][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.11.29-17.00.14:914][520]LogSlate: Window 'Save Content' being destroyed
+[2024.11.29-17.00.14:923][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.29-17.00.18:812][520]LogSlate: Window 'Save Level As' being destroyed
+[2024.11.29-17.00.18:834][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.91 sec (total: 9.82 sec)
+[2024.11.29-17.00.18:839][521]LogAutomationController: Ignoring very large delta of 5.34 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.29-17.00.20:139][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.11.29-17.00.20:160][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.11.29-17.00.21:752][668]LogSlate: Window 'Save Content' being destroyed
