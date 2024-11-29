@@ -7250,3 +7250,103 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.29-00.24.51:051][573]AssetCheck: New page: Asset Save: multiple assets
 [2024.11.29-00.24.51:051][573]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Flashlight.BP_Flashlight
 [2024.11.29-00.24.51:051][573]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
+[2024.11.29-00.25.48:350][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-00.25.48:350][443]PIE: New page: PIE session: PruebasMauri (Nov 28, 2024, 6:25:48 PM)
+[2024.11.29-00.25.48:350][443]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-00.25.48:401][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050792s)
+[2024.11.29-00.25.48:401][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.050853s)
+[2024.11.29-00.25.48:401][443]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-00.25.48:401][443]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-00.25.48:402][443]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-00.25.48:403][443]LogPlayLevel: PIE: World Init took: (0.001449s)
+[2024.11.29-00.25.48:426][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.11.29-00.25.48:427][443]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2024.11.29-00.25.48:427][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-00.25.48:427][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-00.25.48:427][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-00.25.48:427][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-00.25.48:427][443]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-00.25.48:427][443]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-00.25.48:427][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-00.25.48:427][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-00.25.48:428][443]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-00.25.48:428][443]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-00.25.48:428][443]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-00.25.48:429][443]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-00.25.48:455][443]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-00.25.48:455][443]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-00.25.48:455][443]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-00.25.48:455][443]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-00.25.48:457][443]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2024.11.29-00.25.48:457][443]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=60
+[2024.11.29-00.25.48:459][443]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2024.11.29-00.25.48:459][443]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2024.11.29-00.25.48:459][443]LogInit: FAudioDevice initialized with ID 60.
+[2024.11.29-00.25.48:459][443]LogAudio: Display: Audio Device (ID: 60) registered with world 'PruebasMauri'.
+[2024.11.29-00.25.48:459][443]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 60
+[2024.11.29-00.25.48:462][443]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-00.25.48:486][443]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.28-21.25.48
+[2024.11.29-00.25.48:486][443]LogWorld: Bringing up level for play took: 0.024644
+[2024.11.29-00.25.48:488][443]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2024.11.29-00.25.48:491][443]PIE: Server logged in
+[2024.11.29-00.25.48:493][443]PIE: Play in editor total start time 0.142 seconds.
+[2024.11.29-00.25.53:658][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-00.25.53:861][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-00.25.55:240][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-00.25.58:675][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-00.25.58:683][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-00.25.58:941][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-00.25.58:990][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-00.25.59:300][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-00.26.01:967][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-00.26.01:967][ 35]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.11.29-00.26.21:952][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-00.26.26:112][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-00.26.42:578][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-00.26.44:165][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-00.26.44:165][ 88]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-00.26.44:166][ 88]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-00.26.44:168][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-00.26.44:174][ 88]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-00.26.44:179][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-00.26.44:202][ 88]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-00.26.44:202][ 88]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 60
+[2024.11.29-00.26.44:202][ 88]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2024.11.29-00.26.44:204][ 88]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2024.11.29-00.26.44:208][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-00.26.44:214][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.11.29-00.26.44:274][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2024.11.29-00.26.58:304][607]Cmd: DUPLICATE
+[2024.11.29-00.26.58:305][607]Cmd: ACTOR DUPLICATE
+[2024.11.29-00.27.07:172][532]Cmd: TRANSACTION UNDO
+[2024.11.29-00.27.07:172][532]LogEditorTransaction: Undo Move Elements
+[2024.11.29-00.28.29:300][552]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Blueprints/Keypad/W_Keypad.W_Keypad
+[2024.11.29-00.28.29:301][552]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-00.28.29:301][552]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-00.28.29:312][552]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-00.28.29:312][552]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-00.28.47:990][677]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.29-00.28.48:086][677]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Keypad/W_Keypad
+[2024.11.29-00.28.48:086][677]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/W_KeypadE422B246498B1AA0B04FC78F26AD1712.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Keypad/W_Keypad.uasset'
+[2024.11.29-00.28.48:101][677]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 3.95 sec)
+[2024.11.29-00.28.48:110][677]AssetCheck: New page: Asset Save: W_Keypad
+[2024.11.29-00.28.48:110][677]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/Keypad/W_Keypad.W_Keypad
+[2024.11.29-00.28.48:425][713]BlueprintLog: New page: Compile W_Keypad
+[2024.11.29-00.28.48:476][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.11.29-00.28.49:047][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.29-00.28.49:155][756]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Keypad/W_Keypad
+[2024.11.29-00.28.49:156][756]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/W_Keypad72C70F3D44CB9F3BDAEC52AFCD73D506.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Keypad/W_Keypad.uasset'
+[2024.11.29-00.28.49:171][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 4.08 sec)
+[2024.11.29-00.28.49:179][756]AssetCheck: New page: Asset Save: W_Keypad
+[2024.11.29-00.28.49:179][756]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/Keypad/W_Keypad.W_Keypad
+[2024.11.29-00.29.37:941][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.11.29-00.29.37:961][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.11.29-00.29.39:291][200]LogSlate: Window 'Save Content' being destroyed
+[2024.11.29-00.29.39:320][200]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.29-00.29.39:398][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.11.29-00.29.39:511][200]LogSavePackage: Moving output files for package: /Game/Maps/PruebasMauri
+[2024.11.29-00.29.39:512][200]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasMauriBAF9498145B5B5A2F9DAC7B16F0AF748.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasMauri.umap'
+[2024.11.29-00.29.39:521][200]LogFileHelpers: Saving map 'PruebasMauri' took 0.147
+[2024.11.29-00.29.39:536][200]LogFileHelpers: InternalPromptForCheckoutAndSave took 215 ms (total: 4.29 sec)
+[2024.11.29-00.29.39:542][200]AssetCheck: New page: Asset Save: PruebasMauri
+[2024.11.29-00.29.39:542][200]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
