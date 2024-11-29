@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Dialogos/InterfazzDeDialogos.uasset",
+				"D:/Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Dialogos/TriggerDialogos.uasset",
+				"D:/Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Dialogos/Dialogos.uasset",
+				"D:/Proyectos GitHub/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasMauri.umap",
 				"C:/Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasMauri.umap",
 				"C:/Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/MauContenido/Linterna/BuildersTorch_Albedo_baseColor.uasset",
 				"C:/Users/Hogar/OneDrive/Escritorio/TDA/SoswareBeforeChristmas/ChristmasStory/Content/MauContenido/Linterna/BuildersTorch_Albedo_1_baseColor.uasset",
