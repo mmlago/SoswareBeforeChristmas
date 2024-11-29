@@ -4562,3 +4562,1243 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.29-20.09.43:191][651]LogViewport: Scene viewport resized to 1526x911, mode Windowed.
 [2024.11.29-20.09.43:230][652]LogViewport: Scene viewport resized to 1526x896, mode Windowed.
 [2024.11.29-20.09.43:263][653]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2024.11.29-20.10.03:324][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-20.10.03:324][394]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 2:10:03 PM)
+[2024.11.29-20.10.03:348][394]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.10.03:403][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054659s)
+[2024.11.29-20.10.03:403][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.054724s)
+[2024.11.29-20.10.03:403][394]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.10.03:403][394]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.10.03:403][394]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-20.10.03:404][394]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2024.11.29-20.10.03:425][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.11.29-20.10.03:430][394]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.11.29-20.10.03:430][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-20.10.03:430][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-20.10.03:430][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-20.10.03:430][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-20.10.03:430][394]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-20.10.03:430][394]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-20.10.03:430][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-20.10.03:430][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-20.10.03:431][394]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-20.10.03:431][394]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-20.10.03:431][394]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-20.10.03:433][394]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-20.10.03:455][394]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-20.10.03:455][394]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-20.10.03:455][394]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-20.10.03:455][394]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-20.10.03:455][394]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.11.29-20.10.03:455][394]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.11.29-20.10.03:458][394]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.11.29-20.10.03:458][394]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.11.29-20.10.03:458][394]LogInit: FAudioDevice initialized with ID 9.
+[2024.11.29-20.10.03:458][394]LogAudio: Display: Audio Device (ID: 9) registered with world 'PruebasMauri'.
+[2024.11.29-20.10.03:458][394]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.11.29-20.10.03:460][394]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-20.10.03:478][394]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-17.10.03
+[2024.11.29-20.10.03:478][394]LogWorld: Bringing up level for play took: 0.017509
+[2024.11.29-20.10.03:480][394]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.11.29-20.10.03:483][394]LogEngine: Display: r.ScreenPercentage=50.000000 is ignored because overriden by editor settings (r.Editor.Viewport.OverridePIEScreenPercentage). Change this behavior in Edit -> Editor Preferences -> Performance
+[2024.11.29-20.10.03:483][394]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.11.29-20.10.03:483][394]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.11.29-20.10.03:483][394]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.11.29-20.10.03:483][394]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.11.29-20.10.03:483][394]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.11.29-20.10.03:483][394]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.11.29-20.10.03:483][394]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.11.29-20.10.03:483][394]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.11.29-20.10.03:483][394]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.11.29-20.10.03:483][394]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.11.29-20.10.03:483][394]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.11.29-20.10.03:483][394]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2024.11.29-20.10.03:483][394]PIE: Server logged in
+[2024.11.29-20.10.03:484][394]PIE: Play in editor total start time 0.16 seconds.
+[2024.11.29-20.10.03:562][394]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.10.03:562][394]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.10.06:942][795]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.11.29-20.10.06:942][795]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.11.29-20.10.06:943][795]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.11.29-20.10.09:625][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.10.09:983][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.10.09:983][160]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.11.29-20.10.09:983][160]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.11.29-20.10.13:970][638]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.11.29-20.10.13:970][638]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.11.29-20.10.17:453][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.10.18:661][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.10.18:661][201]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.11.29-20.10.18:661][201]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.11.29-20.10.18:845][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.10.20:795][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.10.21:095][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.10.23:613][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.10.23:770][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.10.27:888][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.10.27:888][302]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.10.27:888][302]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.10.27:891][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.10.27:895][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-20.10.27:902][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.10.27:923][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.10.27:924][302]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.11.29-20.10.27:924][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.11.29-20.10.27:925][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.11.29-20.10.27:939][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.11.29-20.10.27:966][302]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.10.27:966][302]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.10.27:982][303]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.11.29-20.11.12:852][640]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz.BP_FinalLuz
+[2024.11.29-20.11.12:852][640]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.11.12:852][640]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.11.44:032][194]BlueprintLog: New page: Compile BP_FinalLuz
+[2024.11.29-20.11.44:074][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.11.29-20.12.38:862][703]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.11.29-20.12.38:862][703]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.11.29-20.19.19:929][960]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.11.29-20.19.23:665][344]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.11.29-20.19.23:665][344]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.19.23:665][344]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.19.24:050][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.11.29-20.19.24:163][345]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/PruebasMauri_Auto2
+[2024.11.29-20.19.24:164][345]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasMauri_Auto2AF2CB4394FF40DC6161796959F1FE7D3.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/Autosaves/Game/Maps/PruebasMauri_Auto2.umap'
+[2024.11.29-20.19.24:173][345]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/PruebasMauri' took 0.149
+[2024.11.29-20.19.24:174][345]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.149
+[2024.11.29-20.19.24:174][345]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StarterContent/Blueprints/Interact/BP_Nota2] ([2] browsable assets)...
+[2024.11.29-20.19.24:181][345]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Blueprints/Interact/BP_Nota2.BP_Nota2]
+[2024.11.29-20.19.24:181][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Blueprints/Interact/BP_Nota2]
+[2024.11.29-20.19.24:193][345]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Blueprints/Interact/BP_Nota2_Auto2
+[2024.11.29-20.19.24:194][345]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/BP_Nota2_Auto2AF71CBE04F63130D08916287CA12CA48.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/Autosaves/Game/StarterContent/Blueprints/Interact/BP_Nota2_Auto2.uasset'
+[2024.11.29-20.19.24:196][345]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz] ([2] browsable assets)...
+[2024.11.29-20.19.24:196][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz]
+[2024.11.29-20.19.24:202][345]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz_Auto2
+[2024.11.29-20.19.24:202][345]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/BP_FinalLuz_Auto2477C9D8B4CD226C3CB41B59A21B4664D.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/Autosaves/Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz_Auto2.uasset'
+[2024.11.29-20.19.24:203][345]LogFileHelpers: Auto-saving content packages took 0.030
+[2024.11.29-20.19.50:478][493]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.11.29-20.19.50:609][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.11.29-20.19.52:145][628]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.29-20.19.52:153][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-20.19.52:153][628]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 2:19:52 PM)
+[2024.11.29-20.19.52:188][628]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.19.52:234][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045597s)
+[2024.11.29-20.19.52:234][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.045660s)
+[2024.11.29-20.19.52:234][628]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.19.52:234][628]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.19.52:234][628]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-20.19.52:235][628]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2024.11.29-20.19.52:257][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.11.29-20.19.52:258][628]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.11.29-20.19.52:258][628]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-20.19.52:258][628]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-20.19.52:258][628]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-20.19.52:258][628]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-20.19.52:258][628]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-20.19.52:258][628]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-20.19.52:258][628]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-20.19.52:258][628]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-20.19.52:259][628]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-20.19.52:259][628]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-20.19.52:259][628]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-20.19.52:261][628]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-20.19.52:284][628]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-20.19.52:284][628]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-20.19.52:284][628]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-20.19.52:284][628]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-20.19.52:285][628]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.11.29-20.19.52:285][628]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.11.29-20.19.52:288][628]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.11.29-20.19.52:288][628]LogInit: FAudioDevice initialized with ID 10.
+[2024.11.29-20.19.52:288][628]LogAudio: Display: Audio Device (ID: 10) registered with world 'PruebasMauri'.
+[2024.11.29-20.19.52:288][628]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.11.29-20.19.52:288][628]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.11.29-20.19.52:292][628]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-20.19.52:309][628]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-17.19.52
+[2024.11.29-20.19.52:310][628]LogWorld: Bringing up level for play took: 0.018401
+[2024.11.29-20.19.52:312][628]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.11.29-20.19.52:315][628]LogEngine: Display: r.ScreenPercentage=50.000000 is ignored because overriden by editor settings (r.Editor.Viewport.OverridePIEScreenPercentage). Change this behavior in Edit -> Editor Preferences -> Performance
+[2024.11.29-20.19.52:315][628]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.11.29-20.19.52:315][628]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.11.29-20.19.52:315][628]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.11.29-20.19.52:315][628]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.11.29-20.19.52:315][628]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.11.29-20.19.52:315][628]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.11.29-20.19.52:315][628]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.11.29-20.19.52:315][628]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.11.29-20.19.52:315][628]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.11.29-20.19.52:315][628]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.11.29-20.19.52:315][628]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.11.29-20.19.52:315][628]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2024.11.29-20.19.52:315][628]PIE: Server logged in
+[2024.11.29-20.19.52:316][628]PIE: Play in editor total start time 0.165 seconds.
+[2024.11.29-20.19.52:398][628]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.19.52:398][628]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.19.56:405][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.19.59:672][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.19.59:881][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.00:397][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.00:479][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.00:479][586]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.20.00:479][586]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.20.00:482][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.20.00:486][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-20.20.00:492][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.20.00:511][586]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-20.20.00:513][586]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.11.29-20.20.00:513][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.11.29-20.20.00:515][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.11.29-20.20.00:520][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.00:526][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.11.29-20.20.00:553][586]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.20.00:553][586]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.20.00:561][587]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.11.29-20.20.05:777][ 44]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.11.29-20.20.05:896][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.11.29-20.20.07:446][189]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.29-20.20.07:455][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-20.20.07:455][189]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 2:20:07 PM)
+[2024.11.29-20.20.07:487][189]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.20.07:537][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049313s)
+[2024.11.29-20.20.07:537][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.049362s)
+[2024.11.29-20.20.07:537][189]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.20.07:537][189]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.20.07:538][189]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-20.20.07:538][189]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2024.11.29-20.20.07:562][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.11.29-20.20.07:563][189]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.11.29-20.20.07:563][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-20.20.07:563][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-20.20.07:564][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-20.20.07:564][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-20.20.07:564][189]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-20.20.07:564][189]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-20.20.07:564][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-20.20.07:564][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-20.20.07:564][189]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-20.20.07:564][189]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-20.20.07:564][189]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-20.20.07:566][189]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-20.20.07:591][189]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-20.20.07:591][189]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-20.20.07:591][189]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-20.20.07:591][189]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-20.20.07:592][189]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.11.29-20.20.07:592][189]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.11.29-20.20.07:595][189]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.11.29-20.20.07:595][189]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.11.29-20.20.07:595][189]LogInit: FAudioDevice initialized with ID 11.
+[2024.11.29-20.20.07:595][189]LogAudio: Display: Audio Device (ID: 11) registered with world 'PruebasMauri'.
+[2024.11.29-20.20.07:595][189]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.11.29-20.20.07:599][189]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-20.20.07:621][189]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-17.20.07
+[2024.11.29-20.20.07:621][189]LogWorld: Bringing up level for play took: 0.022816
+[2024.11.29-20.20.07:624][189]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.11.29-20.20.07:626][189]LogEngine: Display: r.ScreenPercentage=50.000000 is ignored because overriden by editor settings (r.Editor.Viewport.OverridePIEScreenPercentage). Change this behavior in Edit -> Editor Preferences -> Performance
+[2024.11.29-20.20.07:626][189]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.11.29-20.20.07:626][189]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.11.29-20.20.07:626][189]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.11.29-20.20.07:626][189]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.11.29-20.20.07:626][189]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.11.29-20.20.07:626][189]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.11.29-20.20.07:626][189]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.11.29-20.20.07:626][189]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.11.29-20.20.07:626][189]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.11.29-20.20.07:627][189]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.11.29-20.20.07:627][189]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.11.29-20.20.07:627][189]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2024.11.29-20.20.07:627][189]PIE: Server logged in
+[2024.11.29-20.20.07:627][189]PIE: Play in editor total start time 0.175 seconds.
+[2024.11.29-20.20.07:704][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.20.07:704][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.20.12:472][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.18:323][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.18:457][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.30:701][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.30:701][942]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.11.29-20.20.39:513][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.43:723][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.43:981][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.44:141][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.46:215][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.46:790][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.46:865][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.47:149][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.49:716][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.52:935][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.53:235][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.55:902][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.56:829][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.56:829][ 70]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.20.56:830][ 70]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.20.56:832][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.20.56:836][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-20.20.56:842][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.20.56:863][ 70]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-20.20.56:863][ 70]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.11.29-20.20.56:863][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.11.29-20.20.56:865][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.11.29-20.20.56:869][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.20.56:876][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.11.29-20.20.56:904][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.20.56:904][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.20.56:911][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.11.29-20.20.58:170][216]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.29-20.20.58:176][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-20.20.58:176][216]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 2:20:58 PM)
+[2024.11.29-20.20.58:218][216]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.20.58:260][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041902s)
+[2024.11.29-20.20.58:260][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.041951s)
+[2024.11.29-20.20.58:260][216]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.20.58:260][216]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.20.58:260][216]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-20.20.58:261][216]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2024.11.29-20.20.58:280][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.11.29-20.20.58:282][216]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.11.29-20.20.58:282][216]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-20.20.58:282][216]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-20.20.58:282][216]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-20.20.58:282][216]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-20.20.58:282][216]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-20.20.58:282][216]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-20.20.58:282][216]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-20.20.58:282][216]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-20.20.58:282][216]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-20.20.58:282][216]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-20.20.58:282][216]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-20.20.58:284][216]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-20.20.58:307][216]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-20.20.58:307][216]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-20.20.58:307][216]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-20.20.58:307][216]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-20.20.58:307][216]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.11.29-20.20.58:307][216]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.11.29-20.20.58:310][216]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.11.29-20.20.58:310][216]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.11.29-20.20.58:310][216]LogInit: FAudioDevice initialized with ID 12.
+[2024.11.29-20.20.58:310][216]LogAudio: Display: Audio Device (ID: 12) registered with world 'PruebasMauri'.
+[2024.11.29-20.20.58:310][216]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.11.29-20.20.58:314][216]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-20.20.58:332][216]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-17.20.58
+[2024.11.29-20.20.58:332][216]LogWorld: Bringing up level for play took: 0.018084
+[2024.11.29-20.20.58:334][216]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.11.29-20.20.58:336][216]LogEngine: Display: r.ScreenPercentage=50.000000 is ignored because overriden by editor settings (r.Editor.Viewport.OverridePIEScreenPercentage). Change this behavior in Edit -> Editor Preferences -> Performance
+[2024.11.29-20.20.58:336][216]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.11.29-20.20.58:336][216]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.11.29-20.20.58:336][216]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.11.29-20.20.58:336][216]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.11.29-20.20.58:336][216]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.11.29-20.20.58:337][216]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.11.29-20.20.58:337][216]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.11.29-20.20.58:337][216]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.11.29-20.20.58:337][216]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.11.29-20.20.58:337][216]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.11.29-20.20.58:337][216]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.11.29-20.20.58:337][216]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2024.11.29-20.20.58:337][216]PIE: Server logged in
+[2024.11.29-20.20.58:337][216]PIE: Play in editor total start time 0.162 seconds.
+[2024.11.29-20.20.58:416][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.20.58:416][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.21.04:348][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.06:300][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.06:658][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.08:298][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.08:298][389]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.21.08:299][389]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.21.08:301][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.21.08:306][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-20.21.08:310][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.21.08:330][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.08:332][389]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.11.29-20.21.08:332][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.11.29-20.21.08:333][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.11.29-20.21.08:345][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.11.29-20.21.08:373][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.21.08:374][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.21.08:381][390]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.11.29-20.21.27:484][908]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.11.29-20.21.27:608][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.11.29-20.21.29:050][ 28]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.29-20.21.29:060][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-20.21.29:060][ 28]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 2:21:29 PM)
+[2024.11.29-20.21.29:060][ 28]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.21.29:109][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048201s)
+[2024.11.29-20.21.29:109][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.048246s)
+[2024.11.29-20.21.29:109][ 28]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.21.29:109][ 28]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.21.29:110][ 28]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-20.21.29:110][ 28]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2024.11.29-20.21.29:132][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.11.29-20.21.29:132][ 28]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.11.29-20.21.29:132][ 28]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-20.21.29:134][ 28]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-20.21.29:134][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-20.21.29:134][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-20.21.29:134][ 28]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-20.21.29:134][ 28]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-20.21.29:134][ 28]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-20.21.29:134][ 28]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-20.21.29:134][ 28]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-20.21.29:134][ 28]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-20.21.29:134][ 28]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-20.21.29:135][ 28]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-20.21.29:158][ 28]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-20.21.29:158][ 28]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-20.21.29:158][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-20.21.29:158][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-20.21.29:159][ 28]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.11.29-20.21.29:159][ 28]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.11.29-20.21.29:161][ 28]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.11.29-20.21.29:161][ 28]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.11.29-20.21.29:161][ 28]LogInit: FAudioDevice initialized with ID 13.
+[2024.11.29-20.21.29:161][ 28]LogAudio: Display: Audio Device (ID: 13) registered with world 'PruebasMauri'.
+[2024.11.29-20.21.29:161][ 28]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.11.29-20.21.29:165][ 28]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-20.21.29:183][ 28]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-17.21.29
+[2024.11.29-20.21.29:183][ 28]LogWorld: Bringing up level for play took: 0.018436
+[2024.11.29-20.21.29:185][ 28]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.11.29-20.21.29:189][ 28]LogEngine: Display: r.ScreenPercentage=50.000000 is ignored because overriden by editor settings (r.Editor.Viewport.OverridePIEScreenPercentage). Change this behavior in Edit -> Editor Preferences -> Performance
+[2024.11.29-20.21.29:189][ 28]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.11.29-20.21.29:189][ 28]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.11.29-20.21.29:189][ 28]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.11.29-20.21.29:189][ 28]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.11.29-20.21.29:189][ 28]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.11.29-20.21.29:189][ 28]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.11.29-20.21.29:189][ 28]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.11.29-20.21.29:189][ 28]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.11.29-20.21.29:189][ 28]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.11.29-20.21.29:189][ 28]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.11.29-20.21.29:189][ 28]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.11.29-20.21.29:189][ 28]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2024.11.29-20.21.29:189][ 28]PIE: Server logged in
+[2024.11.29-20.21.29:190][ 28]PIE: Play in editor total start time 0.132 seconds.
+[2024.11.29-20.21.29:277][ 28]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.21.29:277][ 28]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.21.32:017][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.33:976][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.34:334][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.34:508][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.34:859][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.34:859][688]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.21.34:860][688]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.21.34:862][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.21.34:867][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-20.21.34:871][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.21.34:892][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.34:893][688]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.11.29-20.21.34:893][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.11.29-20.21.34:895][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.11.29-20.21.34:905][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.11.29-20.21.34:932][688]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.21.34:933][688]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.21.34:940][689]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.11.29-20.21.35:782][787]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.29-20.21.35:789][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-20.21.35:789][787]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 2:21:35 PM)
+[2024.11.29-20.21.35:828][787]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.21.35:872][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043148s)
+[2024.11.29-20.21.35:872][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.043195s)
+[2024.11.29-20.21.35:872][787]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.21.35:872][787]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.21.35:872][787]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-20.21.35:873][787]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2024.11.29-20.21.35:893][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.11.29-20.21.35:894][787]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.11.29-20.21.35:895][787]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-20.21.35:895][787]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-20.21.35:895][787]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-20.21.35:895][787]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-20.21.35:895][787]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-20.21.35:895][787]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-20.21.35:895][787]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-20.21.35:895][787]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-20.21.35:895][787]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-20.21.35:895][787]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-20.21.35:895][787]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-20.21.35:899][787]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-20.21.35:922][787]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-20.21.35:923][787]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-20.21.35:923][787]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-20.21.35:923][787]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-20.21.35:924][787]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.11.29-20.21.35:924][787]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.11.29-20.21.35:926][787]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.11.29-20.21.35:927][787]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.11.29-20.21.35:927][787]LogInit: FAudioDevice initialized with ID 14.
+[2024.11.29-20.21.35:927][787]LogAudio: Display: Audio Device (ID: 14) registered with world 'PruebasMauri'.
+[2024.11.29-20.21.35:927][787]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.11.29-20.21.35:930][787]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-20.21.35:948][787]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-17.21.35
+[2024.11.29-20.21.35:948][787]LogWorld: Bringing up level for play took: 0.018691
+[2024.11.29-20.21.35:951][787]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.11.29-20.21.35:953][787]LogEngine: Display: r.ScreenPercentage=50.000000 is ignored because overriden by editor settings (r.Editor.Viewport.OverridePIEScreenPercentage). Change this behavior in Edit -> Editor Preferences -> Performance
+[2024.11.29-20.21.35:953][787]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.11.29-20.21.35:953][787]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.11.29-20.21.35:953][787]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.11.29-20.21.35:953][787]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.11.29-20.21.35:953][787]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.11.29-20.21.35:953][787]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.11.29-20.21.35:953][787]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.11.29-20.21.35:953][787]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.11.29-20.21.35:953][787]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.11.29-20.21.35:953][787]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.11.29-20.21.35:953][787]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.11.29-20.21.35:953][787]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2024.11.29-20.21.35:953][787]PIE: Server logged in
+[2024.11.29-20.21.35:954][787]PIE: Play in editor total start time 0.166 seconds.
+[2024.11.29-20.21.36:039][787]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.21.36:039][787]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.21.39:289][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.40:064][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.40:446][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.40:755][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.40:805][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.41:014][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.41:355][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.41:664][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.41:955][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.42:247][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.43:665][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.43:673][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.43:964][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.47:564][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.47:738][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.47:738][179]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.21.47:738][179]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.21.47:741][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.21.47:746][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-20.21.47:751][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.21.47:771][179]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-20.21.47:771][179]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.11.29-20.21.47:771][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.11.29-20.21.47:773][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.11.29-20.21.47:776][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.21.47:784][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.29-20.21.47:813][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.21.47:813][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.21.47:821][180]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.11.29-20.23.49:420][849]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.11.29-20.23.49:510][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.11.29-20.23.56:706][666]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.11.29-20.23.56:777][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.29-20.24.00:477][ 80]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.29-20.24.00:486][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-20.24.00:486][ 80]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 2:24:00 PM)
+[2024.11.29-20.24.00:508][ 80]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.24.00:553][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043733s)
+[2024.11.29-20.24.00:553][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.043795s)
+[2024.11.29-20.24.00:553][ 80]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.24.00:553][ 80]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.24.00:553][ 80]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-20.24.00:554][ 80]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2024.11.29-20.24.00:576][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.11.29-20.24.00:582][ 80]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.11.29-20.24.00:582][ 80]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-20.24.00:582][ 80]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-20.24.00:582][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-20.24.00:582][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-20.24.00:582][ 80]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-20.24.00:582][ 80]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-20.24.00:582][ 80]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-20.24.00:582][ 80]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-20.24.00:582][ 80]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-20.24.00:582][ 80]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-20.24.00:582][ 80]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-20.24.00:584][ 80]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-20.24.00:613][ 80]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-20.24.00:613][ 80]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-20.24.00:613][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-20.24.00:613][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-20.24.00:613][ 80]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.11.29-20.24.00:613][ 80]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.11.29-20.24.00:616][ 80]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.11.29-20.24.00:616][ 80]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.11.29-20.24.00:616][ 80]LogInit: FAudioDevice initialized with ID 15.
+[2024.11.29-20.24.00:616][ 80]LogAudio: Display: Audio Device (ID: 15) registered with world 'PruebasMauri'.
+[2024.11.29-20.24.00:616][ 80]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.11.29-20.24.00:618][ 80]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-20.24.00:637][ 80]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-17.24.00
+[2024.11.29-20.24.00:638][ 80]LogWorld: Bringing up level for play took: 0.018214
+[2024.11.29-20.24.00:640][ 80]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.11.29-20.24.00:642][ 80]LogEngine: Display: r.ScreenPercentage=50.000000 is ignored because overriden by editor settings (r.Editor.Viewport.OverridePIEScreenPercentage). Change this behavior in Edit -> Editor Preferences -> Performance
+[2024.11.29-20.24.00:642][ 80]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.11.29-20.24.00:642][ 80]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.11.29-20.24.00:642][ 80]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.11.29-20.24.00:642][ 80]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.11.29-20.24.00:642][ 80]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.11.29-20.24.00:642][ 80]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.11.29-20.24.00:642][ 80]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.11.29-20.24.00:642][ 80]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.11.29-20.24.00:642][ 80]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.11.29-20.24.00:642][ 80]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.11.29-20.24.00:642][ 80]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.11.29-20.24.00:642][ 80]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2024.11.29-20.24.00:643][ 80]PIE: Server logged in
+[2024.11.29-20.24.00:643][ 80]PIE: Play in editor total start time 0.159 seconds.
+[2024.11.29-20.24.00:731][ 80]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.24.00:731][ 80]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.24.03:729][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.24.04:270][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.24.05:030][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.24.06:888][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.24.06:888][807]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.24.06:888][807]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.24.06:891][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.24.06:896][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-20.24.06:900][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.24.06:922][807]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-20.24.06:923][807]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.11.29-20.24.06:923][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.11.29-20.24.06:925][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.11.29-20.24.06:929][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.24.06:934][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.11.29-20.24.06:965][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.24.06:965][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.24.06:973][808]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.11.29-20.24.23:086][646]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/PruebasMauri.PruebasMauri:PersistentLevel.PruebasMauri
+[2024.11.29-20.24.23:086][646]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.24.23:086][646]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.24.41:450][816]BlueprintLog: New page: Compile PruebasMauri
+[2024.11.29-20.24.41:525][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.11.29-20.24.42:630][941]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.29-20.24.42:638][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-20.24.42:638][941]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 2:24:42 PM)
+[2024.11.29-20.24.42:658][941]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.24.42:703][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044420s)
+[2024.11.29-20.24.42:703][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.044467s)
+[2024.11.29-20.24.42:703][941]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.24.42:704][941]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.24.42:704][941]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-20.24.42:704][941]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2024.11.29-20.24.42:725][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.11.29-20.24.42:726][941]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.11.29-20.24.42:726][941]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-20.24.42:726][941]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-20.24.42:726][941]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-20.24.42:726][941]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-20.24.42:726][941]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-20.24.42:726][941]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-20.24.42:726][941]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-20.24.42:726][941]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-20.24.42:728][941]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-20.24.42:728][941]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-20.24.42:728][941]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-20.24.42:729][941]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-20.24.42:752][941]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-20.24.42:753][941]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-20.24.42:753][941]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-20.24.42:753][941]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-20.24.42:754][941]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.11.29-20.24.42:754][941]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.11.29-20.24.42:756][941]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.11.29-20.24.42:756][941]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.11.29-20.24.42:756][941]LogInit: FAudioDevice initialized with ID 16.
+[2024.11.29-20.24.42:756][941]LogAudio: Display: Audio Device (ID: 16) registered with world 'PruebasMauri'.
+[2024.11.29-20.24.42:756][941]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.11.29-20.24.42:760][941]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-20.24.42:779][941]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-17.24.42
+[2024.11.29-20.24.42:779][941]LogWorld: Bringing up level for play took: 0.018895
+[2024.11.29-20.24.42:781][941]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.11.29-20.24.42:783][941]LogEngine: Display: r.ScreenPercentage=50.000000 is ignored because overriden by editor settings (r.Editor.Viewport.OverridePIEScreenPercentage). Change this behavior in Edit -> Editor Preferences -> Performance
+[2024.11.29-20.24.42:783][941]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.11.29-20.24.42:783][941]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.11.29-20.24.42:783][941]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.11.29-20.24.42:784][941]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.11.29-20.24.42:784][941]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.11.29-20.24.42:784][941]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.11.29-20.24.42:784][941]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.11.29-20.24.42:784][941]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.11.29-20.24.42:784][941]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.11.29-20.24.42:784][941]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.11.29-20.24.42:784][941]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.11.29-20.24.42:784][941]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2024.11.29-20.24.42:784][941]PIE: Server logged in
+[2024.11.29-20.24.42:785][941]PIE: Play in editor total start time 0.148 seconds.
+[2024.11.29-20.24.42:863][941]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.24.42:864][941]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.24.49:669][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.24.49:669][269]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.24.49:669][269]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.24.49:671][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.24.49:720][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-20.24.49:725][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.24.49:744][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.24.49:746][269]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.11.29-20.24.49:746][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.11.29-20.24.49:749][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.11.29-20.24.49:761][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.11.29-20.24.49:795][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.24.49:795][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.24.49:803][270]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.11.29-20.25.12:251][880]BlueprintLog: New page: Compile PruebasMauri
+[2024.11.29-20.25.12:321][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.11.29-20.25.30:450][925]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.11.29-20.25.30:537][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.11.29-20.25.30:969][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.29-20.25.31:066][953]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.11.29-20.25.31:067][953]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/BP_FirstPersonCharacter84043F264498677C0608BBB13F5F2E8F.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.11.29-20.25.31:077][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 610 ms)
+[2024.11.29-20.25.31:085][953]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.11.29-20.25.31:085][953]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.11.29-20.25.32:231][ 88]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.29-20.25.32:239][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-20.25.32:239][ 88]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 2:25:32 PM)
+[2024.11.29-20.25.32:239][ 88]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.25.32:283][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043621s)
+[2024.11.29-20.25.32:283][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.043665s)
+[2024.11.29-20.25.32:283][ 88]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.25.32:283][ 88]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.25.32:284][ 88]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-20.25.32:284][ 88]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2024.11.29-20.25.32:305][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.11.29-20.25.32:308][ 88]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.11.29-20.25.32:308][ 88]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-20.25.32:308][ 88]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-20.25.32:308][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-20.25.32:308][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-20.25.32:308][ 88]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-20.25.32:308][ 88]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-20.25.32:308][ 88]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-20.25.32:308][ 88]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-20.25.32:308][ 88]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-20.25.32:308][ 88]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-20.25.32:308][ 88]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-20.25.32:311][ 88]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-20.25.32:335][ 88]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-20.25.32:335][ 88]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-20.25.32:335][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-20.25.32:335][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-20.25.32:336][ 88]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.11.29-20.25.32:336][ 88]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.11.29-20.25.32:338][ 88]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.11.29-20.25.32:339][ 88]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.11.29-20.25.32:339][ 88]LogInit: FAudioDevice initialized with ID 17.
+[2024.11.29-20.25.32:339][ 88]LogAudio: Display: Audio Device (ID: 17) registered with world 'PruebasMauri'.
+[2024.11.29-20.25.32:339][ 88]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.11.29-20.25.32:342][ 88]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-20.25.32:363][ 88]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-17.25.32
+[2024.11.29-20.25.32:364][ 88]LogWorld: Bringing up level for play took: 0.021236
+[2024.11.29-20.25.32:365][ 88]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.11.29-20.25.32:368][ 88]LogEngine: Display: r.ScreenPercentage=50.000000 is ignored because overriden by editor settings (r.Editor.Viewport.OverridePIEScreenPercentage). Change this behavior in Edit -> Editor Preferences -> Performance
+[2024.11.29-20.25.32:368][ 88]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.11.29-20.25.32:368][ 88]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.11.29-20.25.32:368][ 88]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.11.29-20.25.32:368][ 88]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.11.29-20.25.32:368][ 88]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.11.29-20.25.32:368][ 88]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.11.29-20.25.32:368][ 88]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.11.29-20.25.32:368][ 88]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.11.29-20.25.32:368][ 88]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.11.29-20.25.32:368][ 88]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.11.29-20.25.32:368][ 88]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.11.29-20.25.32:368][ 88]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2024.11.29-20.25.32:368][ 88]PIE: Server logged in
+[2024.11.29-20.25.32:369][ 88]PIE: Play in editor total start time 0.132 seconds.
+[2024.11.29-20.25.32:446][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.25.32:446][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.25.34:993][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.25.35:626][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.25.35:985][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.25.36:185][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.25.36:385][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.25.36:568][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.25.36:726][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.25.36:761][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.25.39:136][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.25.40:578][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.25.45:661][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.25.47:021][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.25.49:837][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.25.59:099][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.25.59:099][273]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.25.59:099][273]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.25.59:100][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.25.59:106][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-20.25.59:111][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.25.59:130][273]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-20.25.59:133][273]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.11.29-20.25.59:133][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.11.29-20.25.59:135][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.11.29-20.25.59:139][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.25.59:144][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.11.29-20.25.59:171][273]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.25.59:171][273]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.25.59:180][274]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.11.29-20.26.00:934][475]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/Interacciones/BP_TextoInterface.BP_TextoInterface
+[2024.11.29-20.26.00:934][475]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.26.00:934][475]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.26.07:408][223]BlueprintLog: New page: Compile BP_TextoInterface
+[2024.11.29-20.26.07:456][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.11.29-20.26.11:251][631]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Key.BP_Key
+[2024.11.29-20.26.11:251][631]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.26.11:251][631]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.26.28:117][418]BlueprintLog: New page: Compile BP_Key
+[2024.11.29-20.26.28:162][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.11.29-20.26.41:367][972]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dialogos/TriggerDialogos.TriggerDialogos
+[2024.11.29-20.26.41:367][972]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.26.41:369][972]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.26.54:261][463]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.29-20.26.54:269][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-20.26.54:269][463]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 2:26:54 PM)
+[2024.11.29-20.26.54:269][463]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.26.54:313][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044153s)
+[2024.11.29-20.26.54:313][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.044190s)
+[2024.11.29-20.26.54:313][463]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.26.54:313][463]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.26.54:314][463]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-20.26.54:314][463]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2024.11.29-20.26.54:336][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.11.29-20.26.54:338][463]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.11.29-20.26.54:338][463]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-20.26.54:338][463]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-20.26.54:338][463]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-20.26.54:338][463]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-20.26.54:338][463]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-20.26.54:338][463]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-20.26.54:338][463]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-20.26.54:338][463]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-20.26.54:338][463]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-20.26.54:338][463]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-20.26.54:338][463]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-20.26.54:340][463]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-20.26.54:362][463]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-20.26.54:363][463]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-20.26.54:363][463]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-20.26.54:363][463]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-20.26.54:364][463]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.11.29-20.26.54:364][463]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.11.29-20.26.54:366][463]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.11.29-20.26.54:366][463]LogInit: FAudioDevice initialized with ID 18.
+[2024.11.29-20.26.54:366][463]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.11.29-20.26.54:366][463]LogAudio: Display: Audio Device (ID: 18) registered with world 'PruebasMauri'.
+[2024.11.29-20.26.54:366][463]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.11.29-20.26.54:403][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.26.54:403][463]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-20.26.54:425][463]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-17.26.54
+[2024.11.29-20.26.54:425][463]LogWorld: Bringing up level for play took: 0.022184
+[2024.11.29-20.26.54:427][463]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.11.29-20.26.54:431][463]LogEngine: Display: r.ScreenPercentage=50.000000 is ignored because overriden by editor settings (r.Editor.Viewport.OverridePIEScreenPercentage). Change this behavior in Edit -> Editor Preferences -> Performance
+[2024.11.29-20.26.54:431][463]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.11.29-20.26.54:431][463]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.11.29-20.26.54:431][463]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.11.29-20.26.54:431][463]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.11.29-20.26.54:431][463]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.11.29-20.26.54:431][463]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.11.29-20.26.54:431][463]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.11.29-20.26.54:431][463]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.11.29-20.26.54:431][463]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.11.29-20.26.54:431][463]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.11.29-20.26.54:431][463]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.11.29-20.26.54:431][463]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2024.11.29-20.26.54:433][463]PIE: Server logged in
+[2024.11.29-20.26.54:434][463]PIE: Play in editor total start time 0.167 seconds.
+[2024.11.29-20.26.54:453][463]LogViewport: Scene viewport resized to 452x720, mode Windowed.
+[2024.11.29-20.26.55:634][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.26.55:634][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.26.56:409][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.26.56:409][652]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.26.56:411][652]LogSlate: Window 'ChristmasStory Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.11.29-20.26.56:415][652]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.26.56:417][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.26.56:451][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-20.26.56:456][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.26.56:480][652]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-20.26.56:482][652]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.11.29-20.26.56:482][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.11.29-20.26.56:483][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.11.29-20.26.56:494][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.11.29-20.26.56:509][652]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.26.56:510][652]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.26.56:520][653]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.11.29-20.26.57:090][715]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.29-20.26.57:097][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-20.26.57:097][715]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 2:26:57 PM)
+[2024.11.29-20.26.57:097][715]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.26.57:151][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053653s)
+[2024.11.29-20.26.57:151][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.053711s)
+[2024.11.29-20.26.57:151][715]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.26.57:151][715]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.26.57:152][715]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-20.26.57:152][715]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2024.11.29-20.26.57:175][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.11.29-20.26.57:176][715]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.11.29-20.26.57:176][715]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-20.26.57:176][715]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-20.26.57:176][715]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-20.26.57:176][715]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-20.26.57:176][715]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-20.26.57:176][715]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-20.26.57:176][715]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-20.26.57:176][715]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-20.26.57:176][715]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-20.26.57:176][715]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-20.26.57:176][715]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-20.26.57:179][715]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-20.26.57:203][715]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-20.26.57:203][715]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-20.26.57:203][715]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-20.26.57:203][715]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-20.26.57:204][715]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.11.29-20.26.57:204][715]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.11.29-20.26.57:207][715]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.11.29-20.26.57:207][715]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.11.29-20.26.57:207][715]LogInit: FAudioDevice initialized with ID 19.
+[2024.11.29-20.26.57:207][715]LogAudio: Display: Audio Device (ID: 19) registered with world 'PruebasMauri'.
+[2024.11.29-20.26.57:207][715]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.11.29-20.26.57:211][715]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-20.26.57:229][715]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-17.26.57
+[2024.11.29-20.26.57:230][715]LogWorld: Bringing up level for play took: 0.019001
+[2024.11.29-20.26.57:232][715]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.11.29-20.26.57:235][715]LogEngine: Display: r.ScreenPercentage=50.000000 is ignored because overriden by editor settings (r.Editor.Viewport.OverridePIEScreenPercentage). Change this behavior in Edit -> Editor Preferences -> Performance
+[2024.11.29-20.26.57:235][715]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.11.29-20.26.57:235][715]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.11.29-20.26.57:235][715]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.11.29-20.26.57:235][715]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.11.29-20.26.57:235][715]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.11.29-20.26.57:235][715]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.11.29-20.26.57:235][715]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.11.29-20.26.57:235][715]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.11.29-20.26.57:235][715]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.11.29-20.26.57:235][715]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.11.29-20.26.57:235][715]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.11.29-20.26.57:235][715]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2024.11.29-20.26.57:235][715]PIE: Server logged in
+[2024.11.29-20.26.57:236][715]PIE: Play in editor total start time 0.139 seconds.
+[2024.11.29-20.26.57:326][715]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.26.57:326][715]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.27.06:782][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.27.06:874][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.27.07:789][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.27.07:790][956]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.27.07:790][956]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.27.07:792][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.27.07:800][956]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-20.27.07:804][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.27.07:828][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.27.07:828][956]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.11.29-20.27.07:828][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.11.29-20.27.07:830][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.11.29-20.27.07:841][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.11.29-20.27.07:872][956]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.27.07:872][956]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.27.07:882][957]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.11.29-20.27.09:622][151]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Door.BP_Door
+[2024.11.29-20.27.09:622][151]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.27.09:622][151]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.27.09:734][151]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2024.11.29-20.27.16:440][917]BlueprintLog: New page: Compile BP_Door
+[2024.11.29-20.27.16:492][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.11.29-20.27.17:052][975]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.29-20.27.17:115][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Door" FILE="C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/BP_Door.uasset" SILENT=true
+[2024.11.29-20.27.17:131][975]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Door
+[2024.11.29-20.27.17:131][975]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/BP_Door9E7882184A66392933A23DB908BD754B.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/BP_Door.uasset'
+[2024.11.29-20.27.17:146][975]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 703 ms)
+[2024.11.29-20.27.17:152][975]AssetCheck: New page: Asset Save: BP_Door
+[2024.11.29-20.27.17:152][975]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Door.BP_Door
+[2024.11.29-20.27.21:897][510]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/Keypad/BP_DoorKeypad.BP_DoorKeypad
+[2024.11.29-20.27.21:897][510]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.27.21:897][510]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.27.36:649][167]BlueprintLog: New page: Compile BP_DoorKeypad
+[2024.11.29-20.27.36:706][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.11.29-20.27.37:264][224]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.29-20.27.37:349][224]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Keypad/BP_DoorKeypad
+[2024.11.29-20.27.37:349][224]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/BP_DoorKeypad9E5CB8014F0D5FCA55C657BD1CE9D581.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Keypad/BP_DoorKeypad.uasset'
+[2024.11.29-20.27.37:365][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 805 ms)
+[2024.11.29-20.27.37:373][224]AssetCheck: New page: Asset Save: BP_DoorKeypad
+[2024.11.29-20.27.37:373][224]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Keypad/BP_DoorKeypad.BP_DoorKeypad
+[2024.11.29-20.27.48:142][474]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/Keypad/BP_DoorWordpad.BP_DoorWordpad
+[2024.11.29-20.27.48:142][474]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.27.48:142][474]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.27.57:601][541]BlueprintLog: New page: Compile BP_DoorWordpad
+[2024.11.29-20.27.57:659][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.11.29-20.27.58:071][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.29-20.27.58:151][581]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Keypad/BP_DoorWordpad
+[2024.11.29-20.27.58:151][581]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/BP_DoorWordpadF6235AE04F254ECB923757A3F795FA9B.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Keypad/BP_DoorWordpad.uasset'
+[2024.11.29-20.27.58:168][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 902 ms)
+[2024.11.29-20.27.58:174][581]AssetCheck: New page: Asset Save: BP_DoorWordpad
+[2024.11.29-20.27.58:174][581]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Keypad/BP_DoorWordpad.BP_DoorWordpad
+[2024.11.29-20.28.01:983][988]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_PuertaFinal.BP_PuertaFinal
+[2024.11.29-20.28.01:983][988]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.28.01:983][988]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.28.24:610][667]BlueprintLog: New page: Compile BP_PuertaFinal
+[2024.11.29-20.28.24:661][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.11.29-20.28.58:370][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.29-20.28.58:390][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.11.29-20.28.59:189][515]LogSlate: Window 'Save Content' being destroyed
+[2024.11.29-20.28.59:203][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.29-20.28.59:276][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.11.29-20.28.59:397][515]LogSavePackage: Moving output files for package: /Game/Maps/PruebasMauri
+[2024.11.29-20.28.59:397][515]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasMauri686A07794A88DF831A278ABF091A35FF.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasMauri.umap'
+[2024.11.29-20.28.59:406][515]LogFileHelpers: Saving map 'PruebasMauri' took 0.152
+[2024.11.29-20.28.59:416][515]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz
+[2024.11.29-20.28.59:417][515]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/BP_FinalLuz276F96AF4542C0F7EE0E9886A4C756CE.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz.uasset'
+[2024.11.29-20.28.59:426][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Key" FILE="C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/BP_Key.uasset" SILENT=true
+[2024.11.29-20.28.59:435][515]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Key
+[2024.11.29-20.28.59:436][515]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/BP_Key6290C63C479A50503ECC6ABCD08444F1.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/BP_Key.uasset'
+[2024.11.29-20.28.59:447][515]LogSavePackage: Moving output files for package: /Game/StarterContent/Blueprints/Interact/BP_Nota2
+[2024.11.29-20.28.59:448][515]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/BP_Nota23430833B4EF9091BDF79C89BCA118E83.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/StarterContent/Blueprints/Interact/BP_Nota2.uasset'
+[2024.11.29-20.28.59:465][515]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_PuertaFinal
+[2024.11.29-20.28.59:466][515]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/BP_PuertaFinalB64B9D3249424B04EA6EF0AED5C865D0.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/BP_PuertaFinal.uasset'
+[2024.11.29-20.28.59:472][515]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Interacciones/BP_TextoInterface
+[2024.11.29-20.28.59:473][515]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/BP_TextoInterface654A066D44A2466A99278F838242C030.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Interacciones/BP_TextoInterface.uasset'
+[2024.11.29-20.28.59:475][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dialogos/TriggerDialogos" FILE="C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Dialogos/TriggerDialogos.uasset" SILENT=true
+[2024.11.29-20.28.59:484][515]LogSavePackage: Moving output files for package: /Game/Dialogos/TriggerDialogos
+[2024.11.29-20.28.59:485][515]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/TriggerDialogos6126C6FF4CC0345919EFD5808E9FAA83.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Dialogos/TriggerDialogos.uasset'
+[2024.11.29-20.28.59:499][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 295 ms (total: 1.19 sec)
+[2024.11.29-20.28.59:505][515]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.29-20.28.59:505][515]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Blueprints/Interact/BP_Nota2.BP_Nota2
+[2024.11.29-20.28.59:505][515]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dialogos/TriggerDialogos.TriggerDialogos
+[2024.11.29-20.28.59:505][515]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Key.BP_Key
+[2024.11.29-20.28.59:505][515]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_PuertaFinal.BP_PuertaFinal
+[2024.11.29-20.28.59:505][515]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Interacciones/BP_TextoInterface.BP_TextoInterface
+[2024.11.29-20.28.59:505][515]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz.BP_FinalLuz
+[2024.11.29-20.28.59:505][515]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
+[2024.11.29-20.29.22:368][985]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Blueprints/Widgets/WB_final.WB_final
+[2024.11.29-20.29.22:371][985]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.29.22:371][985]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.29.22:378][985]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.29.22:378][985]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.29.22:386][985]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.11.29-20.29.22:693][985]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.11.29-20.29.22:695][985]LogSlate: Took 0.000914 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.11.29-20.29.30:999][956]BlueprintLog: New page: Compile WB_final
+[2024.11.29-20.29.31:063][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.11.29-20.29.31:546][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.29-20.29.31:618][997]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Widgets/WB_final
+[2024.11.29-20.29.31:619][997]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/WB_finalD0F5AE5D4473A28D25D094948ED1A9A8.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Widgets/WB_final.uasset'
+[2024.11.29-20.29.31:633][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 1.28 sec)
+[2024.11.29-20.29.31:641][997]AssetCheck: New page: Asset Save: WB_final
+[2024.11.29-20.29.31:641][997]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/Widgets/WB_final.WB_final
+[2024.11.29-20.29.34:741][312]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/Interact/BP_Nota2.BP_Nota2
+[2024.11.29-20.29.34:741][312]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.29.34:741][312]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.30.01:401][290]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.29-20.30.01:409][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-20.30.01:410][290]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 2:30:01 PM)
+[2024.11.29-20.30.01:449][290]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.30.01:495][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046625s)
+[2024.11.29-20.30.01:496][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.046674s)
+[2024.11.29-20.30.01:496][290]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.30.01:496][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.30.01:496][290]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-20.30.01:497][290]LogPlayLevel: PIE: World Init took: (0.001483s)
+[2024.11.29-20.30.01:519][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.11.29-20.30.01:520][290]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.11.29-20.30.01:520][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-20.30.01:520][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-20.30.01:520][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-20.30.01:520][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-20.30.01:520][290]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-20.30.01:520][290]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-20.30.01:520][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-20.30.01:520][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-20.30.01:521][290]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-20.30.01:521][290]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-20.30.01:521][290]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-20.30.01:523][290]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-20.30.01:549][290]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-20.30.01:549][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-20.30.01:549][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-20.30.01:549][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-20.30.01:549][290]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.11.29-20.30.01:550][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.11.29-20.30.01:552][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.11.29-20.30.01:552][290]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.11.29-20.30.01:552][290]LogInit: FAudioDevice initialized with ID 20.
+[2024.11.29-20.30.01:552][290]LogAudio: Display: Audio Device (ID: 20) registered with world 'PruebasMauri'.
+[2024.11.29-20.30.01:552][290]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.11.29-20.30.01:555][290]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-20.30.01:575][290]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-17.30.01
+[2024.11.29-20.30.01:576][290]LogWorld: Bringing up level for play took: 0.019719
+[2024.11.29-20.30.01:578][290]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.11.29-20.30.01:580][290]LogEngine: Display: r.ScreenPercentage=50.000000 is ignored because overriden by editor settings (r.Editor.Viewport.OverridePIEScreenPercentage). Change this behavior in Edit -> Editor Preferences -> Performance
+[2024.11.29-20.30.01:580][290]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.11.29-20.30.01:580][290]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.11.29-20.30.01:580][290]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.11.29-20.30.01:580][290]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.11.29-20.30.01:580][290]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.11.29-20.30.01:580][290]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.11.29-20.30.01:580][290]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.11.29-20.30.01:580][290]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.11.29-20.30.01:580][290]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.11.29-20.30.01:580][290]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.11.29-20.30.01:580][290]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.11.29-20.30.01:580][290]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2024.11.29-20.30.01:581][290]PIE: Server logged in
+[2024.11.29-20.30.01:581][290]PIE: Play in editor total start time 0.172 seconds.
+[2024.11.29-20.30.01:673][290]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.30.01:673][290]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.30.03:579][501]LogDerivedDataCache: C:/Users/matul/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:21.341 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 11076 files in 13645 folders with total size 806 MiB.
+[2024.11.29-20.30.05:093][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.30.05:476][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.30.06:352][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.30.09:695][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.30.10:338][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.30.10:546][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.30.12:433][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.30.14:760][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.30.14:976][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.30.15:418][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.30.17:795][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.30.17:795][205]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.11.29-20.30.17:803][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.30.17:820][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.30.18:186][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.30.18:952][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.30.23:671][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.30.30:821][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.30.35:329][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.30.35:329][302]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.30.35:330][302]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.30.35:332][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.30.35:404][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-20.30.35:410][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.30.35:430][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.30.35:431][302]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.11.29-20.30.35:432][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.11.29-20.30.35:433][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.11.29-20.30.35:444][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.11.29-20.30.35:473][302]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.30.35:473][302]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.30.35:483][303]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.11.29-20.30.37:771][564]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Nota/Nota12.Nota12
+[2024.11.29-20.30.37:832][564]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.30.37:832][564]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.30.38:219][564]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.11.29-20.30.39:838][687]LogSlate: Window 'Nota12' being destroyed
+[2024.11.29-20.30.39:847][687]LogSlate: Window 'Nota12' being destroyed
+[2024.11.29-20.30.39:929][687]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.30.39:929][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.30.52:619][139]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.30.52:620][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.30.53:963][283]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.30.53:963][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.30.53:969][283]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.30.53:969][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.30.55:043][401]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.29-20.30.55:043][401]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.30.55:043][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.30.55:733][471]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.29-20.30.55:733][471]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.30.55:733][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.30.56:335][526]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.29-20.30.56:335][526]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.30.56:335][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.30.57:417][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.29-20.30.57:417][633]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.30.57:417][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.31.29:073][228]LogEditorTransaction: Undo Move Nodes
+[2024.11.29-20.32.18:911][817]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.11.29-20.32.18:999][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.11.29-20.32.19:522][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.32.19:522][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.32.21:681][ 72]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.11.29-20.32.22:591][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-20.32.22:591][127]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 2:32:22 PM)
+[2024.11.29-20.32.22:591][127]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.32.22:638][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046836s)
+[2024.11.29-20.32.22:638][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.046877s)
+[2024.11.29-20.32.22:638][127]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-20.32.22:638][127]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-20.32.22:639][127]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-20.32.22:639][127]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2024.11.29-20.32.22:671][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.29-20.32.22:678][127]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.11.29-20.32.22:678][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-20.32.22:678][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-20.32.22:678][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-20.32.22:678][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-20.32.22:678][127]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-20.32.22:678][127]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-20.32.22:678][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-20.32.22:678][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-20.32.22:679][127]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-20.32.22:679][127]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-20.32.22:679][127]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-20.32.22:680][127]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-20.32.22:704][127]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-20.32.22:704][127]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-20.32.22:704][127]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-20.32.22:704][127]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-20.32.22:705][127]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.11.29-20.32.22:705][127]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.11.29-20.32.22:708][127]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.11.29-20.32.22:708][127]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.11.29-20.32.22:708][127]LogInit: FAudioDevice initialized with ID 21.
+[2024.11.29-20.32.22:708][127]LogAudio: Display: Audio Device (ID: 21) registered with world 'PruebasMauri'.
+[2024.11.29-20.32.22:708][127]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.11.29-20.32.22:711][127]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-20.32.22:733][127]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-17.32.22
+[2024.11.29-20.32.22:733][127]LogWorld: Bringing up level for play took: 0.022042
+[2024.11.29-20.32.22:736][127]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.11.29-20.32.22:738][127]LogEngine: Display: r.ScreenPercentage=50.000000 is ignored because overriden by editor settings (r.Editor.Viewport.OverridePIEScreenPercentage). Change this behavior in Edit -> Editor Preferences -> Performance
+[2024.11.29-20.32.22:738][127]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.11.29-20.32.22:738][127]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.11.29-20.32.22:738][127]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.11.29-20.32.22:738][127]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.11.29-20.32.22:738][127]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.11.29-20.32.22:738][127]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.11.29-20.32.22:738][127]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.11.29-20.32.22:738][127]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.11.29-20.32.22:738][127]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.11.29-20.32.22:738][127]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.11.29-20.32.22:738][127]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.11.29-20.32.22:738][127]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2024.11.29-20.32.22:738][127]PIE: Server logged in
+[2024.11.29-20.32.22:739][127]PIE: Play in editor total start time 0.149 seconds.
+[2024.11.29-20.32.22:820][127]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.32.22:821][127]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.32.26:271][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.27:404][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.27:913][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.28:547][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.28:672][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.29:021][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.29:163][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.29:455][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.29:689][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.29:955][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.30:164][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.30:455][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.32:315][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.32:798][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.33:948][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.34:373][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.35:366][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.36:758][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.39:742][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.41:542][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.42:193][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.42:310][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.42:510][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.43:009][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.43:285][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.43:668][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.44:699][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.44:699][735]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-20.32.44:700][735]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-20.32.44:702][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.32.44:708][735]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-20.32.44:713][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-20.32.44:736][735]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-20.32.44:736][735]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.11.29-20.32.44:736][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.11.29-20.32.44:738][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.11.29-20.32.44:742][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-20.32.44:748][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.11.29-20.32.44:777][735]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.32.44:777][735]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-20.32.44:796][736]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.11.29-20.32.47:618][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.11.29-20.32.47:641][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.11.29-20.32.48:543][ 50]LogSlate: Window 'Save Content' being destroyed
+[2024.11.29-20.32.48:556][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.29-20.32.48:634][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.11.29-20.32.48:751][ 50]LogSavePackage: Moving output files for package: /Game/Maps/PruebasMauri
+[2024.11.29-20.32.48:751][ 50]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasMauri5B5097604F373B474B5E9BA9584EF6F3.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasMauri.umap'
+[2024.11.29-20.32.48:761][ 50]LogFileHelpers: Saving map 'PruebasMauri' took 0.149
+[2024.11.29-20.32.48:806][ 50]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.11.29-20.32.48:807][ 50]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/BP_FirstPersonCharacter89AB9A554641D02B2C2AA28FE9D4829D.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.11.29-20.32.48:818][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 261 ms (total: 1.54 sec)
+[2024.11.29-20.32.48:826][ 50]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.29-20.32.48:826][ 50]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.11.29-20.32.48:826][ 50]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
