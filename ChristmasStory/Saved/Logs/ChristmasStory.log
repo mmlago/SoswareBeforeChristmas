@@ -5690,3 +5690,69 @@ BndEvt__PruebasMauri_TriggerBox_3_K2Node_ActorBoundEvent_1_ActorBeginOverlapSign
 [2024.11.29-19.19.48:835][557]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
 [2024.11.29-19.19.48:835][557]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/FirstPerson/Blueprints/Sonidos/kids-fight.kids-fight
 [2024.11.29-19.19.48:835][557]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/FirstPerson/Blueprints/Sonidos/pibitosHinchabolas.pibitosHinchabolas
+[2024.11.29-19.20.10:727][876]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.29-19.20.10:733][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-19.20.10:733][876]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 1:20:10 PM)
+[2024.11.29-19.20.10:734][876]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.20.10:781][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046587s)
+[2024.11.29-19.20.10:781][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.046631s)
+[2024.11.29-19.20.10:781][876]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-19.20.10:781][876]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-19.20.10:782][876]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-19.20.10:782][876]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2024.11.29-19.20.10:803][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.11.29-19.20.10:804][876]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2024.11.29-19.20.10:804][876]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-19.20.10:804][876]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-19.20.10:804][876]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-19.20.10:804][876]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-19.20.10:804][876]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-19.20.10:804][876]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-19.20.10:804][876]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-19.20.10:804][876]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-19.20.10:805][876]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-19.20.10:805][876]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-19.20.10:805][876]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-19.20.10:807][876]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-19.20.10:834][876]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-19.20.10:835][876]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-19.20.10:835][876]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-19.20.10:835][876]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-19.20.10:835][876]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2024.11.29-19.20.10:835][876]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2024.11.29-19.20.10:838][876]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2024.11.29-19.20.10:838][876]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2024.11.29-19.20.10:839][876]LogInit: FAudioDevice initialized with ID 45.
+[2024.11.29-19.20.10:839][876]LogAudio: Display: Audio Device (ID: 45) registered with world 'PruebasMauri'.
+[2024.11.29-19.20.10:839][876]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2024.11.29-19.20.10:842][876]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-19.20.10:861][876]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-16.20.10
+[2024.11.29-19.20.10:861][876]LogWorld: Bringing up level for play took: 0.019331
+[2024.11.29-19.20.10:864][876]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2024.11.29-19.20.10:867][876]PIE: Server logged in
+[2024.11.29-19.20.10:868][876]PIE: Play in editor total start time 0.134 seconds.
+[2024.11.29-19.20.10:925][876]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.20.10:926][876]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.20.10:926][876]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.20.13:013][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.20.16:212][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.20.16:221][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.20.22:740][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.20.22:740][294]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.11.29-19.20.35:825][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.20.35:825][859]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.20.35:825][859]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-19.20.35:827][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.20.35:833][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-19.20.35:837][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.20.35:856][859]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-19.20.35:857][859]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2024.11.29-19.20.35:857][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.11.29-19.20.35:858][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.11.29-19.20.35:863][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.20.35:871][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.11.29-19.20.35:899][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.20.35:900][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.20.35:900][859]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.20.35:916][860]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2024.11.29-19.20.38:002][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
