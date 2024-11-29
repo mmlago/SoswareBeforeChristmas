@@ -4474,3 +4474,1219 @@ BndEvt__PruebasMauri_TriggerBox_3_K2Node_ActorBoundEvent_1_ActorBeginOverlapSign
 [2024.11.29-18.58.27:867][854]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/Interacciones/BP_TextoInterface.BP_TextoInterface
 [2024.11.29-18.58.27:867][854]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/Widgets/WB_Linterna.WB_Linterna
 [2024.11.29-18.58.27:867][854]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/Widgets/WB_InteractVIoletLights.WB_InteractVIoletLights
+[2024.11.29-18.59.33:170][298]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-18.59.33:170][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-18.59.33:203][298]LogViewport: Scene viewport resized to 987x902, mode Windowed.
+[2024.11.29-18.59.33:229][299]LogViewport: Scene viewport resized to 987x893, mode Windowed.
+[2024.11.29-18.59.33:250][300]LogViewport: Scene viewport resized to 987x884, mode Windowed.
+[2024.11.29-18.59.33:291][301]LogViewport: Scene viewport resized to 987x868, mode Windowed.
+[2024.11.29-18.59.33:323][302]LogViewport: Scene viewport resized to 987x862, mode Windowed.
+[2024.11.29-18.59.33:757][352]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.29-18.59.33:757][352]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-18.59.33:757][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-18.59.33:788][352]LogViewport: Scene viewport resized to 987x903, mode Windowed.
+[2024.11.29-18.59.33:807][353]LogViewport: Scene viewport resized to 987x894, mode Windowed.
+[2024.11.29-18.59.33:822][354]LogViewport: Scene viewport resized to 987x888, mode Windowed.
+[2024.11.29-18.59.33:858][355]LogViewport: Scene viewport resized to 987x876, mode Windowed.
+[2024.11.29-18.59.33:873][356]LogViewport: Scene viewport resized to 987x869, mode Windowed.
+[2024.11.29-18.59.33:916][357]LogViewport: Scene viewport resized to 987x862, mode Windowed.
+[2024.11.29-18.59.34:234][393]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.29-18.59.34:234][393]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-18.59.34:234][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-18.59.34:272][393]LogViewport: Scene viewport resized to 987x902, mode Windowed.
+[2024.11.29-18.59.34:298][394]LogViewport: Scene viewport resized to 987x891, mode Windowed.
+[2024.11.29-18.59.34:313][395]LogViewport: Scene viewport resized to 987x883, mode Windowed.
+[2024.11.29-18.59.34:358][396]LogViewport: Scene viewport resized to 987x868, mode Windowed.
+[2024.11.29-18.59.34:379][397]LogViewport: Scene viewport resized to 987x862, mode Windowed.
+[2024.11.29-18.59.34:630][424]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-18.59.34:630][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-18.59.34:637][424]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-18.59.34:637][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-18.59.34:673][424]LogViewport: Scene viewport resized to 987x896, mode Windowed.
+[2024.11.29-18.59.34:694][425]LogViewport: Scene viewport resized to 987x887, mode Windowed.
+[2024.11.29-18.59.34:712][426]LogViewport: Scene viewport resized to 987x879, mode Windowed.
+[2024.11.29-18.59.34:748][427]LogViewport: Scene viewport resized to 987x865, mode Windowed.
+[2024.11.29-18.59.34:762][428]LogViewport: Scene viewport resized to 987x862, mode Windowed.
+[2024.11.29-18.59.35:038][456]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-18.59.35:038][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-18.59.35:044][456]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-18.59.35:044][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-18.59.35:086][456]LogViewport: Scene viewport resized to 987x895, mode Windowed.
+[2024.11.29-18.59.35:108][457]LogViewport: Scene viewport resized to 987x884, mode Windowed.
+[2024.11.29-18.59.35:121][458]LogViewport: Scene viewport resized to 987x878, mode Windowed.
+[2024.11.29-18.59.35:153][459]LogViewport: Scene viewport resized to 987x866, mode Windowed.
+[2024.11.29-18.59.35:173][460]LogViewport: Scene viewport resized to 987x862, mode Windowed.
+[2024.11.29-18.59.35:414][484]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.29-18.59.35:414][484]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-18.59.35:414][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-18.59.35:450][484]LogViewport: Scene viewport resized to 1526x933, mode Windowed.
+[2024.11.29-18.59.35:465][484]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-18.59.35:486][485]LogViewport: Scene viewport resized to 1526x918, mode Windowed.
+[2024.11.29-18.59.35:514][486]LogViewport: Scene viewport resized to 1526x906, mode Windowed.
+[2024.11.29-18.59.35:558][487]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2024.11.29-18.59.43:861][353]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.29-18.59.43:876][353]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.29-18.59.43:887][354]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.29-18.59.46:179][628]LogContentBrowser: Attempting asset rename: NewFolder -> LuzFinal
+[2024.11.29-18.59.46:179][628]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.29-18.59.50:455][976]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.11.29-18.59.50:488][976]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.11.29-18.59.50:495][976]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.11.29-18.59.50:520][978]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.11.29-18.59.56:978][753]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_FinalLuz
+[2024.11.29-18.59.56:984][753]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.11.29-18.59.57:936][867]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz.BP_FinalLuz
+[2024.11.29-18.59.57:937][867]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-18.59.57:937][867]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-18.59.58:075][867]LogViewport: Scene viewport resized to 987x870, mode Windowed.
+[2024.11.29-18.59.58:095][868]LogViewport: Scene viewport resized to 987x862, mode Windowed.
+[2024.11.29-19.00.20:449][993]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.29-19.00.26:161][562]BlueprintLog: New page: Compile BP_FinalLuz
+[2024.11.29-19.00.26:205][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.11.29-19.00.30:237][915]LogViewport: Scene viewport resized to 985x885, mode Windowed.
+[2024.11.29-19.00.30:311][917]LogViewport: Scene viewport resized to 471x353, mode Windowed.
+[2024.11.29-19.00.30:360][918]LogViewport: Scene viewport resized to 404x283, mode Windowed.
+[2024.11.29-19.00.30:524][931]LogViewport: Scene viewport resized to 987x862, mode Windowed.
+[2024.11.29-19.00.30:894][974]LogSlate: Window 'BP_FinalLuz' being destroyed
+[2024.11.29-19.00.30:902][974]LogViewport: Scene viewport resized to 987x915, mode Windowed.
+[2024.11.29-19.00.30:920][975]LogViewport: Scene viewport resized to 987x908, mode Windowed.
+[2024.11.29-19.00.30:940][976]LogViewport: Scene viewport resized to 987x900, mode Windowed.
+[2024.11.29-19.00.30:958][977]LogViewport: Scene viewport resized to 987x893, mode Windowed.
+[2024.11.29-19.00.30:978][978]LogViewport: Scene viewport resized to 987x886, mode Windowed.
+[2024.11.29-19.00.30:997][979]LogViewport: Scene viewport resized to 987x878, mode Windowed.
+[2024.11.29-19.00.31:016][980]LogViewport: Scene viewport resized to 987x871, mode Windowed.
+[2024.11.29-19.00.31:031][981]LogViewport: Scene viewport resized to 987x865, mode Windowed.
+[2024.11.29-19.00.31:061][982]LogViewport: Scene viewport resized to 987x862, mode Windowed.
+[2024.11.29-19.00.33:780][281]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz.BP_FinalLuz_C
+[2024.11.29-19.00.33:780][281]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz.BP_FinalLuz_C
+[2024.11.29-19.00.33:781][281]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz.BP_FinalLuz as actor: BP_FinalLuz_C /Game/Maps/PruebasMauri.PruebasMauri:PersistentLevel.BP_FinalLuz_C_0
+[2024.11.29-19.00.33:782][281]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz.BP_FinalLuz as actor: BP_FinalLuz_C /Game/Maps/PruebasMauri.PruebasMauri:PersistentLevel.BP_FinalLuz_C_0
+[2024.11.29-19.00.33:925][282]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz.BP_FinalLuz_C
+[2024.11.29-19.00.33:925][282]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz.BP_FinalLuz_C
+[2024.11.29-19.00.33:926][282]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz.BP_FinalLuz as actor: BP_FinalLuz_C /Game/Maps/PruebasMauri.PruebasMauri:PersistentLevel.BP_FinalLuz_C_1
+[2024.11.29-19.00.33:927][282]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz.BP_FinalLuz as actor: BP_FinalLuz_C /Game/Maps/PruebasMauri.PruebasMauri:PersistentLevel.BP_FinalLuz_C_1
+[2024.11.29-19.00.34:944][351]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz.BP_FinalLuz_C
+[2024.11.29-19.00.34:944][351]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz.BP_FinalLuz_C
+[2024.11.29-19.00.34:949][351]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz.BP_FinalLuz as actor: BP_FinalLuz_C /Game/Maps/PruebasMauri.PruebasMauri:PersistentLevel.BP_FinalLuz_C_2
+[2024.11.29-19.00.34:950][351]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz.BP_FinalLuz as actor: BP_FinalLuz_C /Game/Maps/PruebasMauri.PruebasMauri:PersistentLevel.BP_FinalLuz_C_2
+[2024.11.29-19.00.34:975][351]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.34:976][351]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.34:976][351]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.34:976][351]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.34:977][351]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.34:977][351]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.38:620][710]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.38:620][710]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.38:621][710]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.38:621][710]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.38:621][710]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.38:622][710]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.39:897][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-19.00.39:898][803]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 1:00:39 PM)
+[2024.11.29-19.00.39:898][803]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.00.39:942][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045027s)
+[2024.11.29-19.00.39:942][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.045071s)
+[2024.11.29-19.00.39:942][803]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-19.00.39:942][803]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-19.00.39:943][803]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-19.00.39:943][803]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2024.11.29-19.00.39:967][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.29-19.00.39:974][803]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2024.11.29-19.00.39:974][803]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-19.00.39:974][803]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-19.00.39:974][803]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-19.00.39:974][803]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-19.00.39:974][803]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-19.00.39:974][803]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-19.00.39:974][803]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-19.00.39:974][803]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-19.00.39:974][803]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-19.00.39:974][803]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-19.00.39:975][803]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-19.00.39:976][803]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-19.00.40:002][803]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-19.00.40:003][803]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-19.00.40:003][803]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-19.00.40:003][803]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-19.00.40:003][803]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2024.11.29-19.00.40:003][803]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2024.11.29-19.00.40:005][803]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2024.11.29-19.00.40:005][803]LogInit: FAudioDevice initialized with ID 33.
+[2024.11.29-19.00.40:005][803]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2024.11.29-19.00.40:005][803]LogAudio: Display: Audio Device (ID: 33) registered with world 'PruebasMauri'.
+[2024.11.29-19.00.40:005][803]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2024.11.29-19.00.40:009][803]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-19.00.40:027][803]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-16.00.40
+[2024.11.29-19.00.40:027][803]LogWorld: Bringing up level for play took: 0.018188
+[2024.11.29-19.00.40:029][803]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2024.11.29-19.00.40:033][803]PIE: Server logged in
+[2024.11.29-19.00.40:033][803]PIE: Play in editor total start time 0.137 seconds.
+[2024.11.29-19.00.40:104][803]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.40:104][803]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.40:104][803]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.40:104][803]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.40:104][803]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.40:105][803]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.40:106][803]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.41:954][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.00.41:954][ 21]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.00.41:954][ 21]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-19.00.41:956][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.00.41:961][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-19.00.41:965][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.00.41:985][ 21]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-19.00.41:987][ 21]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2024.11.29-19.00.41:987][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.11.29-19.00.41:988][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.11.29-19.00.41:992][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.00.41:998][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.11.29-19.00.42:026][ 21]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.42:026][ 21]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.42:027][ 21]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.42:027][ 21]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.42:028][ 21]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.42:028][ 21]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.42:029][ 21]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.42:048][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2024.11.29-19.00.47:378][651]BlueprintLog: New page: Compile BP_FinalLuz
+[2024.11.29-19.00.47:413][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.11.29-19.00.50:530][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-19.00.50:530][950]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 1:00:50 PM)
+[2024.11.29-19.00.50:530][950]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.00.50:577][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046020s)
+[2024.11.29-19.00.50:577][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.046129s)
+[2024.11.29-19.00.50:577][950]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-19.00.50:577][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-19.00.50:578][950]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-19.00.50:578][950]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2024.11.29-19.00.50:602][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.11.29-19.00.50:605][950]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2024.11.29-19.00.50:605][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-19.00.50:605][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-19.00.50:605][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-19.00.50:605][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-19.00.50:605][950]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-19.00.50:605][950]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-19.00.50:605][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-19.00.50:605][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-19.00.50:605][950]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-19.00.50:605][950]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-19.00.50:605][950]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-19.00.50:607][950]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-19.00.50:629][950]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-19.00.50:629][950]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-19.00.50:629][950]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-19.00.50:629][950]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-19.00.50:630][950]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2024.11.29-19.00.50:630][950]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2024.11.29-19.00.50:631][950]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2024.11.29-19.00.50:631][950]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2024.11.29-19.00.50:631][950]LogInit: FAudioDevice initialized with ID 34.
+[2024.11.29-19.00.50:631][950]LogAudio: Display: Audio Device (ID: 34) registered with world 'PruebasMauri'.
+[2024.11.29-19.00.50:631][950]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2024.11.29-19.00.50:635][950]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-19.00.50:652][950]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-16.00.50
+[2024.11.29-19.00.50:653][950]LogWorld: Bringing up level for play took: 0.017597
+[2024.11.29-19.00.50:655][950]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2024.11.29-19.00.50:657][950]PIE: Server logged in
+[2024.11.29-19.00.50:658][950]PIE: Play in editor total start time 0.128 seconds.
+[2024.11.29-19.00.50:726][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.50:727][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.50:727][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.50:728][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.50:728][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.50:728][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.50:729][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.52:464][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.00.52:464][156]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.00.52:465][156]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-19.00.52:467][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.00.52:470][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-19.00.52:474][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.00.52:496][156]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-19.00.52:496][156]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2024.11.29-19.00.52:496][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.11.29-19.00.52:497][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.11.29-19.00.52:503][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.00.52:508][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.11.29-19.00.52:536][156]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.52:536][156]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.52:537][156]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.52:537][156]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.52:537][156]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.52:538][156]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.52:538][156]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.52:557][157]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2024.11.29-19.00.55:935][484]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.55:936][484]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.55:936][484]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.55:937][484]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.55:937][484]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.00.55:937][484]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.16:117][420]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.16:117][420]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.16:118][420]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.16:118][420]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.16:118][420]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.16:118][420]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.17:318][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-19.01.17:318][516]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 1:01:17 PM)
+[2024.11.29-19.01.17:318][516]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.01.17:362][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044620s)
+[2024.11.29-19.01.17:362][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.044661s)
+[2024.11.29-19.01.17:362][516]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-19.01.17:362][516]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-19.01.17:362][516]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-19.01.17:363][516]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2024.11.29-19.01.17:391][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.29-19.01.17:396][516]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2024.11.29-19.01.17:396][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-19.01.17:396][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-19.01.17:396][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-19.01.17:396][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-19.01.17:396][516]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-19.01.17:396][516]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-19.01.17:396][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-19.01.17:396][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-19.01.17:397][516]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-19.01.17:397][516]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-19.01.17:397][516]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-19.01.17:398][516]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-19.01.17:422][516]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-19.01.17:422][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-19.01.17:422][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-19.01.17:422][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-19.01.17:422][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2024.11.29-19.01.17:422][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2024.11.29-19.01.17:425][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2024.11.29-19.01.17:425][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2024.11.29-19.01.17:425][516]LogInit: FAudioDevice initialized with ID 35.
+[2024.11.29-19.01.17:425][516]LogAudio: Display: Audio Device (ID: 35) registered with world 'PruebasMauri'.
+[2024.11.29-19.01.17:425][516]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2024.11.29-19.01.17:428][516]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-19.01.17:446][516]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-16.01.17
+[2024.11.29-19.01.17:446][516]LogWorld: Bringing up level for play took: 0.018673
+[2024.11.29-19.01.17:448][516]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2024.11.29-19.01.17:451][516]PIE: Server logged in
+[2024.11.29-19.01.17:451][516]PIE: Play in editor total start time 0.135 seconds.
+[2024.11.29-19.01.17:515][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.17:516][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.17:516][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.17:517][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.17:517][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.17:517][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.17:518][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.22:568][122]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.22:789][149]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.11.29-19.01.22:789][149]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.11.29-19.01.22:789][149]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.11.29-19.01.26:090][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.01.26:456][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.01.26:456][589]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.11.29-19.01.26:456][589]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.11.29-19.01.28:048][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.01.28:207][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.01.30:999][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.01.31:595][205]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.34:324][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.01.34:908][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.01.35:224][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.01.35:224][637]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.01.35:225][637]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-19.01.35:227][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.01.35:232][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-19.01.35:236][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.01.35:257][637]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-19.01.35:259][637]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2024.11.29-19.01.35:259][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.11.29-19.01.35:261][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.11.29-19.01.35:264][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.01.35:270][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.11.29-19.01.35:300][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.35:301][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.35:301][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.35:301][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.35:302][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.35:302][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.35:302][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.35:318][638]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2024.11.29-19.01.38:206][903]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.38:207][903]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.38:207][903]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.38:208][903]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.38:208][903]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.38:209][903]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.51:070][392]BlueprintLog: New page: Compile BP_FinalLuz
+[2024.11.29-19.01.51:111][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.29-19.01.52:498][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.58:718][206]Cmd: TRANSACTION UNDO
+[2024.11.29-19.01.58:718][206]LogEditorTransaction: Undo Move Elements
+[2024.11.29-19.01.58:788][206]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.58:789][206]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.58:789][206]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.58:790][206]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.58:790][206]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.58:790][206]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.01.58:791][206]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.44:877][897]BlueprintLog: New page: Compile BP_FinalLuz
+[2024.11.29-19.05.44:917][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.11.29-19.05.45:213][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.47:029][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.47:029][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.47:030][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.47:030][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.47:030][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.47:031][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.47:742][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-19.05.47:742][193]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 1:05:47 PM)
+[2024.11.29-19.05.47:742][193]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.05.47:789][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047733s)
+[2024.11.29-19.05.47:789][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.047789s)
+[2024.11.29-19.05.47:789][193]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-19.05.47:789][193]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-19.05.47:790][193]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-19.05.47:791][193]LogPlayLevel: PIE: World Init took: (0.001377s)
+[2024.11.29-19.05.47:811][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.11.29-19.05.47:814][193]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2024.11.29-19.05.47:814][193]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-19.05.47:814][193]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-19.05.47:814][193]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-19.05.47:814][193]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-19.05.47:814][193]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-19.05.47:814][193]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-19.05.47:814][193]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-19.05.47:814][193]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-19.05.47:815][193]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-19.05.47:815][193]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-19.05.47:815][193]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-19.05.47:816][193]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-19.05.47:840][193]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-19.05.47:841][193]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-19.05.47:841][193]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-19.05.47:841][193]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-19.05.47:841][193]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2024.11.29-19.05.47:841][193]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2024.11.29-19.05.47:843][193]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2024.11.29-19.05.47:843][193]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2024.11.29-19.05.47:843][193]LogInit: FAudioDevice initialized with ID 36.
+[2024.11.29-19.05.47:843][193]LogAudio: Display: Audio Device (ID: 36) registered with world 'PruebasMauri'.
+[2024.11.29-19.05.47:843][193]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2024.11.29-19.05.47:846][193]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-19.05.47:866][193]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-16.05.47
+[2024.11.29-19.05.47:867][193]LogWorld: Bringing up level for play took: 0.020208
+[2024.11.29-19.05.47:869][193]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2024.11.29-19.05.47:872][193]PIE: Server logged in
+[2024.11.29-19.05.47:872][193]PIE: Play in editor total start time 0.132 seconds.
+[2024.11.29-19.05.47:932][193]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.47:934][193]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.47:934][193]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.47:935][193]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.47:935][193]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.47:935][193]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.47:936][193]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.49:034][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.05.49:034][322]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.05.49:035][322]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-19.05.49:037][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.05.49:041][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-19.05.49:045][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.05.49:067][322]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-19.05.49:067][322]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2024.11.29-19.05.49:067][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.11.29-19.05.49:069][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.11.29-19.05.49:074][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.05.49:079][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.11.29-19.05.49:252][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.49:252][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.49:252][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.49:254][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.49:254][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.49:254][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.49:255][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.49:274][323]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2024.11.29-19.05.53:229][787]BlueprintLog: New page: Compile BP_FinalLuz
+[2024.11.29-19.05.53:269][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.11.29-19.05.55:704][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-19.05.55:704][  5]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 1:05:55 PM)
+[2024.11.29-19.05.55:704][  5]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.05.55:750][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044693s)
+[2024.11.29-19.05.55:750][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.044737s)
+[2024.11.29-19.05.55:750][  5]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-19.05.55:750][  5]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-19.05.55:750][  5]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-19.05.55:751][  5]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2024.11.29-19.05.55:771][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.11.29-19.05.55:772][  5]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2024.11.29-19.05.55:772][  5]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-19.05.55:772][  5]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-19.05.55:772][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-19.05.55:772][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-19.05.55:772][  5]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-19.05.55:772][  5]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-19.05.55:772][  5]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-19.05.55:772][  5]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-19.05.55:774][  5]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-19.05.55:774][  5]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-19.05.55:774][  5]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-19.05.55:775][  5]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-19.05.55:799][  5]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-19.05.55:799][  5]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-19.05.55:799][  5]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-19.05.55:799][  5]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-19.05.55:799][  5]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2024.11.29-19.05.55:799][  5]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2024.11.29-19.05.55:801][  5]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2024.11.29-19.05.55:801][  5]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2024.11.29-19.05.55:801][  5]LogInit: FAudioDevice initialized with ID 37.
+[2024.11.29-19.05.55:801][  5]LogAudio: Display: Audio Device (ID: 37) registered with world 'PruebasMauri'.
+[2024.11.29-19.05.55:801][  5]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2024.11.29-19.05.55:804][  5]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-19.05.55:824][  5]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-16.05.55
+[2024.11.29-19.05.55:824][  5]LogWorld: Bringing up level for play took: 0.019390
+[2024.11.29-19.05.55:826][  5]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2024.11.29-19.05.55:829][  5]PIE: Server logged in
+[2024.11.29-19.05.55:830][  5]PIE: Play in editor total start time 0.127 seconds.
+[2024.11.29-19.05.55:895][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.55:895][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.55:896][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.55:896][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.55:896][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.55:897][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.55:897][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.57:635][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.05.57:635][200]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.05.57:635][200]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-19.05.57:637][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.05.57:641][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-19.05.57:645][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.05.57:667][200]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-19.05.57:667][200]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2024.11.29-19.05.57:667][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.11.29-19.05.57:669][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.11.29-19.05.57:673][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.05.57:680][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.11.29-19.05.57:720][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.57:720][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.57:720][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.57:721][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.57:721][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.57:721][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.57:722][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.05.57:740][201]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2024.11.29-19.06.14:815][ 73]BlueprintLog: New page: Compile BP_FinalLuz
+[2024.11.29-19.06.14:852][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.11.29-19.06.17:640][393]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.17:640][393]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.17:641][393]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.17:641][393]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.17:641][393]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.17:642][393]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.19:172][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.19:172][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.19:174][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.19:174][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.19:175][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.19:175][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.27:982][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.27:983][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.27:984][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.27:984][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.27:984][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.27:984][486]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.28:528][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-19.06.28:528][526]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 1:06:28 PM)
+[2024.11.29-19.06.28:528][526]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.06.28:575][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047229s)
+[2024.11.29-19.06.28:575][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.047280s)
+[2024.11.29-19.06.28:575][526]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-19.06.28:575][526]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-19.06.28:575][526]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-19.06.28:576][526]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2024.11.29-19.06.28:597][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.11.29-19.06.28:600][526]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2024.11.29-19.06.28:600][526]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-19.06.28:600][526]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-19.06.28:600][526]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-19.06.28:600][526]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-19.06.28:600][526]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-19.06.28:600][526]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-19.06.28:600][526]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-19.06.28:600][526]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-19.06.28:600][526]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-19.06.28:600][526]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-19.06.28:600][526]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-19.06.28:602][526]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-19.06.28:623][526]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-19.06.28:623][526]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-19.06.28:623][526]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-19.06.28:623][526]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-19.06.28:624][526]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2024.11.29-19.06.28:624][526]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2024.11.29-19.06.28:625][526]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2024.11.29-19.06.28:625][526]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2024.11.29-19.06.28:625][526]LogInit: FAudioDevice initialized with ID 38.
+[2024.11.29-19.06.28:625][526]LogAudio: Display: Audio Device (ID: 38) registered with world 'PruebasMauri'.
+[2024.11.29-19.06.28:625][526]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2024.11.29-19.06.28:629][526]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-19.06.28:647][526]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-16.06.28
+[2024.11.29-19.06.28:647][526]LogWorld: Bringing up level for play took: 0.018256
+[2024.11.29-19.06.28:649][526]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2024.11.29-19.06.28:652][526]PIE: Server logged in
+[2024.11.29-19.06.28:652][526]PIE: Play in editor total start time 0.126 seconds.
+[2024.11.29-19.06.28:715][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.28:715][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.28:715][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.28:716][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.28:716][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.28:716][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.28:717][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.31:614][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.06.31:614][864]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.06.31:615][864]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-19.06.31:616][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.06.31:620][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-19.06.31:625][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.06.31:646][864]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-19.06.31:647][864]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2024.11.29-19.06.31:647][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.11.29-19.06.31:648][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.11.29-19.06.31:652][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.06.31:657][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.11.29-19.06.31:688][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.31:688][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.31:689][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.31:689][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.31:689][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.31:690][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.31:690][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.31:708][865]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2024.11.29-19.06.34:037][ 69]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.34:037][ 69]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.34:037][ 69]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.34:039][ 69]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.34:039][ 69]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.34:039][ 69]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.35:855][258]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.35:856][258]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.35:856][258]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.35:856][258]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.35:857][258]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.35:857][258]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.43:376][ 32]Cmd: TRANSACTION UNDO
+[2024.11.29-19.06.43:376][ 32]LogEditorTransaction: Undo Move Elements
+[2024.11.29-19.06.43:469][ 32]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.43:469][ 32]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.43:470][ 32]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.43:470][ 32]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.43:470][ 32]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.43:471][ 32]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.06.43:472][ 32]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.00:911][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.00:912][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.00:912][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.00:912][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.00:913][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.00:913][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.01:466][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-19.07.01:467][617]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 1:07:01 PM)
+[2024.11.29-19.07.01:467][617]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.07.01:510][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044065s)
+[2024.11.29-19.07.01:510][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.044108s)
+[2024.11.29-19.07.01:510][617]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-19.07.01:510][617]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-19.07.01:511][617]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-19.07.01:511][617]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2024.11.29-19.07.01:531][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.11.29-19.07.01:534][617]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2024.11.29-19.07.01:534][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-19.07.01:534][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-19.07.01:534][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-19.07.01:534][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-19.07.01:534][617]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-19.07.01:534][617]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-19.07.01:534][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-19.07.01:534][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-19.07.01:534][617]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-19.07.01:534][617]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-19.07.01:534][617]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-19.07.01:536][617]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-19.07.01:558][617]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-19.07.01:558][617]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-19.07.01:558][617]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-19.07.01:558][617]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-19.07.01:558][617]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2024.11.29-19.07.01:558][617]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2024.11.29-19.07.01:560][617]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2024.11.29-19.07.01:560][617]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2024.11.29-19.07.01:560][617]LogInit: FAudioDevice initialized with ID 39.
+[2024.11.29-19.07.01:560][617]LogAudio: Display: Audio Device (ID: 39) registered with world 'PruebasMauri'.
+[2024.11.29-19.07.01:560][617]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2024.11.29-19.07.01:564][617]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-19.07.01:582][617]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-16.07.01
+[2024.11.29-19.07.01:582][617]LogWorld: Bringing up level for play took: 0.018052
+[2024.11.29-19.07.01:585][617]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2024.11.29-19.07.01:587][617]PIE: Server logged in
+[2024.11.29-19.07.01:588][617]PIE: Play in editor total start time 0.122 seconds.
+[2024.11.29-19.07.01:649][617]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.01:650][617]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.01:650][617]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.01:650][617]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.01:651][617]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.01:651][617]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.01:652][617]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.02:672][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.07.02:672][740]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.11.29-19.07.04:841][  0]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.11.29-19.07.04:841][  0]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.11.29-19.07.04:841][  0]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.11.29-19.07.08:085][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.07.09:136][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.07.09:136][515]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.11.29-19.07.09:136][515]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.11.29-19.07.11:749][827]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.11.29-19.07.11:749][827]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.11.29-19.07.18:575][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.07.20:834][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.07.20:834][917]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.11.29-19.07.20:834][917]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.11.29-19.07.21:084][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.07.21:396][984]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.25:201][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.07.25:642][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.07.26:114][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.07.26:114][546]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.07.26:115][546]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-19.07.26:117][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.07.26:121][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-19.07.26:126][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.07.26:147][546]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-19.07.26:147][546]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2024.11.29-19.07.26:147][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.11.29-19.07.26:148][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.11.29-19.07.26:152][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.07.26:159][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.11.29-19.07.26:200][546]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.26:200][546]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.26:201][546]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.26:201][546]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.26:201][546]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.26:202][546]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.26:202][546]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.26:217][547]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2024.11.29-19.07.28:638][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.28:639][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.28:639][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.28:639][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.28:640][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.07.28:640][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.00:653][154]BlueprintLog: New page: Compile BP_FinalLuz
+[2024.11.29-19.08.00:699][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.11.29-19.08.00:900][167]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.13:563][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.13:563][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.13:563][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.13:564][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.13:564][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.13:564][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.14:869][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-19.08.14:869][598]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 1:08:14 PM)
+[2024.11.29-19.08.14:869][598]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.08.14:912][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043180s)
+[2024.11.29-19.08.14:912][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.043223s)
+[2024.11.29-19.08.14:912][598]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-19.08.14:912][598]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-19.08.14:913][598]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-19.08.14:913][598]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2024.11.29-19.08.14:934][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.11.29-19.08.14:937][598]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2024.11.29-19.08.14:938][598]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-19.08.14:938][598]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-19.08.14:938][598]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-19.08.14:938][598]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-19.08.14:938][598]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-19.08.14:938][598]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-19.08.14:938][598]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-19.08.14:938][598]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-19.08.14:938][598]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-19.08.14:938][598]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-19.08.14:938][598]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-19.08.14:940][598]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-19.08.14:963][598]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-19.08.14:964][598]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-19.08.14:964][598]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-19.08.14:964][598]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-19.08.14:964][598]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2024.11.29-19.08.14:964][598]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2024.11.29-19.08.14:966][598]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2024.11.29-19.08.14:966][598]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2024.11.29-19.08.14:966][598]LogInit: FAudioDevice initialized with ID 40.
+[2024.11.29-19.08.14:966][598]LogAudio: Display: Audio Device (ID: 40) registered with world 'PruebasMauri'.
+[2024.11.29-19.08.14:966][598]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2024.11.29-19.08.14:969][598]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-19.08.14:988][598]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-16.08.14
+[2024.11.29-19.08.14:988][598]LogWorld: Bringing up level for play took: 0.018634
+[2024.11.29-19.08.14:990][598]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2024.11.29-19.08.14:993][598]PIE: Server logged in
+[2024.11.29-19.08.14:993][598]PIE: Play in editor total start time 0.125 seconds.
+[2024.11.29-19.08.15:057][598]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.15:057][598]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.15:057][598]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.15:058][598]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.15:058][598]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.15:058][598]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.15:059][598]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.18:314][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.08.18:314][984]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.08.18:315][984]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-19.08.18:317][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.08.18:320][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-19.08.18:326][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.08.18:347][984]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-19.08.18:347][984]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2024.11.29-19.08.18:348][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.11.29-19.08.18:349][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.11.29-19.08.18:353][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.08.18:358][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.11.29-19.08.18:387][984]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.18:387][984]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.18:388][984]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.18:388][984]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.18:388][984]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.18:389][984]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.18:389][984]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.08.18:406][985]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2024.11.29-19.09.12:666][153]BlueprintLog: New page: Compile BP_FinalLuz
+[2024.11.29-19.09.12:706][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.11.29-19.09.14:995][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-19.09.14:995][387]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 1:09:14 PM)
+[2024.11.29-19.09.14:995][387]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.09.15:039][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044670s)
+[2024.11.29-19.09.15:040][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.044712s)
+[2024.11.29-19.09.15:040][387]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-19.09.15:040][387]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-19.09.15:040][387]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-19.09.15:041][387]LogPlayLevel: PIE: World Init took: (0.001274s)
+[2024.11.29-19.09.15:060][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.11.29-19.09.15:062][387]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2024.11.29-19.09.15:062][387]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-19.09.15:062][387]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-19.09.15:062][387]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-19.09.15:062][387]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-19.09.15:062][387]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-19.09.15:062][387]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-19.09.15:062][387]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-19.09.15:062][387]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-19.09.15:062][387]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-19.09.15:062][387]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-19.09.15:062][387]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-19.09.15:065][387]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-19.09.15:087][387]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-19.09.15:087][387]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-19.09.15:087][387]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-19.09.15:087][387]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-19.09.15:088][387]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2024.11.29-19.09.15:088][387]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2024.11.29-19.09.15:089][387]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2024.11.29-19.09.15:089][387]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2024.11.29-19.09.15:089][387]LogInit: FAudioDevice initialized with ID 41.
+[2024.11.29-19.09.15:089][387]LogAudio: Display: Audio Device (ID: 41) registered with world 'PruebasMauri'.
+[2024.11.29-19.09.15:089][387]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2024.11.29-19.09.15:094][387]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-19.09.15:112][387]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-16.09.15
+[2024.11.29-19.09.15:114][387]LogWorld: Bringing up level for play took: 0.019959
+[2024.11.29-19.09.15:116][387]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2024.11.29-19.09.15:118][387]PIE: Server logged in
+[2024.11.29-19.09.15:119][387]PIE: Play in editor total start time 0.125 seconds.
+[2024.11.29-19.09.15:180][387]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.09.15:181][387]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.09.15:181][387]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.09.15:182][387]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.09.15:182][387]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.09.15:182][387]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.09.15:183][387]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.09.21:359][128]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.09.21:873][190]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.11.29-19.09.21:873][190]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.11.29-19.09.21:873][190]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.11.29-19.09.24:665][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.09.25:015][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.09.25:015][567]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.11.29-19.09.25:015][567]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.11.29-19.09.26:465][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.09.26:631][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.09.29:401][ 93]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.11.29-19.09.29:401][ 93]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.11.29-19.09.32:194][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.09.33:977][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.09.33:977][642]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.11.29-19.09.33:977][642]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.11.29-19.09.34:152][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.09.34:406][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.09.39:861][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.09.40:235][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.09.42:786][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.09.42:936][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.09.49:014][446]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.11.29-19.09.49:014][446]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.11.29-19.09.51:698][768]Cmd: quit
+[2024.11.29-19.09.51:699][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.09.51:699][768]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.09.51:745][768]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-19.09.51:747][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.09.51:751][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-19.09.51:754][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.09.51:776][768]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-19.09.51:777][768]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2024.11.29-19.09.51:777][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.11.29-19.09.51:778][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.11.29-19.09.51:782][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.09.51:788][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.11.29-19.09.51:886][768]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.09.51:886][768]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.09.51:886][768]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.09.51:887][768]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.09.51:887][768]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.09.51:887][768]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.09.51:888][768]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.09.51:905][769]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2024.11.29-19.09.59:142][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.11.29-19.09.59:164][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.11.29-19.10.00:043][529]LogSlate: Window 'Save Content' being destroyed
+[2024.11.29-19.10.00:054][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.29-19.10.00:134][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.11.29-19.10.00:269][529]LogSavePackage: Moving output files for package: /Game/Maps/PruebasMauri
+[2024.11.29-19.10.00:270][529]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasMauri849887CB4EF089A8BF643DA6EB9349BF.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasMauri.umap'
+[2024.11.29-19.10.00:281][529]LogFileHelpers: Saving map 'PruebasMauri' took 0.172
+[2024.11.29-19.10.00:292][529]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz
+[2024.11.29-19.10.00:292][529]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/BP_FinalLuzFFEC2D11445407C88D80078E97D5997B.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz.uasset'
+[2024.11.29-19.10.00:311][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 257 ms (total: 890 ms)
+[2024.11.29-19.10.00:319][529]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.29-19.10.00:320][529]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
+[2024.11.29-19.10.00:320][529]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/LuzFinal/BP_FinalLuz.BP_FinalLuz
+[2024.11.29-19.10.06:168][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.10.06:169][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.10.06:169][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.10.06:169][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.10.06:170][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.10.06:170][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.10.06:171][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.10.16:677][321]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.10.16:718][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.10.16:736][328]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.10.16:753][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.10.16:754][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.10.16:761][331]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.10.16:777][333]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.10.16:802][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.10.25:285][302]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.29-19.10.25:420][308]LogShaderCompilers: Display: ================================================
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: Total job queries 924, among them cache hits 0 (0.00%)
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: Tracking 924 distinct input hashes that result in 41 distinct outputs (4.44%)
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: RAM used: 17.49 MiB of 819.20 MiB budget. Usage: 2.13%
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: Shaders Compiled: 48
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: Jobs assigned 48, completed 48 (100.00%)
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: Average time worker was idle: 0.01 s
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: Time job spent in pending queue: average 2.23 s, longest 4.50 s
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: Job execution time: average 0.72 s, max 1.34 s
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: Job life time (pending + execution): average 2.95 s, max 4.87
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.99 s
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: Jobs were issued in 48 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: Average processing rate: 9.62 jobs/sec
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: Total thread time: 20.516 s
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: Total thread preprocess time: 0.907 s
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: Percentage time preprocessing: 4.42%
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: Effective parallelization: 4.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.69 sec, max 0.77 sec, min 0.60 sec)
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    7 times, average 0.57 sec, max 0.66 sec, min 0.44 sec)
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    7 times, average 0.50 sec, max 0.57 sec, min 0.44 sec)
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    7 times, average 0.46 sec, max 0.55 sec, min 0.42 sec)
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    7 times, average 0.38 sec, max 0.42 sec, min 0.35 sec)
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.61% of total time (compiled    7 times, average 0.69 sec, max 0.77 sec, min 0.60 sec)
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.33% of total time (compiled    7 times, average 0.57 sec, max 0.66 sec, min 0.44 sec)
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display:                                                  FHitProxyVS - 17.06% of total time (compiled    7 times, average 0.50 sec, max 0.57 sec, min 0.44 sec)
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.53% of total time (compiled    7 times, average 0.46 sec, max 0.55 sec, min 0.42 sec)
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.90% of total time (compiled    7 times, average 0.38 sec, max 0.42 sec, min 0.35 sec)
+[2024.11.29-19.10.25:421][308]LogShaderCompilers: Display: ================================================
+[2024.11.29-19.11.02:370][841]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.29-19.11.02:376][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-19.11.02:376][841]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 1:11:02 PM)
+[2024.11.29-19.11.02:376][841]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.11.02:420][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043304s)
+[2024.11.29-19.11.02:420][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.043341s)
+[2024.11.29-19.11.02:420][841]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-19.11.02:420][841]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-19.11.02:420][841]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-19.11.02:421][841]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2024.11.29-19.11.02:441][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.11.29-19.11.02:444][841]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2024.11.29-19.11.02:445][841]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-19.11.02:445][841]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-19.11.02:445][841]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-19.11.02:445][841]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-19.11.02:445][841]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-19.11.02:445][841]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-19.11.02:445][841]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-19.11.02:445][841]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-19.11.02:445][841]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-19.11.02:445][841]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-19.11.02:445][841]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-19.11.02:448][841]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-19.11.02:470][841]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-19.11.02:471][841]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-19.11.02:471][841]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-19.11.02:471][841]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-19.11.02:471][841]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2024.11.29-19.11.02:471][841]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2024.11.29-19.11.02:473][841]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2024.11.29-19.11.02:473][841]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2024.11.29-19.11.02:473][841]LogInit: FAudioDevice initialized with ID 42.
+[2024.11.29-19.11.02:473][841]LogAudio: Display: Audio Device (ID: 42) registered with world 'PruebasMauri'.
+[2024.11.29-19.11.02:473][841]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2024.11.29-19.11.02:476][841]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-19.11.02:496][841]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-16.11.02
+[2024.11.29-19.11.02:496][841]LogWorld: Bringing up level for play took: 0.019489
+[2024.11.29-19.11.02:498][841]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2024.11.29-19.11.02:501][841]PIE: Server logged in
+[2024.11.29-19.11.02:502][841]PIE: Play in editor total start time 0.126 seconds.
+[2024.11.29-19.11.02:562][841]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.11.02:564][841]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.11.02:564][841]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.11.05:891][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.05:891][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.08:464][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.08:614][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.08:622][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.11:607][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.12:698][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.12:832][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.12:865][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.13:966][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.13:966][198]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.11.29-19.11.15:465][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.16:149][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.16:157][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.16:166][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.16:332][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.25:067][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.35:035][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.41:264][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.42:790][656]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.11.29-19.11.42:790][656]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.11.29-19.11.42:790][656]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.11.29-19.11.45:459][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.47:891][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.47:891][268]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.11.29-19.11.47:891][268]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.11.29-19.11.48:108][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.48:225][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.11.53:226][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.12.22:412][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.12.27:532][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.12.27:723][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.12.27:816][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.12.38:211][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.12.38:361][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.12.44:613][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.12.46:337][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.12.47:155][375]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.11.29-19.12.47:155][375]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.11.29-19.12.51:705][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.12.52:622][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.12.52:622][ 31]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.11.29-19.12.52:622][ 31]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.11.29-19.12.55:222][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.12.55:512][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.12.59:231][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.12.59:241][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.12.59:315][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.12.59:456][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.13.00:998][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.13.01:215][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.13.01:306][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.13.06:076][645]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.11.29-19.13.06:076][645]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.11.29-19.13.07:267][788]Cmd: quit
+[2024.11.29-19.13.07:269][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.13.07:269][788]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.13.07:315][788]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-19.13.07:317][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.13.07:321][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-19.13.07:326][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.13.07:352][788]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-19.13.07:352][788]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2024.11.29-19.13.07:352][788]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.11.29-19.13.07:354][788]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.11.29-19.13.07:359][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.13.07:366][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.11.29-19.13.07:405][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.13.07:405][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.13.07:406][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.13.07:449][789]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2024.11.29-19.13.18:403][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-19.13.19:520][122]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/PruebasMauri.PruebasMauri:PersistentLevel.PruebasMauri
+[2024.11.29-19.13.19:523][122]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-19.13.19:523][122]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-19.15.19:974][593]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\matul\Downloads\kids-fight.wav)
+[2024.11.29-19.15.19:999][593]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave kids-fight...
+[2024.11.29-19.15.20:252][593]LogAudio: Display: Chunk size for SoundWave /Game/FirstPerson/Blueprints/Sonidos/kids-fight.kids-fight: 262144
+[2024.11.29-19.15.20:258][593]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave kids-fight...
+[2024.11.29-19.15.20:528][595]LogAudio: Display: Chunk size for SoundWave /Game/FirstPerson/Blueprints/Sonidos/kids-fight.kids-fight: 262144
+[2024.11.29-19.15.59:796][826]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FirstPerson/Blueprints/Sonidos/kids-fight.kids-fight
+[2024.11.29-19.18.41:871][899]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\matul\Downloads\pibitosHinchabolas.wav)
+[2024.11.29-19.18.51:890][899]LogSlate: Window 'Message' being destroyed
+[2024.11.29-19.18.51:898][899]Message dialog closed, result: No, title: Message, text: Use the selected Sound Wave 'kids-fight' in the Content Browser as a template for sound(s) being imported?
+[2024.11.29-19.18.51:904][899]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave pibitosHinchabolas...
+[2024.11.29-19.18.51:976][899]LogAudio: Display: Chunk size for SoundWave /Game/FirstPerson/Blueprints/Sonidos/pibitosHinchabolas.pibitosHinchabolas: 262144
+[2024.11.29-19.18.51:978][899]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave pibitosHinchabolas...
+[2024.11.29-19.18.52:061][907]LogAudio: Display: Chunk size for SoundWave /Game/FirstPerson/Blueprints/Sonidos/pibitosHinchabolas.pibitosHinchabolas: 262144
+[2024.11.29-19.18.55:113][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.11.29-19.18.56:145][263]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.29-19.18.56:176][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.11.29-19.18.56:196][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.11.29-19.18.56:215][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.11.29-19.19.00:708][449]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\matul\Downloads\pibitosHinchabolas.wav)
+[2024.11.29-19.19.00:714][449]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave pibitosHinchabolas...
+[2024.11.29-19.19.00:783][449]LogAudio: Display: Chunk size for SoundWave /Game/FirstPerson/Blueprints/Sonidos/pibitosHinchabolas.pibitosHinchabolas: 262144
+[2024.11.29-19.19.00:784][449]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave pibitosHinchabolas...
+[2024.11.29-19.19.00:852][450]LogAudio: Display: Chunk size for SoundWave /Game/FirstPerson/Blueprints/Sonidos/pibitosHinchabolas.pibitosHinchabolas: 262144
+[2024.11.29-19.19.11:825][551]BlueprintLog: New page: Compile PruebasMauri
+[2024.11.29-19.19.11:898][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.11.29-19.19.18:239][285]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.29-19.19.18:248][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-19.19.18:248][285]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 1:19:18 PM)
+[2024.11.29-19.19.18:248][285]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.19.18:294][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045364s)
+[2024.11.29-19.19.18:294][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.045414s)
+[2024.11.29-19.19.18:294][285]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-19.19.18:294][285]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-19.19.18:294][285]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-19.19.18:294][285]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2024.11.29-19.19.18:315][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.11.29-19.19.18:317][285]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2024.11.29-19.19.18:317][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-19.19.18:317][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-19.19.18:317][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-19.19.18:317][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-19.19.18:317][285]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-19.19.18:317][285]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-19.19.18:317][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-19.19.18:317][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-19.19.18:317][285]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-19.19.18:317][285]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-19.19.18:317][285]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-19.19.18:319][285]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-19.19.18:342][285]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-19.19.18:342][285]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-19.19.18:342][285]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-19.19.18:342][285]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-19.19.18:344][285]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2024.11.29-19.19.18:344][285]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2024.11.29-19.19.18:346][285]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2024.11.29-19.19.18:346][285]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2024.11.29-19.19.18:346][285]LogInit: FAudioDevice initialized with ID 43.
+[2024.11.29-19.19.18:346][285]LogAudio: Display: Audio Device (ID: 43) registered with world 'PruebasMauri'.
+[2024.11.29-19.19.18:346][285]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2024.11.29-19.19.18:349][285]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-19.19.18:368][285]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-16.19.18
+[2024.11.29-19.19.18:368][285]LogWorld: Bringing up level for play took: 0.019363
+[2024.11.29-19.19.18:371][285]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2024.11.29-19.19.18:374][285]PIE: Server logged in
+[2024.11.29-19.19.18:374][285]PIE: Play in editor total start time 0.129 seconds.
+[2024.11.29-19.19.18:436][285]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.19.18:437][285]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.19.18:437][285]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.19.19:675][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.19.19:675][429]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.19.19:675][429]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-19.19.19:677][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.19.19:681][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-19.19.19:686][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.19.19:707][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.19.19:708][429]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2024.11.29-19.19.19:709][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.11.29-19.19.19:711][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.11.29-19.19.19:722][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.11.29-19.19.19:843][429]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.19.19:844][429]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.19.19:844][429]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.19.19:860][430]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2024.11.29-19.19.22:880][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.29-19.19.22:880][687]PIE: New page: PIE session: PruebasMauri (Nov 29, 2024, 1:19:22 PM)
+[2024.11.29-19.19.22:880][687]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.19.22:925][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044807s)
+[2024.11.29-19.19.22:925][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PruebasMauri.PruebasMauri to /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri (0.044849s)
+[2024.11.29-19.19.22:925][687]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-19.19.22:925][687]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-19.19.22:925][687]LogAIModule: Creating AISystem for world PruebasMauri
+[2024.11.29-19.19.22:926][687]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2024.11.29-19.19.22:946][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.11.29-19.19.22:948][687]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2024.11.29-19.19.22:948][687]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.29-19.19.22:948][687]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.29-19.19.22:948][687]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.29-19.19.22:948][687]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.29-19.19.22:948][687]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.29-19.19.22:948][687]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.11.29-19.19.22:948][687]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.29-19.19.22:948][687]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.29-19.19.22:948][687]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.29-19.19.22:948][687]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.29-19.19.22:948][687]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.29-19.19.22:950][687]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.29-19.19.22:972][687]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.11.29-19.19.22:972][687]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.29-19.19.22:972][687]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.29-19.19.22:972][687]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.29-19.19.22:972][687]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2024.11.29-19.19.22:972][687]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2024.11.29-19.19.22:975][687]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2024.11.29-19.19.22:975][687]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2024.11.29-19.19.22:975][687]LogInit: FAudioDevice initialized with ID 44.
+[2024.11.29-19.19.22:975][687]LogAudio: Display: Audio Device (ID: 44) registered with world 'PruebasMauri'.
+[2024.11.29-19.19.22:975][687]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2024.11.29-19.19.22:978][687]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.29-19.19.22:996][687]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PruebasMauri.PruebasMauri up for play (max tick rate 0) at 2024.11.29-16.19.22
+[2024.11.29-19.19.22:997][687]LogWorld: Bringing up level for play took: 0.018264
+[2024.11.29-19.19.22:999][687]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2024.11.29-19.19.23:002][687]PIE: Server logged in
+[2024.11.29-19.19.23:003][687]PIE: Play in editor total start time 0.123 seconds.
+[2024.11.29-19.19.23:177][687]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.19.23:178][687]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.19.23:178][687]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.19.44:486][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.19.44:486][208]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PruebasMauri
+[2024.11.29-19.19.44:486][208]LogWorld: UWorld::CleanupWorld for PruebasMauri, bSessionEnded=true, bCleanupResources=true
+[2024.11.29-19.19.44:488][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.19.44:492][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.29-19.19.44:497][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.29-19.19.44:518][208]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.29-19.19.44:518][208]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2024.11.29-19.19.44:518][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.11.29-19.19.44:520][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.11.29-19.19.44:524][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.29-19.19.44:530][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.11.29-19.19.44:558][208]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.19.44:558][208]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.19.44:559][208]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.11.29-19.19.44:576][209]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2024.11.29-19.19.47:604][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.11.29-19.19.47:628][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.11.29-19.19.48:525][557]LogSlate: Window 'Save Content' being destroyed
+[2024.11.29-19.19.48:539][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.29-19.19.48:608][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.11.29-19.19.48:724][557]LogSavePackage: Moving output files for package: /Game/Maps/PruebasMauri
+[2024.11.29-19.19.48:725][557]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasMauri82D82CEB4EF309C1C7F176847BFD02DD.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasMauri.umap'
+[2024.11.29-19.19.48:734][557]LogFileHelpers: Saving map 'PruebasMauri' took 0.146
+[2024.11.29-19.19.48:782][557]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Sonidos/kids-fight
+[2024.11.29-19.19.48:782][557]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/kids-fight14519A304817A9658E7E7EA01B91A073.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Sonidos/kids-fight.uasset'
+[2024.11.29-19.19.48:800][557]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/Sonidos/pibitosHinchabolas
+[2024.11.29-19.19.48:800][557]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/pibitosHinchabolasAA25B75643DE3772D4144197BD8C98D0.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/FirstPerson/Blueprints/Sonidos/pibitosHinchabolas.uasset'
+[2024.11.29-19.19.48:829][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 291 ms (total: 1.18 sec)
+[2024.11.29-19.19.48:835][557]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.29-19.19.48:835][557]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
+[2024.11.29-19.19.48:835][557]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/FirstPerson/Blueprints/Sonidos/kids-fight.kids-fight
+[2024.11.29-19.19.48:835][557]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/FirstPerson/Blueprints/Sonidos/pibitosHinchabolas.pibitosHinchabolas
