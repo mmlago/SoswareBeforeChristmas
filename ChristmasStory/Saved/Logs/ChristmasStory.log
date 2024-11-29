@@ -8291,3 +8291,143 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.29-01.57.00:777][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 227 ms (total: 38.1 sec)
 [2024.11.29-01.57.00:787][453]AssetCheck: New page: Asset Save: PruebasMauri
 [2024.11.29-01.57.00:787][453]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
+[2024.11.29-02.00.03:638][281]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.11.29-02.00.03:651][281]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.11.29-02.00.03:665][282]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.11.29-02.00.08:122][720]LogContentBrowser: Attempting asset rename: NewMaterial -> M_pelea
+[2024.11.29-02.00.08:124][720]LogContentBrowser: End creating deferred item NewMaterial
+[2024.11.29-02.00.09:156][801]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/DibujosPared/M_pelea.M_pelea
+[2024.11.29-02.00.09:159][801]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.29-02.00.09:159][801]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.29-02.00.09:266][801]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.29-02.00.09:266][801]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.29-02.00.09:266][801]MaterialEditorStats: Shader Count: 0
+[2024.11.29-02.00.09:273][801]LogViewport: Scene viewport resized to 376x449, mode Windowed.
+[2024.11.29-02.00.09:304][802]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: ================================================
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: Total job queries 1,316, among them cache hits 118 (8.97%)
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: Tracking 1,191 distinct input hashes that result in 113 distinct outputs (9.49%)
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: RAM used: 24.03 MiB of 819.20 MiB budget. Usage: 2.93%
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: Shaders Compiled: 221
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: Jobs assigned 224, completed 221 (98.66%)
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: Average time worker was idle: 324.09 s
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: Time job spent in pending queue: average 0.43 s, longest 1.95 s
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: Job execution time: average 1.26 s, max 21.46 s
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: Job life time (pending + execution): average 1.69 s, max 23.30
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 64.75 s
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: Jobs were issued in 224 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: Average processing rate: 3.41 jobs/sec
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: Total thread time: 139.582 s
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: Total thread preprocess time: 9.088 s
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: Percentage time preprocessing: 6.51%
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: Effective parallelization: 2.16 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    5 times, average 0.85 sec, max 1.01 sec, min 0.78 sec)
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    5 times, average 0.84 sec, max 0.98 sec, min 0.79 sec)
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    5 times, average 0.84 sec, max 1.00 sec, min 0.76 sec)
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    5 times, average 0.84 sec, max 0.97 sec, min 0.75 sec)
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    5 times, average 0.83 sec, max 1.00 sec, min 0.76 sec)
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.45% of total time (compiled   24 times, average 0.78 sec, max 1.29 sec, min 0.50 sec)
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.12% of total time (compiled   22 times, average 0.64 sec, max 1.03 sec, min 0.48 sec)
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display:                                                FMeshDecalsVS - 5.49% of total time (compiled   17 times, average 0.45 sec, max 0.52 sec, min 0.39 sec)
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.30% of total time (compiled   12 times, average 0.62 sec, max 0.95 sec, min 0.54 sec)
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.52% of total time (compiled   13 times, average 0.49 sec, max 0.82 sec, min 0.38 sec)
+[2024.11.29-02.00.10:137][879]LogShaderCompilers: Display: ================================================
+[2024.11.29-02.00.10:447][911]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.11.29-02.00.10:447][911]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.11.29-02.00.10:447][911]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.29-02.00.10:447][911]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.29-02.00.10:447][911]MaterialEditorStats: Shader Count: 4
+[2024.11.29-02.00.10:585][923]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.29-02.00.10:585][923]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.29-02.00.10:585][923]MaterialEditorStats: Shader Count: 0
+[2024.11.29-02.00.10:632][925]MaterialEditorStats: Base pass shader: 222 instructions
+[2024.11.29-02.00.10:632][925]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2024.11.29-02.00.10:632][925]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.29-02.00.10:632][925]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.29-02.00.10:632][925]MaterialEditorStats: Shader Count: 4
+[2024.11.29-02.00.11:458][  8]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_pelea: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Material using the DeferredDecal domain can only use the BlendModes Translucent, AlphaComposite or Modulate
+
+[2024.11.29-02.00.11:464][  8]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_pelea: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Material using the DeferredDecal domain can only use the BlendModes Translucent, AlphaComposite or Modulate
+
+[2024.11.29-02.00.11:468][  8]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_pelea: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Material using the DeferredDecal domain can only use the BlendModes Translucent, AlphaComposite or Modulate
+
+[2024.11.29-02.00.11:479][  8]MaterialEditorStats: Error: [SM6] Material using the DeferredDecal domain can only use the BlendModes Translucent, AlphaComposite or Modulate
+[2024.11.29-02.00.12:297][100]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_pelea: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Material using the DeferredDecal domain can only use the BlendModes Translucent, AlphaComposite or Modulate
+
+[2024.11.29-02.00.13:178][190]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.29-02.00.13:179][190]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.29-02.00.13:179][190]MaterialEditorStats: Shader Count: 0
+[2024.11.29-02.00.17:492][608]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.29-02.00.17:492][608]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.29-02.00.17:492][608]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.29-02.00.17:492][608]MaterialEditorStats: Shader Count: 0
+[2024.11.29-02.00.17:969][654]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.29-02.00.17:971][654]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.29-02.00.17:971][654]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.29-02.00.17:971][654]MaterialEditorStats: Shader Count: 1
+[2024.11.29-02.00.18:928][745]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.29-02.00.18:928][745]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.29-02.00.18:928][745]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.29-02.00.18:928][745]MaterialEditorStats: Shader Count: 0
+[2024.11.29-02.00.19:369][788]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.29-02.00.19:369][788]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.29-02.00.19:369][788]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.29-02.00.19:369][788]MaterialEditorStats: Shader Count: 1
+[2024.11.29-02.00.19:969][854]LogMaterialEditor: Applying material M_pelea
+[2024.11.29-02.00.20:057][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.11.29-02.00.20:143][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.11.29-02.00.20:157][854]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.29-02.00.20:157][854]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.29-02.00.20:157][854]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.29-02.00.20:157][854]MaterialEditorStats: Shader Count: 0
+[2024.11.29-02.00.20:664][906]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.29-02.00.20:664][906]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.29-02.00.20:664][906]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.29-02.00.20:664][906]MaterialEditorStats: Shader Count: 1
+[2024.11.29-02.00.20:916][933]LogMaterialEditor: Saving and Compiling material M_pelea
+[2024.11.29-02.00.20:917][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.29-02.00.23:012][933]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.11.29-02.00.23:528][933]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004856s (0.521273s overbudget)
+[2024.11.29-02.00.23:538][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DibujosPared/M_pelea" FILE="C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/DibujosPared/M_pelea.uasset" SILENT=true
+[2024.11.29-02.00.23:539][933]LogSavePackage: Moving output files for package: /Game/DibujosPared/M_pelea
+[2024.11.29-02.00.23:540][933]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/M_pelea79BE480D43FEC377E40E19BAFDA9E17E.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/DibujosPared/M_pelea.uasset'
+[2024.11.29-02.00.23:553][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.63 sec (total: 40.8 sec)
+[2024.11.29-02.00.23:561][933]AssetCheck: New page: Asset Save: M_pelea
+[2024.11.29-02.00.23:561][933]LogContentValidation: Display: Validating /Script/Engine.Material /Game/DibujosPared/M_pelea.M_pelea
+[2024.11.29-02.00.23:563][933]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.11.29-02.00.23:563][933]MaterialEditorStats: Base pass vertex shader: 286 instructions
+[2024.11.29-02.00.23:563][933]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.29-02.00.23:563][933]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.29-02.00.23:563][933]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.29-02.00.23:563][933]MaterialEditorStats: Shader Count: 23
+[2024.11.29-02.00.23:571][934]LogAutomationController: Ignoring very large delta of 2.66 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.29-02.00.55:292][ 49]LogActorFactory: Actor Factory attempting to spawn Material /Game/DibujosPared/M_pelea.M_pelea
+[2024.11.29-02.00.55:292][ 49]LogActorFactory: Actor Factory attempting to spawn Material /Game/DibujosPared/M_pelea.M_pelea
+[2024.11.29-02.00.55:293][ 49]LogActorFactory: Actor Factory spawned Material /Game/DibujosPared/M_pelea.M_pelea as actor: DecalActor /Game/Maps/PruebasMauri.PruebasMauri:PersistentLevel.DecalActor_15
+[2024.11.29-02.00.55:293][ 49]LogActorFactory: Actor Factory spawned Material /Game/DibujosPared/M_pelea.M_pelea as actor: DecalActor /Game/Maps/PruebasMauri.PruebasMauri:PersistentLevel.DecalActor_15
+[2024.11.29-02.00.57:495][195]LogActorFactory: Actor Factory attempting to spawn Material /Game/DibujosPared/M_pelea.M_pelea
+[2024.11.29-02.00.57:495][195]LogActorFactory: Actor Factory attempting to spawn Material /Game/DibujosPared/M_pelea.M_pelea
+[2024.11.29-02.00.57:500][195]LogActorFactory: Actor Factory spawned Material /Game/DibujosPared/M_pelea.M_pelea as actor: DecalActor /Game/Maps/PruebasMauri.PruebasMauri:PersistentLevel.DecalActor_16
+[2024.11.29-02.00.57:500][195]LogActorFactory: Actor Factory spawned Material /Game/DibujosPared/M_pelea.M_pelea as actor: DecalActor /Game/Maps/PruebasMauri.PruebasMauri:PersistentLevel.DecalActor_16
+[2024.11.29-02.01.50:605][859]Cmd: TRANSACTION UNDO
+[2024.11.29-02.01.50:605][859]LogEditorTransaction: Undo Set Scale
+[2024.11.29-02.02.01:538][969]Cmd: SELECT NONE
+[2024.11.29-02.02.15:923][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.11.29-02.02.15:944][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.11.29-02.02.16:952][540]LogSlate: Window 'Save Content' being destroyed
+[2024.11.29-02.02.16:969][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.29-02.02.17:054][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.11.29-02.02.17:172][540]LogSavePackage: Moving output files for package: /Game/Maps/PruebasMauri
+[2024.11.29-02.02.17:172][540]LogSavePackage: Moving 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Saved/PruebasMauri5303F8CB4D1A66F13FBA0D94235B6948.tmp' to 'C:/Users/matul/Desktop/Clase 6/SoswareBeforeChristmas/ChristmasStory/Content/Maps/PruebasMauri.umap'
+[2024.11.29-02.02.17:182][540]LogFileHelpers: Saving map 'PruebasMauri' took 0.152
+[2024.11.29-02.02.17:194][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 224 ms (total: 41.0 sec)
+[2024.11.29-02.02.17:201][540]AssetCheck: New page: Asset Save: PruebasMauri
+[2024.11.29-02.02.17:202][540]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/PruebasMauri.PruebasMauri
